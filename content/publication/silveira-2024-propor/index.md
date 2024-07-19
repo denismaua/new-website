@@ -8,7 +8,7 @@ title: A New Benchmark for Automatic Essay Scoring in Portuguese
 authors:
 - Igor Cataneo Silveira
 - André Barbosa
-- Denis Deratani Mauá
+- admin
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -22,22 +22,22 @@ publishDate: '2024-02-05T14:12:20.689675Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- 1
-# - paper-conference
+- paper-conference
+# - 1
 
 # Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the 16th International Conference on Computational Processing
-  of Portuguese (PROPOR 2024), to appear in*'
+  of Portuguese (PROPOR 2024)*'
 publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: 'Automatic Essay Scoring promises to scale up student feedback of written input, considerably improving learning. Resources for Automatic Essay Scoring in Portuguese are however scarce, not publicly available or contain inaccuracies that degrade performance. Moreover, they lack data provenance and a richer  annotation and analysis. In this work we mitigate those issues  by presenting a new benchmark for the task in Brazilian Portuguese. We accomplish that by downloading a collection of publicly available essays from websites that simulate University Entrance Exams, making both processed and raw data available, having a subset of the essays graded by expert annotators to assess the quality and difficulty of the task, and carrying out an extensive empirical analysis of state-of-the-art predictors  considering multiple evaluation criteria.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags: [automatic essay evaluation,natural language processing]
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -53,9 +53,9 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL
+  url: https://aclanthology.org/2024.propor-1.23/
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
@@ -69,7 +69,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [neuroproblog]
+projects: 
+- neuroproblog
 ---
 
 

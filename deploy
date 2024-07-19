@@ -6,6 +6,8 @@ USER=ddm
 HOST=ime            
 DIR=www/   # the directory where your web site files should go
 
-hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
+# build website, build index, then sync with server
+hugo && npm_config_yes=true npx pagefind --site "public" --output-subdir ../static/pagefind && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
+
 
 exit 0

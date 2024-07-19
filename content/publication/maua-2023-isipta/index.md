@@ -6,7 +6,7 @@ title: Specifying credal sets with probabilistic answer set programming
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Denis Deratani Mauá
+- admin
 - Fabio Gagliardi Cozman
 
 # Author notes (such as 'Equal Contribution')
@@ -21,8 +21,7 @@ publishDate: '2023-12-20T14:04:24.911293Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- 1
-#- paper-conference
+- paper-conference
 
 # Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the Thirteenth International Symposium on Imprecise
@@ -50,7 +49,7 @@ tags: [credal networks,probabilistic answer set programming,imprecise probabilit
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://proceedings.mlr.press/v215/maua23a/maua23a.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: 'poster.pdf'

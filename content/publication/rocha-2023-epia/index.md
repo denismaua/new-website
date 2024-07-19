@@ -10,7 +10,7 @@ authors:
 - Victor Hugo Nascimento Rocha
 - Igor Cataneo Silveira
 - Paulo Pirozelli
-- Denis Deratani Mauá
+- admin
 - Fabio Gagliardi Cozman
 
 # Author notes (such as 'Equal Contribution')
@@ -25,8 +25,7 @@ publishDate: '2023-12-20T14:04:24.906164Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- 1
-#- paper-conference
+- paper-conference
 
 # Publication name and optional abbreviated publication name.
 publication: '*Progress in Artificial Intelligence*'
@@ -48,7 +47,7 @@ abstract: The recent success of Large Language Models (LLMs) has sparked concern
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags: [natural language processing,generative text,large language models]
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -64,9 +63,10 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: ArXiv
+  icon: academicons/arxiv
+  url: https://arxiv.org/abs/2406.15130
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
@@ -80,6 +80,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [keml-blab]
+projects: ['keml-blab','neuroproblog']
 ---
 

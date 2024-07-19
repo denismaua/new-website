@@ -1,6 +1,8 @@
 ---
 
 title: 	Neural Inductive Logic Programming
+# Page type - we want a landing page (such as a homepage)
+#type: landing
 summary: Neural Inductive Logic Programming
 date: 2023-02-01
 tags:
@@ -13,14 +15,19 @@ url_code: https://github.com/kamel-usp/dpasp
 url_pdf: "klricml2023.pdf"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
+show_related: true
+# Show author profile (photo and bio) under the content?
+profile: false
+# Show a link to the next article in the series?
+pager: false
 ---
 
-## Funding Agencies
+## {{< icon name="hero/banknotes" >}} Funding
 
 - FAPESP PI 2022/02937-9 (2023-02-01 to 2028-01-31)
 - CNPq Productivity 305136/2022-4 (2023-03-01 to 2026-02-28)
 
-## Participants
+## {{< icon name="hero/users" >}} Participants
 
 - Denis Deratani Mauá, Coordinator
 - Fabio G. Cozman, Associated Researcher
@@ -36,6 +43,11 @@ Deep learning techniques have shown impressive results in low-level cognitive ta
 
 ## Outcomes
 
-- The dPASP system: https://kamel.ime.usp.br/dpasp
+- {{< icon name="hero/globe-alt" >}} The dPASP system: https://kamel.ime.usp.br/dpasp
 - Tutorial: https://kamel.ime.usp.br/pages/learn_dpasp
 - [Overview](klricml2023.pdf)
+
+- {{< icon name="hero/document-text" >}} [PROPOR 2024]({{< relref "/publication/silveira-2024-propor" >}})
+- {{< icon name="hero/document-text" >}} [EPIA 2023]({{< relref "/publication/rocha-2023-epia" >}})
+- {{< icon name="hero/document-text" >}} [ISIPTA 2023]({{< relref "/publication/maua-2023-isipta" >}})
+
