@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | </title>
+    <link>http://localhost:1313/~ddm/teaching/</link>
+      <atom:link href="http://localhost:1313/~ddm/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/~ddm/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Teaching</title>
+      <link>http://localhost:1313/~ddm/teaching/</link>
+    </image>
+    
+    <item>
+      <title>MAC0318 Programming Mobile Robots</title>
+      <link>http://localhost:1313/~ddm/teaching/mac318/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/teaching/mac318/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; &gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#justificativa&#34;&gt;Justificativa&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#objetivo&#34;&gt;Objetivo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#metodologia&#34;&gt;Metodologia&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#conteúdo&#34;&gt;Conteúdo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#pré-requisitos&#34;&gt;Pré-requisitos&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#link-para-repositório&#34;&gt;Link para repositório&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#bibliografia&#34;&gt;Bibliografia&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;justificativa&#34;&gt;Justificativa&lt;/h2&gt;
+&lt;p&gt;Robôs inteligentes móveis estão cada vez mais presentes em nosso dia-a-dia, de aspiradores de pó a veículos aéreos não-tripulados e carros semi-autônomos. Para serem bem sucedidos, tais robôs precisam resolver questões complexas como evitar colisões com obstáculos móveis, localizar-se no ambiente a partir de &lt;mark&gt;sensoriamento&lt;/mark&gt; (câmera, sonares, lidares, odômetros etc), &lt;mark&gt;reconhecer objetos&lt;/mark&gt; e sinais indicativos, &lt;mark&gt;planejar&lt;/mark&gt; e &lt;mark&gt;prever&lt;/mark&gt; trajetórias, seguir regras pré-estabelecidas e estabelecer e &lt;mark&gt;executar&lt;/mark&gt; planos de longo prazo com recompensas esparsas e atrasadas. Diferentemente dos robôs atuais que habitam ambientes industriais, os robôs do futuro próximo deverão atuar em ambientes pouco controláveis e extremamente variáveis como o interior de uma casa, os corredores de um hospital ou as ruas de uma cidade.&lt;/p&gt;
+&lt;h2 id=&#34;objetivo&#34;&gt;Objetivo&lt;/h2&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/~ddm/~ddm/teaching/mac318/2019pista.JPG&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Esta disciplina visa introduzir alunos avançados de graduação aos desafios da robótica inteligente móvel, por meio do ensino de conceitos e técnicas de controle ótimo, processamento de imagens, raciocínio probabilístico, otimização, planejamento, aprendizado de máquina, entre outras. Ao final do semestre você aprenderá os conceitos fundamentais da robótica inteligente e deverá saber as respostas para perguntas como: O que é um robô móvel? Quais os principais desafios no desenvolvimento de robôs inteligente móveis? Quais as limitações físicas e lógicas das arquiteturas de agentes autônomos? Quais as implicações práticas das aproximações e simplificações adotas na formalização matemática dos agentes?&lt;/p&gt;
+&lt;h2 id=&#34;metodologia&#34;&gt;Metodologia&lt;/h2&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/~ddm/~ddm/teaching/mac318/navega%C3%A7%C3%A3o.JPG&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A disciplina é baseada em atividades práticas nas quais os conceitos apresentados devem ser utilizados para implementar soluções para problemas comuns em robótica móvel. O critério de avaliação consiste na média ponderada das notas das atividades regulares resolvidas em classe e de um projeto final resolvido em grupos.&lt;/p&gt;
+&lt;h2 id=&#34;conteúdo&#34;&gt;Conteúdo&lt;/h2&gt;
+&lt;p&gt;A disciplina é dividida em 8 módulos de aprendizado; cada módulo toma de 1 a 3 aulas e é acompanhado de uma ou mais atividades. Há também um projeto final em grupo.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Introdução aos veículos autônomos
+&lt;ol&gt;
+&lt;li&gt;Questões fundamentais da robótica móvel&lt;/li&gt;
+&lt;li&gt;Autonomia&lt;/li&gt;
+&lt;li&gt;Robôs móveis: atuadores e sensores e direção diferencial&lt;/li&gt;
+&lt;li&gt;Arquitetura lógica: percepção, planejamento e execução&lt;/li&gt;
+&lt;li&gt;Arquiteturas sensorimotoras&lt;/li&gt;
+&lt;li&gt;Veículos de Braitenberg&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Sistemas de controle
+&lt;ol&gt;
+&lt;li&gt;Definição e avaliação&lt;/li&gt;
+&lt;li&gt;Controle de malha aberta e de malha fechada&lt;/li&gt;
+&lt;li&gt;Representação de estado para robô pontual&lt;/li&gt;
+&lt;li&gt;Modelo de robô diferencial no plano&lt;/li&gt;
+&lt;li&gt;Controle PID&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Navegação
+&lt;ol&gt;
+&lt;li&gt;Planejamento de caminho reativo&lt;/li&gt;
+&lt;li&gt;O algoritmo Bug&lt;/li&gt;
+&lt;li&gt;Campos potenciais&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Aprendizado de máquina supervisionado
+&lt;ol&gt;
+&lt;li&gt;Definição&lt;/li&gt;
+&lt;li&gt;Regressão&lt;/li&gt;
+&lt;li&gt;Estimação de pose a partir de imagem&lt;/li&gt;
+&lt;li&gt;Classificação&lt;/li&gt;
+&lt;li&gt;Reconhecimento de objetos&lt;/li&gt;
+&lt;li&gt;Aprendizado por imitação&lt;/li&gt;
+&lt;li&gt;Metodologia&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Estimação de estado e localização
+&lt;ol&gt;
+&lt;li&gt;Filtro bayesiano&lt;/li&gt;
+&lt;li&gt;Odometria e localização por odômetro (dead reckoning)&lt;/li&gt;
+&lt;li&gt;Filtro por histograma&lt;/li&gt;
+&lt;li&gt;Filtro de Monte Carlo&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Planejamento por busca em grafo
+&lt;ol&gt;
+&lt;li&gt;Representação do ambiente&lt;/li&gt;
+&lt;li&gt;Busca em grafo&lt;/li&gt;
+&lt;li&gt;Algoritmo de Dijkstra&lt;/li&gt;
+&lt;li&gt;Busca A*&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Planejamento por amostragem
+&lt;ol&gt;
+&lt;li&gt;RRT&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Aprendizado por reforço
+&lt;ol&gt;
+&lt;li&gt;Processos de decisão markovianos&lt;/li&gt;
+&lt;li&gt;Aprendizado temporal&lt;/li&gt;
+&lt;li&gt;Q-Learning&lt;/li&gt;
+&lt;li&gt;Gradiente de política&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;pré-requisitos&#34;&gt;Pré-requisitos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Conhecimento básico de Linux (comandos usuais de terminal, gerenciamento de pacotes), Python e Git (push, pull, commit, branch, fork, merge)&lt;/li&gt;
+&lt;li&gt;Conhecimento elementar de álgebra linear (transformação lineares, matriz de  rotação), probabilidade (variáveis aleatórias gaussianas, função de densidade, marginalização e regra de Bayes) e cálculo (sistemas de equações de derivadas parciais)&lt;/li&gt;
+&lt;li&gt;Conhecimento básico de estruturas de dados (pilhas, filas, filas de prioridade) e teoria dos grafos (busca em profundidade, busca em largura).&lt;/li&gt;
+&lt;li&gt;Computador com Linux instalado (de preferência Ubuntu) e acesso de administrador.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;link-para-repositório&#34;&gt;Link para repositório&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitlab.uspdigital.usp.br/mac0318-2021&#34;&gt;https://gitlab.uspdigital.usp.br/mac0318-2021&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;bibliografia&#34;&gt;Bibliografia&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;P. Corke. Robotics, Vision and Control: Fundamental Algorithms in Matlab, Springer, 2a. edição, 2017.&lt;/li&gt;
+&lt;li&gt;S. Thrun, B. Wolfram, D. Fox, Probabilistic Robotics, MIT Press, Cambridge, MA, 2005.&lt;/li&gt;
+&lt;li&gt;G. Dudek, M. Jenkin, Computational Principles of Mobile Robotics, Cambridge University Press, 2000.&lt;/li&gt;
+&lt;li&gt;R. Siegwart, I.R. Nourbakhsh, Introduction to Autonomous Mobile Robots, MIT Press, Cambridge, MA, 2004.&lt;/li&gt;
+&lt;li&gt;S. Russel, P. Norvig, Artificial Intelligence: A Modern Approach. Third edition. Prentice-Hall, Englewood Cliffs, NJ, 2009.&lt;/li&gt;
+&lt;li&gt;U. Nehmzow, Mobile Robotics: A Practical Introduction, Springer Verlag, 2000.&lt;/li&gt;
+&lt;li&gt;R. Murphy, Introduction to AI Robotics, MIT Press, Cambridge, MA, 2000.&lt;/li&gt;
+&lt;li&gt;R. Arkin, Behavior-based Robotics, MIT Press, Cambridge, MA, 1998.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/~ddm/~ddm/teaching/mac318/interlagos.jpg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;!-- ## Meet your instructor
+
+&lt;a href=&#34;&#34;&gt;Denis D. Mauá&lt;/a&gt; --&gt;
+&lt;!-- ## FAQs
+
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;Are there prerequisites?&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    There are no prerequisites for the first course.
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;How often do the courses run?&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    Continuously, at your own pace.
+  &lt;/div&gt;
+&lt;/details&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,7 @@
 ---
+draft: true
+private: true
+
 title: Example Talk
 
 event: Hugo Blox Builder Conference
@@ -22,7 +25,7 @@ date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '' # 2020-12-08T20:18:58-03:00
 
 authors:
   - admin

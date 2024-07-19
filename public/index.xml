@@ -1,0 +1,1741 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Denis Deratani Mauá&#39;s Page | </title>
+    <link>http://localhost:1313/~ddm/</link>
+      <atom:link href="http://localhost:1313/~ddm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Denis Deratani Mauá&#39;s Page</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/~ddm/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Denis Deratani Mauá&#39;s Page</title>
+      <link>http://localhost:1313/~ddm/</link>
+    </image>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/~ddm/experience/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/~ddm/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Benchmark for Automatic Essay Scoring in Portuguese</title>
+      <link>http://localhost:1313/~ddm/publication/silveira-2024-propor/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/silveira-2024-propor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🎉 Easily create your own simple yet highly customizable blog</title>
+      <link>http://localhost:1313/~ddm/post/get-started/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/post/get-started/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#get-started&#34;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ecosystem&#34;&gt;Ecosystem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#features&#34;&gt;Features&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#themes&#34;&gt;Themes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;get-started&#34;&gt;Get Started&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/templates/&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34;&gt;Chat with the &lt;strong&gt;Hugo Blox community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/GetResearchDev&#34;&gt;@GetResearchDev&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34;&gt;@GeorgeCushen&lt;/a&gt; #MadeWithHugoBlox&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Hugo Blox&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Hugo Blox?&lt;/strong&gt; View the &lt;a href=&#34;https://docs.hugoblox.com/reference/update/&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/releases&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GetRD/academic-file-converter&#34;&gt;Bibtex To Markdown&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/creators/&#34;&gt;Learn what other &lt;strong&gt;creators&lt;/strong&gt;&lt;/a&gt; are building with this template.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with no-code &lt;a href=&#34;https://hugoblox.com/blocks/&#34;&gt;&lt;strong&gt;blocks&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code syntax highlighting and LaTeX math supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one-page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 35+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Hugo Blox and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🧠 Sharpen your thinking with a second brain</title>
+      <link>http://localhost:1313/~ddm/post/second-brain/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/post/second-brain/</guid>
+      <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
+&lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
+&lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
+&lt;p&gt;Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.&lt;/p&gt;
+&lt;h2 id=&#34;mindmaps&#34;&gt;Mindmaps&lt;/h2&gt;
+&lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
+&lt;p&gt;With this open format, can even edit your mindmaps in other popular tools such as Obsidian.&lt;/p&gt;
+&lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
+&lt;p&gt;Mindmaps can be created by simply writing the items as a Markdown list within the &lt;code&gt;markmap&lt;/code&gt; code block, indenting each item to create as many sub-levels as you need:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap {height=&#34;200px&#34;}
+- Hugo Modules
+  - Hugo Blox
+  - blox-plugins-netlify
+  - blox-plugins-netlify-cms
+  - blox-plugins-reveal
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34; height=&#34;200px&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- Hugo Modules
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - Hugo Blox
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - blox-plugins-netlify
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - blox-plugins-netlify-cms
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - blox-plugins-reveal
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Anh here&amp;rsquo;s a more advanced mindmap with formatting, code blocks, and math:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap
+- Mindmaps
+  - Links
+    - [Hugo Blox Docs](https://docs.hugoblox.com/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log(&#39;hello&#39;);
+      console.log(&#39;code block&#39;);
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- Mindmaps
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - Links
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - [Hugo Blox Docs](https://docs.hugoblox.com/)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - [Discord Community](https://discord.gg/z8wNYzb)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - Features
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - Markdown formatting
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - **inline** ~~text~~ *styles*
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - multiline
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      text
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - `inline code`
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    -
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      ```js
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      console.log(&amp;#39;hello&amp;#39;);
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      console.log(&amp;#39;code block&amp;#39;);
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      ```
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;highlighting&#34;&gt;Highlighting&lt;/h2&gt;
+&lt;p&gt;&lt;mark&gt;Highlight&lt;/mark&gt; important text with &lt;code&gt;mark&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;mark&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Highlighted text&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;mark&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;callouts&#34;&gt;Callouts&lt;/h2&gt;
+&lt;p&gt;Use &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/#callouts&#34;&gt;callouts&lt;/a&gt; (aka &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;) to draw attention to notes, tips, and warnings.&lt;/p&gt;
+&lt;p&gt;By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /callout %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Or use the &lt;code&gt;warning&lt;/code&gt; callout type so your readers don&amp;rsquo;t miss critical details:&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-yellow-100 dark:bg-yellow-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-red-400&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0zM12 15.75h.007v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/span&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>📈 Communicate your results effectively with the best data visualizations</title>
+      <link>http://localhost:1313/~ddm/post/data-visualization/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/post/data-visualization/</guid>
+      <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
+&lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
+&lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
+&lt;p&gt;Hugo Blox supports the popular &lt;a href=&#34;https://plot.ly/&#34;&gt;Plotly&lt;/a&gt; format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
+&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
+&lt;p&gt;Demo:&lt;/p&gt;
+
+
+
+
+&lt;div id=&#34;chart-517936482&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+  async function fetchChartJSON() {
+    console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
+    const response = await fetch(&#39;.\/line-chart.json&#39;);
+    return await response.json();
+  }
+
+  (function() {
+    let a = setInterval( function() {
+      if ( typeof window.Plotly === &#39;undefined&#39; ) {
+        console.debug(&#39;Plotly not loaded yet...&#39;)
+        return;
+      }
+      clearInterval( a );
+
+      fetchChartJSON().then(chart =&gt; {
+        console.debug(&#39;Plotting chart...&#39;)
+        window.Plotly.newPlot(&#39;chart-517936482&#39;, chart.data, chart.layout, {responsive: true});
+      });
+    }, 500 );
+  })();
+&lt;/script&gt;
+
+&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
+&lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
+&lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;graph TD
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A[Hard] --&amp;gt;|Text| B(Round)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;B --&amp;gt; C{Decision}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C --&amp;gt;|One| D[Result 1]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C --&amp;gt;|Two| E[Result 2]
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sequenceDiagram
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;loop Healthcheck
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;end
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Note right of John: Rational thoughts!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;John--&amp;gt;&amp;gt;Alice: Great!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;John-&amp;gt;&amp;gt;Bob: How about you?
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &amp;lt;--&amp;gt; C2: Cool label
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;classDiagram
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class01 &amp;lt;|-- AveryLongClass : Cool
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class03 *-- Class04
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class05 o-- Class06
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class07 .. Class08
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class09 --&amp;gt; C2 : Where am i?
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class09 --* C3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class09 --|&amp;gt; Class07
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class07 : equals()
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class07 : Object[] elementData
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class01 : size()
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class01 : int chimp
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class01 : int gorilla
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class08 &amp;lt;--&amp;gt; C2: Cool label
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;stateDiagram
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[*] --&amp;gt; Still
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Still --&amp;gt; [*]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Still --&amp;gt; Moving
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Moving --&amp;gt; Still
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Moving --&amp;gt; Crash
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Crash --&amp;gt; [*]
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;data-frames&#34;&gt;Data Frames&lt;/h2&gt;
+&lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table class=&#34;table-auto w-full&#34;&gt;
+  
+    
+    
+    &lt;thead&gt;
+      &lt;tr&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;customer_id&lt;/th&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;score&lt;/th&gt;  &lt;/tr&gt;
+    &lt;/thead&gt;
+  
+  &lt;tbody&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;2&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0.5&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;3&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+  &lt;/tbody&gt;
+  
+    &lt;caption class=&#34;table-caption&#34;&gt;Table 1: My results&lt;/caption&gt;
+  
+&lt;/table&gt;
+
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>👩🏼‍🏫 Teach academic courses</title>
+      <link>http://localhost:1313/~ddm/post/teach-courses/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/post/teach-courses/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;Teach your course by sharing videos with your students. Choose from one of the following approaches:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube D2vj0WcvH5c &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili BV1WV4y1r7DF &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
+  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1WV4y1r7DF&amp;page=1&#34;
+  allow=&#34;accelerometer; clipboard-write; encrypted-media; gyroscope; fullscreen; picture-in-picture;&#34;
+  class=&#34;w-full h-full&#34;
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Video file&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Videos may be added to a page by either placing them in your &lt;code&gt;assets/media/&lt;/code&gt; media library or in your &lt;a href=&#34;https://gohugo.io/content-management/page-bundles/&#34;&gt;page&amp;rsquo;s folder&lt;/a&gt;, and then embedding them with the &lt;em&gt;video&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; video src=&amp;quot;my_video.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;podcast&#34;&gt;Podcast&lt;/h2&gt;
+&lt;p&gt;You can add a podcast or music to a page by placing the MP3 file in the page&amp;rsquo;s folder or the media library folder and then embedding the audio on your page with the &lt;em&gt;audio&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; audio src=&amp;quot;ambient-piano.mp3&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Try it out:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;http://localhost:1313/~ddm/~ddm/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
+&lt;p&gt;Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code&gt;spoiler&lt;/code&gt; shortcode:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;👉 Click to view the solution&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    You found me 🎉
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the &lt;code&gt;math: true&lt;/code&gt; option in your page&amp;rsquo;s front matter, or enable math for your entire site by toggling math in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;features&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;math&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder utilises Hugo&amp;rsquo;s Markdown extension for highlighting code syntax. The code theme can be selected in the &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;inline-images&#34;&gt;Inline Images&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Python&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
+    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt; Python&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>✅ Manage your projects</title>
+      <link>http://localhost:1313/~ddm/post/project-management/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/post/project-management/</guid>
+      <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
+&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
+&lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
+&lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
+&lt;p&gt;Mindmaps can be created by simply writing the items as a Markdown list within the &lt;code&gt;markmap&lt;/code&gt; code block, indenting each item to create as many sub-levels as you need:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap {height=&#34;200px&#34;}
+- Hugo Modules
+  - Hugo Blox
+  - blox-plugins-netlify
+  - blox-plugins-netlify-cms
+  - blox-plugins-reveal
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
+
+&lt;pre&gt;- Hugo Modules
+  - Hugo Blox
+  - blox-plugins-netlify
+  - blox-plugins-netlify-cms
+  - blox-plugins-reveal&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
+&lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+&lt;/div&gt;
+&lt;h2 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h2&gt;
+&lt;p&gt;You can even write your todo lists in Markdown too:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write math example
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write diagram example
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [ ]&lt;/span&gt; Do something else
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Specifying credal sets with probabilistic answer set programming</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2023-isipta/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2023-isipta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Inductive Logic Programming</title>
+      <link>http://localhost:1313/~ddm/project/neuroproblog/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/project/neuroproblog/</guid>
+      <description>&lt;h2 id=&#34;funding-agencies&#34;&gt;Funding Agencies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;FAPESP PI 2022/02937-9 (2023-02-01 to 2028-01-31)&lt;/li&gt;
+&lt;li&gt;CNPq Productivity 305136/2022-4 (2023-03-01 to 2026-02-28)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;participants&#34;&gt;Participants&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Denis Deratani Mauá, Coordinator&lt;/li&gt;
+&lt;li&gt;Fabio G. Cozman, Associated Researcher&lt;/li&gt;
+&lt;li&gt;Igor Cataneo Silveira, PhD candidate, Researcher&lt;/li&gt;
+&lt;li&gt;Naomi de Moraes, PhD candidate, Researcher&lt;/li&gt;
+&lt;li&gt;Renato Lui Geh, Software Developer, Researcher&lt;/li&gt;
+&lt;li&gt;Jonas Gonçalves, MSc student, Researcher&lt;/li&gt;
+&lt;li&gt;Thiago Casagrande, MSc student, Researcher&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Deep learning techniques have shown impressive results in low-level cognitive task such as image and speech recognition as well as in high-level cognitive tasks such as question answering and stochastic planning. Yet, developing effective deep learning solutions is notoriously challenging as they require massive amounts of data and compute (often beyond limited budgets of typical users), are very sensitive to domain shifts, and produce undesirable output that undermine end-user trust in the system. Good old-fashioned AI techniques based on knowledge representation and symbol manipulation are data efficient, generalizable, and produce mostly verifiable behavior; however they scale poorly, require costly knowledge acquisition procedures and have difficulty in coping with noise and uncertainty that are ubiquitous in real settings. Neurosymbolic approaches have recently re-emerged as a means to take the best of both approaches and deliver systems that are expressive and scalable, yet interpretable, generalizable, data efficient and trustworthy. This document describes a five-year research proposal to study the further development of neurosymbolic approaches based on logic programming, procedural probabilistic programming and combinations of both. Ultimately, this research seeks to advance the state-of-the-art of learning-based agents that go beyond the dominant view of learning as an optimization task in a continuous space guided by input-output examples. To this end, we shall extend current neursymbolic logic programming systems with more expressive constructs and more efficient learning techniques, and evaluate them in challenging cognitive tasks such as text-based question answering and argumentation.&lt;/p&gt;
+&lt;h2 id=&#34;outcomes&#34;&gt;Outcomes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The dPASP system: &lt;a href=&#34;https://kamel.ime.usp.br/dpasp&#34;&gt;https://kamel.ime.usp.br/dpasp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tutorial: &lt;a href=&#34;https://kamel.ime.usp.br/pages/learn_dpasp&#34;&gt;https://kamel.ime.usp.br/pages/learn_dpasp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;klricml2023.pdf&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assessing Good, Bad and Ugly Arguments Generated by ChatGPT: a New Dataset, its Methodology and Associated Tasks</title>
+      <link>http://localhost:1313/~ddm/publication/rocha-2023-epia/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/rocha-2023-epia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Modal Clustering with Gaussian Sum-Product Networks</title>
+      <link>http://localhost:1313/~ddm/publication/madeira-2023-tpm/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/madeira-2023-tpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge-Enhanced Machine Learning</title>
+      <link>http://localhost:1313/~ddm/project/keml-blab/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/project/keml-blab/</guid>
+      <description>&lt;p&gt;The broad goal of this research challenge has been to merge data-driven learning and knowledge-based reasoning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MAC0318 Programming Mobile Robots</title>
+      <link>http://localhost:1313/~ddm/teaching/mac318/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/teaching/mac318/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; &gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#justificativa&#34;&gt;Justificativa&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#objetivo&#34;&gt;Objetivo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#metodologia&#34;&gt;Metodologia&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#conteúdo&#34;&gt;Conteúdo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#pré-requisitos&#34;&gt;Pré-requisitos&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#link-para-repositório&#34;&gt;Link para repositório&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#bibliografia&#34;&gt;Bibliografia&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;justificativa&#34;&gt;Justificativa&lt;/h2&gt;
+&lt;p&gt;Robôs inteligentes móveis estão cada vez mais presentes em nosso dia-a-dia, de aspiradores de pó a veículos aéreos não-tripulados e carros semi-autônomos. Para serem bem sucedidos, tais robôs precisam resolver questões complexas como evitar colisões com obstáculos móveis, localizar-se no ambiente a partir de &lt;mark&gt;sensoriamento&lt;/mark&gt; (câmera, sonares, lidares, odômetros etc), &lt;mark&gt;reconhecer objetos&lt;/mark&gt; e sinais indicativos, &lt;mark&gt;planejar&lt;/mark&gt; e &lt;mark&gt;prever&lt;/mark&gt; trajetórias, seguir regras pré-estabelecidas e estabelecer e &lt;mark&gt;executar&lt;/mark&gt; planos de longo prazo com recompensas esparsas e atrasadas. Diferentemente dos robôs atuais que habitam ambientes industriais, os robôs do futuro próximo deverão atuar em ambientes pouco controláveis e extremamente variáveis como o interior de uma casa, os corredores de um hospital ou as ruas de uma cidade.&lt;/p&gt;
+&lt;h2 id=&#34;objetivo&#34;&gt;Objetivo&lt;/h2&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/~ddm/~ddm/teaching/mac318/2019pista.JPG&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Esta disciplina visa introduzir alunos avançados de graduação aos desafios da robótica inteligente móvel, por meio do ensino de conceitos e técnicas de controle ótimo, processamento de imagens, raciocínio probabilístico, otimização, planejamento, aprendizado de máquina, entre outras. Ao final do semestre você aprenderá os conceitos fundamentais da robótica inteligente e deverá saber as respostas para perguntas como: O que é um robô móvel? Quais os principais desafios no desenvolvimento de robôs inteligente móveis? Quais as limitações físicas e lógicas das arquiteturas de agentes autônomos? Quais as implicações práticas das aproximações e simplificações adotas na formalização matemática dos agentes?&lt;/p&gt;
+&lt;h2 id=&#34;metodologia&#34;&gt;Metodologia&lt;/h2&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/~ddm/~ddm/teaching/mac318/navega%C3%A7%C3%A3o.JPG&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A disciplina é baseada em atividades práticas nas quais os conceitos apresentados devem ser utilizados para implementar soluções para problemas comuns em robótica móvel. O critério de avaliação consiste na média ponderada das notas das atividades regulares resolvidas em classe e de um projeto final resolvido em grupos.&lt;/p&gt;
+&lt;h2 id=&#34;conteúdo&#34;&gt;Conteúdo&lt;/h2&gt;
+&lt;p&gt;A disciplina é dividida em 8 módulos de aprendizado; cada módulo toma de 1 a 3 aulas e é acompanhado de uma ou mais atividades. Há também um projeto final em grupo.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Introdução aos veículos autônomos
+&lt;ol&gt;
+&lt;li&gt;Questões fundamentais da robótica móvel&lt;/li&gt;
+&lt;li&gt;Autonomia&lt;/li&gt;
+&lt;li&gt;Robôs móveis: atuadores e sensores e direção diferencial&lt;/li&gt;
+&lt;li&gt;Arquitetura lógica: percepção, planejamento e execução&lt;/li&gt;
+&lt;li&gt;Arquiteturas sensorimotoras&lt;/li&gt;
+&lt;li&gt;Veículos de Braitenberg&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Sistemas de controle
+&lt;ol&gt;
+&lt;li&gt;Definição e avaliação&lt;/li&gt;
+&lt;li&gt;Controle de malha aberta e de malha fechada&lt;/li&gt;
+&lt;li&gt;Representação de estado para robô pontual&lt;/li&gt;
+&lt;li&gt;Modelo de robô diferencial no plano&lt;/li&gt;
+&lt;li&gt;Controle PID&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Navegação
+&lt;ol&gt;
+&lt;li&gt;Planejamento de caminho reativo&lt;/li&gt;
+&lt;li&gt;O algoritmo Bug&lt;/li&gt;
+&lt;li&gt;Campos potenciais&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Aprendizado de máquina supervisionado
+&lt;ol&gt;
+&lt;li&gt;Definição&lt;/li&gt;
+&lt;li&gt;Regressão&lt;/li&gt;
+&lt;li&gt;Estimação de pose a partir de imagem&lt;/li&gt;
+&lt;li&gt;Classificação&lt;/li&gt;
+&lt;li&gt;Reconhecimento de objetos&lt;/li&gt;
+&lt;li&gt;Aprendizado por imitação&lt;/li&gt;
+&lt;li&gt;Metodologia&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Estimação de estado e localização
+&lt;ol&gt;
+&lt;li&gt;Filtro bayesiano&lt;/li&gt;
+&lt;li&gt;Odometria e localização por odômetro (dead reckoning)&lt;/li&gt;
+&lt;li&gt;Filtro por histograma&lt;/li&gt;
+&lt;li&gt;Filtro de Monte Carlo&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Planejamento por busca em grafo
+&lt;ol&gt;
+&lt;li&gt;Representação do ambiente&lt;/li&gt;
+&lt;li&gt;Busca em grafo&lt;/li&gt;
+&lt;li&gt;Algoritmo de Dijkstra&lt;/li&gt;
+&lt;li&gt;Busca A*&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Planejamento por amostragem
+&lt;ol&gt;
+&lt;li&gt;RRT&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Aprendizado por reforço
+&lt;ol&gt;
+&lt;li&gt;Processos de decisão markovianos&lt;/li&gt;
+&lt;li&gt;Aprendizado temporal&lt;/li&gt;
+&lt;li&gt;Q-Learning&lt;/li&gt;
+&lt;li&gt;Gradiente de política&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;pré-requisitos&#34;&gt;Pré-requisitos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Conhecimento básico de Linux (comandos usuais de terminal, gerenciamento de pacotes), Python e Git (push, pull, commit, branch, fork, merge)&lt;/li&gt;
+&lt;li&gt;Conhecimento elementar de álgebra linear (transformação lineares, matriz de  rotação), probabilidade (variáveis aleatórias gaussianas, função de densidade, marginalização e regra de Bayes) e cálculo (sistemas de equações de derivadas parciais)&lt;/li&gt;
+&lt;li&gt;Conhecimento básico de estruturas de dados (pilhas, filas, filas de prioridade) e teoria dos grafos (busca em profundidade, busca em largura).&lt;/li&gt;
+&lt;li&gt;Computador com Linux instalado (de preferência Ubuntu) e acesso de administrador.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;link-para-repositório&#34;&gt;Link para repositório&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitlab.uspdigital.usp.br/mac0318-2021&#34;&gt;https://gitlab.uspdigital.usp.br/mac0318-2021&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;bibliografia&#34;&gt;Bibliografia&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;P. Corke. Robotics, Vision and Control: Fundamental Algorithms in Matlab, Springer, 2a. edição, 2017.&lt;/li&gt;
+&lt;li&gt;S. Thrun, B. Wolfram, D. Fox, Probabilistic Robotics, MIT Press, Cambridge, MA, 2005.&lt;/li&gt;
+&lt;li&gt;G. Dudek, M. Jenkin, Computational Principles of Mobile Robotics, Cambridge University Press, 2000.&lt;/li&gt;
+&lt;li&gt;R. Siegwart, I.R. Nourbakhsh, Introduction to Autonomous Mobile Robots, MIT Press, Cambridge, MA, 2004.&lt;/li&gt;
+&lt;li&gt;S. Russel, P. Norvig, Artificial Intelligence: A Modern Approach. Third edition. Prentice-Hall, Englewood Cliffs, NJ, 2009.&lt;/li&gt;
+&lt;li&gt;U. Nehmzow, Mobile Robotics: A Practical Introduction, Springer Verlag, 2000.&lt;/li&gt;
+&lt;li&gt;R. Murphy, Introduction to AI Robotics, MIT Press, Cambridge, MA, 2000.&lt;/li&gt;
+&lt;li&gt;R. Arkin, Behavior-based Robotics, MIT Press, Cambridge, MA, 1998.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/~ddm/~ddm/teaching/mac318/interlagos.jpg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;!-- ## Meet your instructor
+
+&lt;a href=&#34;&#34;&gt;Denis D. Mauá&lt;/a&gt; --&gt;
+&lt;!-- ## FAQs
+
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;Are there prerequisites?&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    There are no prerequisites for the first course.
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;How often do the courses run?&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    Continuously, at your own pace.
+  &lt;/div&gt;
+&lt;/details&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Differentiable Planning for Optimal Liquidation</title>
+      <link>http://localhost:1313/~ddm/publication/pennacchio-2022-bwaif/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/pennacchio-2022-bwaif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Planning with Indefinite Horizon</title>
+      <link>http://localhost:1313/~ddm/publication/dias-2022-kdmile/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/dias-2022-kdmile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinct Outcomes in COVID-19 Patients with Positive or Negative RT-PCR Test</title>
+      <link>http://localhost:1313/~ddm/publication/mc-2022-viruses/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/mc-2022-viruses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration Versus Exploitation in Model-Based Reinforcement Learning: An Empirical Study</title>
+      <link>http://localhost:1313/~ddm/publication/lovatto-2022-bracis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/lovatto-2022-bracis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Question Answering and Text-to-SQL in Portuguese</title>
+      <link>http://localhost:1313/~ddm/publication/jose-2022-propor/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/jose-2022-propor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Robust Trees: Using Temporal Invariance to Improve Generalization</title>
+      <link>http://localhost:1313/~ddm/publication/moneda-2022-bracis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/moneda-2022-bracis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timing to Intubation COVID-19 Patients: Can We Put It Off until Tomorrow?</title>
+      <link>http://localhost:1313/~ddm/publication/alencar-2022-healthcare/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/alencar-2022-healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tractable Classification with Non-Ignorable Missing Data Using Generative Random Forests</title>
+      <link>http://localhost:1313/~ddm/publication/villanueva-2022-kdmile/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/villanueva-2022-kdmile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tractable Mode-Finding in Sum-Product Networks with Gaussian Leaves</title>
+      <link>http://localhost:1313/~ddm/publication/madeira-2022-eniac/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/madeira-2022-eniac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cautious Classification with Data Missing Not at Random using Generative Random Forests</title>
+      <link>http://localhost:1313/~ddm/publication/villanueva-2021-ecsqaru/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/villanueva-2021-ecsqaru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient algorithms for Risk-Sensitive Markov Decision Processes with limited budget</title>
+      <link>http://localhost:1313/~ddm/publication/moreira-2021-ijar/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/moreira-2021-ijar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast And Accurate Learning of Probabilistic Circuits by Random Projections</title>
+      <link>http://localhost:1313/~ddm/publication/geh-2021-tpm/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/geh-2021-tpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Probabilistic Sentential Decision Diagrams under Logic Constraints by Sampling and Averaging</title>
+      <link>http://localhost:1313/~ddm/publication/geh-2021-uai/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/geh-2021-uai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Credal Networks: Specification, Algorithms, Complexity</title>
+      <link>http://localhost:1313/~ddm/event/sipta-school-2020/</link>
+      <pubDate>Tue, 08 Dec 2020 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/event/sipta-school-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Uncertainty Estimators for Sum-Product Networks</title>
+      <link>http://localhost:1313/~ddm/project/pq2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/project/pq2020/</guid>
+      <description>&lt;h2 id=&#34;funding-agency&#34;&gt;Funding Agency&lt;/h2&gt;
+&lt;p&gt;CNPq grant 304012/2019-0 (ended)&lt;/p&gt;
+&lt;h2 id=&#34;coordinator&#34;&gt;Coordinator&lt;/h2&gt;
+&lt;p&gt;Denis Deratani Mauá&lt;/p&gt;
+&lt;h2 id=&#34;participants&#34;&gt;Participants&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Denis Deratani Mauá&lt;/li&gt;
+&lt;li&gt;Julissa G. Villanueva, PhD candidate at IME-USP&lt;/li&gt;
+&lt;li&gt;Renato Lui Geh, MSc student at IME-USP&lt;/li&gt;
+&lt;li&gt;Decio L. Soares, MSc student at IME-USP&lt;/li&gt;
+&lt;li&gt;Jonas Gonçalves, Undergraduate student at IME-USP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Deep models have recently obtained impressive results in a
+wide range of tasks and domains, from computer vision to
+image and text processing to diagnosis and automated
+reasoning. Sum-product networks are special type of neural
+networks targeted at the representation of
+high-dimensionality probability distributions. Notably, the
+structure of a sum-product network (i.e., its graph) encodes
+a number of probabilistic independence assertions. In
+addition, each node of the network computes a valid
+distribution over its part of the variables. Such
+probabilistic semantics facilitates debugging, allows a wide
+range of queries and data (including missing and noisy data)
+to be handled properly and efficiently, and enables
+efficient structure learning algorithms.&lt;/p&gt;
+&lt;p&gt;In many applications, it is desirable to have not only a
+prediction (e.g., the probability of observing a certain
+object, say an image), but a confidence measure about its
+prediction. As sum-product networks are learned from data,
+the probabilities they calculate can be overly confident or
+too sensitive to hyperparameters on regions where data was
+scarce, conflicting or too noisy. In this research project,
+we plan on following two possible approaches to estimating
+the uncertainty of a sum-product network prediction. The
+first approach estimates uncertainty by analyzing the effect
+that small perturbations of the data have on the prediction.
+The second approach considers the variability of predictions
+among different networks (learned from the same data).&lt;/p&gt;
+&lt;p&gt;This research investigates predictive uncertainty estimators for sum-product
+networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Contact Network-Based Approach for Online Planning of Containment Measures for COVID-19</title>
+      <link>http://localhost:1313/~ddm/publication/thomaz-2020-eniac/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/thomaz-2020-eniac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complexity results for probabilistic answer set programming</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2020-ijar/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2020-ijar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision-Aware Model Learning for Actor-Critic Methods: When Theory Does Not Meet Practice</title>
+      <link>http://localhost:1313/~ddm/publication/lovatto-2020-icbinb/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/lovatto-2020-icbinb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Algorithms for Robustness Analysis of Maximum A Posteriori Inference in Selective Sum-Product Networks</title>
+      <link>http://localhost:1313/~ddm/publication/julissa-2020-ijar/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/julissa-2020-ijar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Feasible Policies for Extreme Risk-Averse Agents in Probabilistic Planning</title>
+      <link>http://localhost:1313/~ddm/publication/condori-2020-bracis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/condori-2020-bracis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Probabilistic Sentential Decision Diagrams by Sampling</title>
+      <link>http://localhost:1313/~ddm/publication/geh-2020-kdmile/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/geh-2020-kdmile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Performance of Planning Through Backpropagation</title>
+      <link>http://localhost:1313/~ddm/publication/scaroni-2020-bracis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/scaroni-2020-bracis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Environmental Conditions for Maritime Navigation using a Network of Sensors: A Practical Application of Graph Neural Networks</title>
+      <link>http://localhost:1313/~ddm/publication/netto-2020-kdmile/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/netto-2020-kdmile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Joy of Probabilistic Answer Set Programming: Semantics, complexity, expressivity, inference</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2020-ijar/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2020-ijar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thirty years of credal networks: Specification, algorithms and complexity</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2020-ijar-b/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2020-ijar-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tractable inference in credal sentential decision diagrams</title>
+      <link>http://localhost:1313/~ddm/publication/mattei-2020-ijar/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/mattei-2020-ijar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two Reformulation Approaches to Maximum-A-Posteriori Inference in Sum-Product Networks</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2020-pgm/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2020-pgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Reactive Policies for Planning in Stochastic Nonlinear Domains</title>
+      <link>http://localhost:1313/~ddm/publication/bueno-2019-aaai/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/bueno-2019-aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-To-End Imitation Learning of Lane Following Policies Using Sum-Product Networks</title>
+      <link>http://localhost:1313/~ddm/publication/geh-2019-eniac/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/geh-2019-eniac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Space of Probabilistic Sentential Decision Diagrams</title>
+      <link>http://localhost:1313/~ddm/publication/mattei-2019-tpm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/mattei-2019-tpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Analysis of MAP Inference in Selective Sum-Product Networks</title>
+      <link>http://localhost:1313/~ddm/publication/villanueva-2019-isipta/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/villanueva-2019-isipta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding up parameter and rule learning for acyclic probabilistic logic programs</title>
+      <link>http://localhost:1313/~ddm/publication/faria-2019-ijar/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/faria-2019-ijar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The finite model theory of Bayesian network specifications: Descriptive complexity and zero/one laws</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2019-ijar/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2019-ijar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ENEM Challenge</title>
+      <link>http://localhost:1313/~ddm/project/enem/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/project/enem/</guid>
+      <description>&lt;p&gt;It is widely accepted that university entrance exams require human-level
+intelligence to be satisfactorily solved. In particular, such exams
+require skills such as text and image understanding, informational retrieval,
+commonsense reasoning, and mathematical thinking.&lt;/p&gt;
+&lt;p&gt;Thus, university entrance exams constitute a good test for real Artificial Intelligence techniques.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Exame_Nacional_do_Ensino_M%C3%A9dio&#34;&gt;Exame Nacional do Ensino Médio (ENEM)&lt;/a&gt; is an advanced High-School level exam widely applied every year by the Brazilian government to students that wish to undertake a University degree.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;ENEM Challenge&lt;/strong&gt; consists in designing an autonomous system that matches the performance of a human students on the exam. The overall goal is to foster and evaluate the development of Artificial Intelligence techniques that have good performance on complex cognitive tasks, not particularly designed for AI systems. In addition, this challenge aims to promote and give more visiblity to the development of NLP tools for Brazilian Portuguese.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The informal and witty aim of the challenge is to get a digital student to be accepted at a main Brazilian university&lt;/strong&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;dataset&#34;&gt;Dataset&lt;/h1&gt;
+&lt;p&gt;The ENEM exam consists of the writing of an essay and an objective part containing 180 multiple choice questions. The questions are divided into four groups of 45 questions each, namely, Humanities, Languages, Sciences and Mathematics.&lt;/p&gt;
+&lt;p&gt;This dataset contains only the textual part of objective part, segmented in questions. Every question is divided into 3 parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;em&gt;header&lt;/em&gt;, contianing background knwoledge in the form of an image, text or table is given;&lt;/li&gt;
+&lt;li&gt;The &lt;em&gt;statement&lt;/em&gt;, containing the text of the question;&lt;/li&gt;
+&lt;li&gt;The &lt;em&gt;answers&lt;/em&gt;, split into five fields, each containing the text of a candidate-answer (A,B,C,D,E), along with an additional tag informing the correct answer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In addition, every question is annotated with the following tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;id&lt;/code&gt;: the question number in that assessment;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;image&lt;/code&gt;: does it has an accompanying image in the exam?&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;EK&lt;/code&gt;: does it require knowledge not given in the header?&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;TC&lt;/code&gt;: does it require textual understanding of the header?&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;IC&lt;/code&gt;: does it require understanding of the associated image?&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;DS&lt;/code&gt;: does it require complex inference or domain specific knowledge?&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;MR&lt;/code&gt;: does it requires transforming instructions in natural language into mathematical formula?&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;CE&lt;/code&gt;: does it require treating chemical elements especially?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Currently, the challenge uses an XML version of questions taken from the exams between 2009 and 2017.&lt;/p&gt;
+&lt;p&gt;A more in-depth description of the dataset is found &lt;a href=&#34;ENEM-GuidingTest.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;download&#34;&gt;Download&lt;/h1&gt;
+&lt;p&gt;The 776kb zip archive containing the XML file can be downloaded &lt;a href=&#34;ENEMdataset.zip&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;solutions&#34;&gt;Solutions&lt;/h1&gt;
+&lt;p&gt;If you design a new solution, please &lt;a href=&#34;http://localhost:1313/~ddm/#contact&#34;&gt;send me a message&lt;/a&gt; reporting accuracy, reference (if any) and information as below. Here is a list of current solutions:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Paper&lt;/th&gt;
+&lt;th&gt;Accuracy&lt;/th&gt;
+&lt;th&gt;Note&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;citation&#34;&gt;Citation&lt;/h1&gt;
+&lt;p&gt;If you use this dataset, please cite the following work:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    @InProceedings{ ENEM-Challenge,
+            author = {Silveira, Igor Cataneo and Mau\&#39;a, Denis Deratani},
+            booktitle = {Proceedings of the 6th Brazilian Conference on Intelligent Systems},
+            series = {BRACIS},
+            title = {University Entrance Exam as a Guiding Test for Artificial Intelligence},
+            pages = {426--431},
+            year = {2017}
+    }&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Finite Model Theory of Bayesian Networks: Descriptive Complexity</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2018-ijcai/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2018-ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Automatically Solving the ENEM</title>
+      <link>http://localhost:1313/~ddm/publication/silveira-2018-bracis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/silveira-2018-bracis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustifying sum-product networks</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2018-ijar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2018-ijar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The complexity of Bayesian networks specified by propositional and relational languages</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2018-ai/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2018-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When a Robot Reaches Out for Human Help</title>
+      <link>http://localhost:1313/~ddm/publication/andres-2018-iberamia/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/andres-2018-iberamia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2017-arxiv/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2017-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks</title>
+      <link>http://localhost:1313/~ddm/publication/conaty-2017-uai/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/conaty-2017-uai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closed-Form Solutions in Learning Probabilistic Logic Programs by Exact Score Maximization</title>
+      <link>http://localhost:1313/~ddm/publication/defaria-2017-sum/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/defaria-2017-sum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Credal Sum-Product Networks</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2017-isipta/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2017-isipta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Markov Decision Processes with Imprecise Probabilities Using Probabilistic Logic Programming</title>
+      <link>http://localhost:1313/~ddm/publication/bueno-2017-isipta/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/bueno-2017-isipta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the complexity of propositional and relational credal networks</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2017-ijar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2017-ijar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Semantics and Complexity of Probabilistic Logic Programs</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2017-jair/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2017-jair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Using Sum-Product Networks For Multi-Label Classification</title>
+      <link>http://localhost:1313/~ddm/publication/villanueva-2017-bracis/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/villanueva-2017-bracis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter Learning in ProbLog with Probabilistic Rules</title>
+      <link>http://localhost:1313/~ddm/publication/de-faria-2017-kdmile/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/de-faria-2017-kdmile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding-up ProbLog&#39;s Parameter Learning</title>
+      <link>http://localhost:1313/~ddm/publication/defaria-2017-starai/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/defaria-2017-starai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complexity of Inferences and Explanations in Probabilistic Logic Programming</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2017-ecsqaru-b/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2017-ecsqaru-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Descriptive Complexity of Bayesian Network Specifications</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2017-ecsqaru-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2017-ecsqaru-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of combination functions on the complexity of relational Bayesian networks</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2017-ijar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2017-ijar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University Entrance Exam as a Guiding Test for Artificial Intelligence</title>
+      <link>http://localhost:1313/~ddm/publication/silveira-2017-bracis/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/silveira-2017-bracis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complexity of Bayesian Networks Specified by Propositional and Relational Languages</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2016-arxiv/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2016-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Better Initialization Heuristics for Order-based Bayesian Network Structure Learning</title>
+      <link>http://localhost:1313/~ddm/publication/perez-2016-jidm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/perez-2016-jidm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equivalences between maximum a posteriori inference in Bayesian networks and maximum expected utility computation in influence diagrams</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2016-ijar/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2016-ijar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast local search methods for solving limited memory influence diagrams</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2016-ijarb/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2016-ijarb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hidden Markov models with set-valued parameters</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2016-neuro/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2016-neuro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Acyclic Selection Order-Based Bayesian Network Structure Learning</title>
+      <link>http://localhost:1313/~ddm/publication/perez-2016-eniac/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/perez-2016-eniac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov Decision Processes Specified by Probabilistic Logic Programming: Representation and Solution</title>
+      <link>http://localhost:1313/~ddm/publication/bueno-2016-bracis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/bueno-2016-bracis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Graphical Models Specified by Probabilistic Logic Programs: Semantics and Complexity</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2016-pgm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2016-pgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Combination Functions on the Complexity of Relational Bayesian Networks</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2016-pgm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2016-pgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure and complexity of credal semantics</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2016-wplp/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2016-wplp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Well-Founded Semantics of Cyclic Probabilistic Logic Programs</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2016-eniac/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2016-eniac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tractable Class of Model Counting Problems</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2015-eniac/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2015-eniac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Networks of Bounded Treewith: A Performance Analysis</title>
+      <link>http://localhost:1313/~ddm/publication/machado-2015-eniac/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/machado-2015-eniac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Networks Specified Using Propositional and Relational Constructs: Combined, Data, and Domain Complexity</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2015-aaai/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2015-aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DL-Lite Bayesian Networks: A Tractable Probabilistic Graphical Model</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2015-sum/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2015-sum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early classification of time series by hidden Markov models with set-valued parameters</title>
+      <link>http://localhost:1313/~ddm/publication/antonucci-2015-d/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/antonucci-2015-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initialization Heuristics for Greedy Bayesian Network Structure Learning</title>
+      <link>http://localhost:1313/~ddm/publication/perez-2015-kdmile/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/perez-2015-kdmile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Complexity of Propositional and Relational Credal Networks</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2015-isipta/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2015-isipta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specifying Probabilistic Relational Models with Description Logics</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2015-eniac/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2015-eniac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complexity of MAP Inference in Bayesian Networks Specified Through Logical Languages</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2015-ijcai/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2015-ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complexity of Plate Probabilistic Models</title>
+      <link>http://localhost:1313/~ddm/publication/cozman-2015-sum/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2015-sum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Learning Bayesian Networks of Bounded Treewidth</title>
+      <link>http://localhost:1313/~ddm/publication/nie-2014-arxiv/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/nie-2014-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Learning Bayesian Networks of Bounded Treewidth</title>
+      <link>http://localhost:1313/~ddm/publication/nie-2014-nips/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/nie-2014-nips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms for Hidden Markov Models With Imprecisely Specified Parameters</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2014-bracis/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2014-bracis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equivalences between Maximum a Posteriori Inference in Bayesian Networks and Maximum Expected Utility Computation in Influence Diagrams</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2014-pgm-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2014-pgm-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Inference in Credal Networks: New Complexity Results</title>
+      <link>http://localhost:1313/~ddm/publication/maua-cba-14-jair/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-cba-14-jair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding Up k-Neighborhood Local Search in Limited Memory Influence Diagrams</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2014-pgm-b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2014-pgm-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trading off Speed and Accuracy in Multilabel Classification</title>
+      <link>http://localhost:1313/~ddm/publication/corani-2014-pgm/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/corani-2014-pgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>http://localhost:1313/~ddm/publication_old/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication_old/conference-paper/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Algorithms and Complexity Results for Discrete Probabilistic Reasoning Tasks</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Ensemble of Bayesian Networks for Multilabel Classification</title>
+      <link>http://localhost:1313/~ddm/publication/antonucci-2013-ijcai/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/antonucci-2013-ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the complexity of solving polytree-shaped limited memory influence diagrams with binary variables</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2013-ai/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2013-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Complexity of Strong and Epistemic Credal Networks</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2013-uai/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2013-uai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anytime Marginal MAP Inference</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2012-icml/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2012-icml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating credal classifiers by utility-discounted predictive accuracy</title>
+      <link>http://localhost:1313/~ddm/publication/zaffalon-2012-ijar/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/zaffalon-2012-ijar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving Limited Memory Influence Diagrams</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2012-jair/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2012-jair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complexity of Approximately Solving Influence Diagrams</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2012-uai/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2012-uai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Updating Credal Networks is Approximable in Polynomial Time</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2012-ijar/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2012-ijar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving Limited Memory Influence Diagrams</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2011-arxiv/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2011-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fully Polynomial Time Approximation Scheme for Updating Credal Networks of Bounded Treewidth and Number of Variable States</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2011-isipta/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2011-isipta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving Decision Problems with Limited Information</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2011-nips/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2011-nips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utility-Based Accuracy Measures to Empirically Evaluate Credal Classifiers</title>
+      <link>http://localhost:1313/~ddm/publication/zaffalon-2011-isipta/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/zaffalon-2011-isipta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing and Classifying User Reviews</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2009-enia/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2009-enia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic models on the automatic classification of user reviews</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2009-masterthesis/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2009-masterthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing Trust in Virtual Communities with Markov Logic</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2008-wtdia/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2008-wtdia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Social Data to Predict Trust on Web Communities : A Case Study with the Epinions.com Website</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2008-wiva/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2008-wiva/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

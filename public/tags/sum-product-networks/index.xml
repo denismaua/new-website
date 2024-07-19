@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sum-Product Networks | </title>
+    <link>http://localhost:1313/~ddm/tags/sum-product-networks/</link>
+      <atom:link href="http://localhost:1313/~ddm/tags/sum-product-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sum-Product Networks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/~ddm/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Sum-Product Networks</title>
+      <link>http://localhost:1313/~ddm/tags/sum-product-networks/</link>
+    </image>
+    
+    <item>
+      <title>Tractable Mode-Finding in Sum-Product Networks with Gaussian Leaves</title>
+      <link>http://localhost:1313/~ddm/publication/madeira-2022-eniac/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/madeira-2022-eniac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Uncertainty Estimators for Sum-Product Networks</title>
+      <link>http://localhost:1313/~ddm/project/pq2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/project/pq2020/</guid>
+      <description>&lt;h2 id=&#34;funding-agency&#34;&gt;Funding Agency&lt;/h2&gt;
+&lt;p&gt;CNPq grant 304012/2019-0 (ended)&lt;/p&gt;
+&lt;h2 id=&#34;coordinator&#34;&gt;Coordinator&lt;/h2&gt;
+&lt;p&gt;Denis Deratani Mauá&lt;/p&gt;
+&lt;h2 id=&#34;participants&#34;&gt;Participants&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Denis Deratani Mauá&lt;/li&gt;
+&lt;li&gt;Julissa G. Villanueva, PhD candidate at IME-USP&lt;/li&gt;
+&lt;li&gt;Renato Lui Geh, MSc student at IME-USP&lt;/li&gt;
+&lt;li&gt;Decio L. Soares, MSc student at IME-USP&lt;/li&gt;
+&lt;li&gt;Jonas Gonçalves, Undergraduate student at IME-USP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Deep models have recently obtained impressive results in a
+wide range of tasks and domains, from computer vision to
+image and text processing to diagnosis and automated
+reasoning. Sum-product networks are special type of neural
+networks targeted at the representation of
+high-dimensionality probability distributions. Notably, the
+structure of a sum-product network (i.e., its graph) encodes
+a number of probabilistic independence assertions. In
+addition, each node of the network computes a valid
+distribution over its part of the variables. Such
+probabilistic semantics facilitates debugging, allows a wide
+range of queries and data (including missing and noisy data)
+to be handled properly and efficiently, and enables
+efficient structure learning algorithms.&lt;/p&gt;
+&lt;p&gt;In many applications, it is desirable to have not only a
+prediction (e.g., the probability of observing a certain
+object, say an image), but a confidence measure about its
+prediction. As sum-product networks are learned from data,
+the probabilities they calculate can be overly confident or
+too sensitive to hyperparameters on regions where data was
+scarce, conflicting or too noisy. In this research project,
+we plan on following two possible approaches to estimating
+the uncertainty of a sum-product network prediction. The
+first approach estimates uncertainty by analyzing the effect
+that small perturbations of the data have on the prediction.
+The second approach considers the variability of predictions
+among different networks (learned from the same data).&lt;/p&gt;
+&lt;p&gt;This research investigates predictive uncertainty estimators for sum-product
+networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficient Algorithms for Robustness Analysis of Maximum A Posteriori Inference in Selective Sum-Product Networks</title>
+      <link>http://localhost:1313/~ddm/publication/julissa-2020-ijar/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/julissa-2020-ijar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two Reformulation Approaches to Maximum-A-Posteriori Inference in Sum-Product Networks</title>
+      <link>http://localhost:1313/~ddm/publication/maua-2020-pgm/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~ddm/publication/maua-2020-pgm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

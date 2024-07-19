@@ -1,0 +1,11 @@
+#!/bin/sh
+
+# Script to deploy website
+
+USER=ddm
+HOST=ime            
+DIR=www/   # the directory where your web site files should go
+
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
+
+exit 0
