@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Relational Models | </title>
-    <link>http://localhost:1313/~ddm/tags/relational-models/</link>
-      <atom:link href="http://localhost:1313/~ddm/tags/relational-models/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ime.usp.br/~ddm/tags/relational-models/</link>
+      <atom:link href="https://www.ime.usp.br/~ddm/tags/relational-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Relational Models</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/~ddm/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.ime.usp.br/~ddm/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Relational Models</title>
-      <link>http://localhost:1313/~ddm/tags/relational-models/</link>
+      <link>https://www.ime.usp.br/~ddm/tags/relational-models/</link>
     </image>
     
     <item>
       <title>The Effect of Combination Functions on the Complexity of Relational Bayesian Networks</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2016-pgm/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2016-pgm/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2016-pgm/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2016-pgm/</guid>
       <description></description>
     </item>
     
