@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Alan Pennacchio
 - Leliane Barros
-- Denis Mauá
+- admin
 tags:
 - 'deep probabilistic planning'
 categories: []

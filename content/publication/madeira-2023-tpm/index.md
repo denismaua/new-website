@@ -7,7 +7,7 @@ title: On Modal Clustering with Gaussian Sum-Product Networks
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Tiago Madeira
-- Denis Mauá
+- admin
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
