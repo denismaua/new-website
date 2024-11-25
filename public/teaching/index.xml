@@ -7,7 +7,7 @@
     <description>Teaching</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ime.usp.br/~ddm/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.ime.usp.br/~ddm/media/icon_hu7729264130191091259.png</url>
       <title>Teaching</title>
       <link>https://www.ime.usp.br/~ddm/teaching/</link>
     </image>
@@ -127,7 +127,8 @@
 &lt;li&gt;Computador com Linux instalado (de preferência Ubuntu) e acesso de administrador.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;link-para-repositório&#34;&gt;Link para repositório&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://gitlab.uspdigital.usp.br/mac0318-2021&#34;&gt;https://gitlab.uspdigital.usp.br/mac0318-2021&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;bibliografia&#34;&gt;Bibliografia&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;P. Corke. Robotics, Vision and Control: Fundamental Algorithms in Matlab, Springer, 2a. edição, 2017.&lt;/li&gt;

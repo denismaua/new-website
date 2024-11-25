@@ -25,7 +25,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the Thirteenth International Symposium on Imprecise
-  Probability: Theories and Applications*'
+  Probability: Theories and Applications (ISIPTA 2023)*'
 publication_short: ''
 
 doi: ''

@@ -1,11 +1,49 @@
-%% Last updated on Feb 5, 2024.
+%% Last updated on Nov 25, 2024.
+
+@inproceedings{wang2024neurips,
+  author = {Benjie Wang and Denis Deratani Mauá and Guy Van den Broeck and YooJung Choi},
+  booktitle = {Thirty-Eight Conference on Neural Information Processing Systems (NeurIPS 2024)},
+  editor = {},
+  title = {A Compositional Atlas for Algebraic Circuits},
+  year = {2024},
+  abstract = {Circuits based on sum-product structure have become a ubiquitous representation to compactly encode knowledge, from Boolean functions to probability distributions. By imposing constraints on the structure of such circuits, certain inference queries become tractable, such as model counting and most probable configuration. Recent works have explored analyzing probabilistic and causal inference queries as compositions of basic operations to derive tractability conditions. In this paper, we take an algebraic perspective for compositional inference, and show that a large class of queries---including marginal MAP, probabilistic answer set programming inference, and causal backdoor adjustment---correspond to a combination of basic operations over semirings: aggregation, product, and elementwise mapping. Using this framework, we uncover simple and general sufficient conditions for tractable composition of these operations, in terms of circuit properties (e.g., marginal determinism, compatibility) and conditions on the elementwise mappings. Applying our analysis, we derive novel tractability conditions for many such compositional queries. Our results unify tractability conditions for existing problems on circuits, while providing a blueprint for analysing novel compositional inference queries.}
+}
+
+@inproceedings{geh2024kr,
+    title     = {{dPASP}: A Probabilistic Logic Programming Environment For Neurosymbolic Learning and Reasoning},
+    author    = {Geh, Renato Lui and Gonçalves, Jonas and Silveira, Igor C. and Mauá, Denis D. and Cozman, Fabio G.},
+    booktitle = {{Proceedings of the 21st International Conference on Principles of Knowledge Representation and Reasoning}},
+    pages     = {731--742},
+    year      = {2024},
+    month     = {8},
+    doi       = {10.24963/kr.2024/69},
+    url       = {https://doi.org/10.24963/kr.2024/69},
+    abstract = {We present dPASP, a novel declarative probabilistic logic programming framework that allows for the specification of discrete probabilistic models by neural predicates, relational logic constraints, and interval-valued probabilistic choices. This expressive combination facilitates the construction of models that combine low-level perception (images, texts, etc) and common-sense reasoning, thus providing an excellent tool for neurosymbolic reasoning. To support all such features, we discuss several semantics for probabilistic logic programs that allow one to express nondeterminism, non-monotonic reasoning, contradiction, and (vague) probabilistic knowledge. We also discuss how gradient-based learning can be performed with neural predicates and probabilistic choices under selected semantics. To showcase the possibilities offered by the framework, we present case studies that exploit different semantics and constructs.}
+  }
+
+@inproceedings{maua2024nmr,
+  author = {Denis Deratani Mauá and Fabio Gagliardi Cozman and Alexandro Garces},
+  booktitle = {Proceedings of the 22nd International Workshop on Nonmonotonic Reasoning (NMR 2024)},
+  editor = {Nina Gierasimczuk and Jesse Heyninck},
+  title = {Probabilistic Logic Programming under the L-Stable Semantics},
+  year = {2024},
+  pages = {24--33},
+  url = {https://ceur-ws.org/Vol-3835/paper3.pdf},
+  abstract = {Probabilistic logic programming extends logic programming to offer a rich specification language for statistical relational models and,
+more recently, to neurosymbolic reasoners. The standard stable model semantics adopted by probabilistic logic programs collapses in the
+presence of contradictions that can arise when knowledge is not carefully elicited. In this work, we study probabilistic disjunctive logic
+programs under the least-undefined stable model semantics. We prove missing complexity results for logic inference with bounded-arity
+predicates, and then derive the complexity of probabilistic inference with respect to both the credal and the maximum entropy semantics.}
+}
 
 @inproceedings{silveira2024propor,
   author          = {Igor Cataneo Silveira and André Barbosa and Denis Deratani Mauá},
-  booktitle       = {Proceedings of the 16th International Conference on Computational Processing of Portuguese (PROPOR 2024), to appear in},
+  editor = {Pablo Gamallo and Daniela Claro and António Teixeira and Livy Real and Marcos Garcia and Hugo Gonçalo Oliveira and Raquel Amaro},
+  booktitle       = {Proceedings of the 16th International Conference on Computational Processing of Portuguese (PROPOR 2024)},
   title           = {A New Benchmark for Automatic Essay Scoring in Portuguese},
   year            = {2024},
-  note            = {accepted}
+  pages = {228–-237},
+  url = {https://aclanthology.org/2024.propor-1.23}
 }
 
 @InProceedings{rocha2023epia,

@@ -5,18 +5,42 @@
     <link>https://www.ime.usp.br/~ddm/publication_types/paper-conference/</link>
       <atom:link href="https://www.ime.usp.br/~ddm/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ime.usp.br/~ddm/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.ime.usp.br/~ddm/media/icon_hu7729264130191091259.png</url>
       <title>Paper-Conference</title>
       <link>https://www.ime.usp.br/~ddm/publication_types/paper-conference/</link>
     </image>
+    
+    <item>
+      <title>dPASP: A Probabilistic Logic Programming Environment For Neurosymbolic Learning and Reasoning</title>
+      <link>https://www.ime.usp.br/~ddm/publication/geh-2024-kr/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.ime.usp.br/~ddm/publication/geh-2024-kr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Compositional Atlas for Algebraic Circuits</title>
+      <link>https://www.ime.usp.br/~ddm/publication/wang-2024-neurips/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.ime.usp.br/~ddm/publication/wang-2024-neurips/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A New Benchmark for Automatic Essay Scoring in Portuguese</title>
       <link>https://www.ime.usp.br/~ddm/publication/silveira-2024-propor/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://www.ime.usp.br/~ddm/publication/silveira-2024-propor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Logic Programming under the L-Stable Semantics</title>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2024-nmr/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2024-nmr/</guid>
       <description></description>
     </item>
     
