@@ -26,8 +26,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Thirty-Eight Conference on Neural Information Processing Systems (NeurIPS
-  2024)*'
+publication: '*Thirty-Eight Annual Conference on Neural Information Processing Systems (NeurIPS 2024)*'
 publication_short: ''
 
 doi: ''
@@ -43,7 +42,7 @@ tags: [circuits]
 featured: true
 
 # Links
-url_pdf: ''
+url_pdf: 'https://openreview.net/forum?id=mXlR1FLFDc'
 url_code: ''
 url_dataset: ''
 url_poster: ''
