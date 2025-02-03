@@ -75,7 +75,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [neuroproblog]
+projects: ['neuroproblog']
 links:
 - name: URL
   url: https://proceedings.mlr.press/v215/maua23a.html

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Markov Decision Processes&#34; | </title>
-    <link>https://www.ime.usp.br/~ddm/tags/markov-decision-processes/</link>
-      <atom:link href="https://www.ime.usp.br/~ddm/tags/markov-decision-processes/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/~ddm/tags/markov-decision-processes/</link>
+      <atom:link href="http://localhost:1313/~ddm/tags/markov-decision-processes/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Markov Decision Processes&#34;</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ime.usp.br/~ddm/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/~ddm/media/icon_hu7729264130191091259.png</url>
       <title>&#34;Markov Decision Processes&#34;</title>
-      <link>https://www.ime.usp.br/~ddm/tags/markov-decision-processes/</link>
+      <link>http://localhost:1313/~ddm/tags/markov-decision-processes/</link>
     </image>
     
     <item>
       <title>Efficient algorithms for Risk-Sensitive Markov Decision Processes with limited budget</title>
-      <link>https://www.ime.usp.br/~ddm/publication/moreira-2021-ijar/</link>
+      <link>http://localhost:1313/~ddm/publication/moreira-2021-ijar/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/moreira-2021-ijar/</guid>
+      <guid>http://localhost:1313/~ddm/publication/moreira-2021-ijar/</guid>
       <description></description>
     </item>
     

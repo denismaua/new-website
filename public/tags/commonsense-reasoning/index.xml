@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Commonsense Reasoning | </title>
-    <link>https://www.ime.usp.br/~ddm/tags/commonsense-reasoning/</link>
-      <atom:link href="https://www.ime.usp.br/~ddm/tags/commonsense-reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/~ddm/tags/commonsense-reasoning/</link>
+      <atom:link href="http://localhost:1313/~ddm/tags/commonsense-reasoning/index.xml" rel="self" type="application/rss+xml" />
     <description>Commonsense Reasoning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ime.usp.br/~ddm/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/~ddm/media/icon_hu7729264130191091259.png</url>
       <title>Commonsense Reasoning</title>
-      <link>https://www.ime.usp.br/~ddm/tags/commonsense-reasoning/</link>
+      <link>http://localhost:1313/~ddm/tags/commonsense-reasoning/</link>
     </image>
     
     <item>
       <title>The ENEM Challenge</title>
-      <link>https://www.ime.usp.br/~ddm/project/enem/</link>
+      <link>http://localhost:1313/~ddm/project/enem/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/project/enem/</guid>
+      <guid>http://localhost:1313/~ddm/project/enem/</guid>
       <description>&lt;p&gt;It is widely accepted that university entrance exams require human-level
 intelligence to be satisfactorily solved. In particular, such exams
 require skills such as text and image understanding, informational retrieval,

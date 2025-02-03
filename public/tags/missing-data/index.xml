@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Missing Data | </title>
-    <link>https://www.ime.usp.br/~ddm/tags/missing-data/</link>
-      <atom:link href="https://www.ime.usp.br/~ddm/tags/missing-data/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/~ddm/tags/missing-data/</link>
+      <atom:link href="http://localhost:1313/~ddm/tags/missing-data/index.xml" rel="self" type="application/rss+xml" />
     <description>Missing Data</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ime.usp.br/~ddm/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/~ddm/media/icon_hu7729264130191091259.png</url>
       <title>Missing Data</title>
-      <link>https://www.ime.usp.br/~ddm/tags/missing-data/</link>
+      <link>http://localhost:1313/~ddm/tags/missing-data/</link>
     </image>
     
     <item>
       <title>Cautious Classification with Data Missing Not at Random using Generative Random Forests</title>
-      <link>https://www.ime.usp.br/~ddm/publication/villanueva-2021-ecsqaru/</link>
+      <link>http://localhost:1313/~ddm/publication/villanueva-2021-ecsqaru/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/villanueva-2021-ecsqaru/</guid>
+      <guid>http://localhost:1313/~ddm/publication/villanueva-2021-ecsqaru/</guid>
       <description></description>
     </item>
     

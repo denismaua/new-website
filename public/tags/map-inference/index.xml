@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Map Inference&#34; | </title>
-    <link>https://www.ime.usp.br/~ddm/tags/map-inference/</link>
-      <atom:link href="https://www.ime.usp.br/~ddm/tags/map-inference/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/~ddm/tags/map-inference/</link>
+      <atom:link href="http://localhost:1313/~ddm/tags/map-inference/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Map Inference&#34;</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ime.usp.br/~ddm/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/~ddm/media/icon_hu7729264130191091259.png</url>
       <title>&#34;Map Inference&#34;</title>
-      <link>https://www.ime.usp.br/~ddm/tags/map-inference/</link>
+      <link>http://localhost:1313/~ddm/tags/map-inference/</link>
     </image>
     
     <item>
       <title>Anytime Marginal MAP Inference</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2012-icml/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2012-icml/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2012-icml/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2012-icml/</guid>
       <description></description>
     </item>
     
