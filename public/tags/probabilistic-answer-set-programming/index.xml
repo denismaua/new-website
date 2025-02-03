@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Probabilistic Answer Set Programming | </title>
-    <link>http://localhost:1313/~ddm/tags/probabilistic-answer-set-programming/</link>
-      <atom:link href="http://localhost:1313/~ddm/tags/probabilistic-answer-set-programming/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ime.usp.br/~ddm/tags/probabilistic-answer-set-programming/</link>
+      <atom:link href="https://www.ime.usp.br/~ddm/tags/probabilistic-answer-set-programming/index.xml" rel="self" type="application/rss+xml" />
     <description>Probabilistic Answer Set Programming</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/~ddm/media/icon_hu7729264130191091259.png</url>
+      <url>https://www.ime.usp.br/~ddm/media/icon_hu7729264130191091259.png</url>
       <title>Probabilistic Answer Set Programming</title>
-      <link>http://localhost:1313/~ddm/tags/probabilistic-answer-set-programming/</link>
+      <link>https://www.ime.usp.br/~ddm/tags/probabilistic-answer-set-programming/</link>
     </image>
     
     <item>
       <title>Specifying credal sets with probabilistic answer set programming</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2023-isipta/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2023-isipta/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2023-isipta/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2023-isipta/</guid>
       <description></description>
     </item>
     

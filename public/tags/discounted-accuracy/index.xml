@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Discounted Accuracy&#34; | </title>
-    <link>http://localhost:1313/~ddm/tags/discounted-accuracy/</link>
-      <atom:link href="http://localhost:1313/~ddm/tags/discounted-accuracy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ime.usp.br/~ddm/tags/discounted-accuracy/</link>
+      <atom:link href="https://www.ime.usp.br/~ddm/tags/discounted-accuracy/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Discounted Accuracy&#34;</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/~ddm/media/icon_hu7729264130191091259.png</url>
+      <url>https://www.ime.usp.br/~ddm/media/icon_hu7729264130191091259.png</url>
       <title>&#34;Discounted Accuracy&#34;</title>
-      <link>http://localhost:1313/~ddm/tags/discounted-accuracy/</link>
+      <link>https://www.ime.usp.br/~ddm/tags/discounted-accuracy/</link>
     </image>
     
     <item>
       <title>Utility-Based Accuracy Measures to Empirically Evaluate Credal Classifiers</title>
-      <link>http://localhost:1313/~ddm/publication/zaffalon-2011-isipta/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/zaffalon-2011-isipta/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/zaffalon-2011-isipta/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/zaffalon-2011-isipta/</guid>
       <description></description>
     </item>
     

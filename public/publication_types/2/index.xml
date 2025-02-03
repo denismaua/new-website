@@ -2,205 +2,205 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | </title>
-    <link>http://localhost:1313/~ddm/publication_types/2/</link>
-      <atom:link href="http://localhost:1313/~ddm/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ime.usp.br/~ddm/publication_types/2/</link>
+      <atom:link href="https://www.ime.usp.br/~ddm/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/~ddm/media/icon_hu7729264130191091259.png</url>
+      <url>https://www.ime.usp.br/~ddm/media/icon_hu7729264130191091259.png</url>
       <title>2</title>
-      <link>http://localhost:1313/~ddm/publication_types/2/</link>
+      <link>https://www.ime.usp.br/~ddm/publication_types/2/</link>
     </image>
     
     <item>
       <title>Distinct Outcomes in COVID-19 Patients with Positive or Negative RT-PCR Test</title>
-      <link>http://localhost:1313/~ddm/publication/mc-2022-viruses/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/mc-2022-viruses/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/mc-2022-viruses/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/mc-2022-viruses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Timing to Intubation COVID-19 Patients: Can We Put It Off until Tomorrow?</title>
-      <link>http://localhost:1313/~ddm/publication/alencar-2022-healthcare/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/alencar-2022-healthcare/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/alencar-2022-healthcare/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/alencar-2022-healthcare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient algorithms for Risk-Sensitive Markov Decision Processes with limited budget</title>
-      <link>http://localhost:1313/~ddm/publication/moreira-2021-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/moreira-2021-ijar/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/moreira-2021-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/moreira-2021-ijar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Complexity results for probabilistic answer set programming</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2020-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2020-ijar/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2020-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2020-ijar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Algorithms for Robustness Analysis of Maximum A Posteriori Inference in Selective Sum-Product Networks</title>
-      <link>http://localhost:1313/~ddm/publication/julissa-2020-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/julissa-2020-ijar/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/julissa-2020-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/julissa-2020-ijar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Joy of Probabilistic Answer Set Programming: Semantics, complexity, expressivity, inference</title>
-      <link>http://localhost:1313/~ddm/publication/cozman-2020-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/cozman-2020-ijar/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/cozman-2020-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2020-ijar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thirty years of credal networks: Specification, algorithms and complexity</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2020-ijar-b/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2020-ijar-b/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2020-ijar-b/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2020-ijar-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tractable inference in credal sentential decision diagrams</title>
-      <link>http://localhost:1313/~ddm/publication/mattei-2020-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/mattei-2020-ijar/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/mattei-2020-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/mattei-2020-ijar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speeding up parameter and rule learning for acyclic probabilistic logic programs</title>
-      <link>http://localhost:1313/~ddm/publication/faria-2019-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/faria-2019-ijar/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/faria-2019-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/faria-2019-ijar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The finite model theory of Bayesian network specifications: Descriptive complexity and zero/one laws</title>
-      <link>http://localhost:1313/~ddm/publication/cozman-2019-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/cozman-2019-ijar/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/cozman-2019-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2019-ijar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robustifying sum-product networks</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2018-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2018-ijar/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2018-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2018-ijar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The complexity of Bayesian networks specified by propositional and relational languages</title>
-      <link>http://localhost:1313/~ddm/publication/cozman-2018-ai/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/cozman-2018-ai/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/cozman-2018-ai/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2018-ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the complexity of propositional and relational credal networks</title>
-      <link>http://localhost:1313/~ddm/publication/cozman-2017-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/cozman-2017-ijar/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/cozman-2017-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2017-ijar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Semantics and Complexity of Probabilistic Logic Programs</title>
-      <link>http://localhost:1313/~ddm/publication/cozman-2017-jair/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/cozman-2017-jair/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/cozman-2017-jair/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2017-jair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effect of combination functions on the complexity of relational Bayesian networks</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2017-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2017-ijar/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2017-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2017-ijar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Better Initialization Heuristics for Order-based Bayesian Network Structure Learning</title>
-      <link>http://localhost:1313/~ddm/publication/perez-2016-jidm/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/perez-2016-jidm/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/perez-2016-jidm/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/perez-2016-jidm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equivalences between maximum a posteriori inference in Bayesian networks and maximum expected utility computation in influence diagrams</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2016-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2016-ijar/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2016-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2016-ijar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast local search methods for solving limited memory influence diagrams</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2016-ijarb/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2016-ijarb/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2016-ijarb/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2016-ijarb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hidden Markov models with set-valued parameters</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2016-neuro/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2016-neuro/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2016-neuro/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2016-neuro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Inference in Credal Networks: New Complexity Results</title>
-      <link>http://localhost:1313/~ddm/publication/maua-cba-14-jair/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-cba-14-jair/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-cba-14-jair/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-cba-14-jair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the complexity of solving polytree-shaped limited memory influence diagrams with binary variables</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2013-ai/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2013-ai/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2013-ai/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2013-ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating credal classifiers by utility-discounted predictive accuracy</title>
-      <link>http://localhost:1313/~ddm/publication/zaffalon-2012-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/zaffalon-2012-ijar/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/zaffalon-2012-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/zaffalon-2012-ijar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving Limited Memory Influence Diagrams</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2012-jair/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2012-jair/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2012-jair/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2012-jair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Updating Credal Networks is Approximable in Polynomial Time</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2012-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2012-ijar/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2012-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2012-ijar/</guid>
       <description></description>
     </item>
     
