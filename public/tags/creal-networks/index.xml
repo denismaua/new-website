@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Creal Networks&#34; | </title>
-    <link>https://www.ime.usp.br/~ddm/tags/creal-networks/</link>
-      <atom:link href="https://www.ime.usp.br/~ddm/tags/creal-networks/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/~ddm/tags/creal-networks/</link>
+      <atom:link href="http://localhost:1313/~ddm/tags/creal-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Creal Networks&#34;</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ime.usp.br/~ddm/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png</url>
       <title>&#34;Creal Networks&#34;</title>
-      <link>https://www.ime.usp.br/~ddm/tags/creal-networks/</link>
+      <link>http://localhost:1313/~ddm/tags/creal-networks/</link>
     </image>
     
     <item>
       <title>On the Complexity of Strong and Epistemic Credal Networks</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2013-uai/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2013-uai/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2013-uai/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2013-uai/</guid>
       <description></description>
     </item>
     

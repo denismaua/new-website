@@ -2,887 +2,891 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.ime.usp.br/~ddm/event/</loc>
+    <loc>http://localhost:1313/~ddm/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/automatic-essay-evaluation/</loc>
+    <loc>http://localhost:1313/~ddm/tags/automatic-essay-evaluation/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/silveira-2024-bracis/</loc>
+    <loc>http://localhost:1313/~ddm/publication/silveira-2024-bracis/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication_types/paper-conference/</loc>
+    <loc>http://localhost:1313/~ddm/publication_types/paper-conference/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication_types/</loc>
+    <loc>http://localhost:1313/~ddm/publication_types/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/</loc>
+    <loc>http://localhost:1313/~ddm/publication/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/</loc>
+    <loc>http://localhost:1313/~ddm/tags/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/geh-2024-kr/</loc>
+    <loc>http://localhost:1313/~ddm/publication/geh-2024-kr/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/neurosymbolic-reasoning/</loc>
+    <loc>http://localhost:1313/~ddm/tags/neurosymbolic-reasoning/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/probabilistic-logic-programming/</loc>
+    <loc>http://localhost:1313/~ddm/tags/probabilistic-logic-programming/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/experience/</loc>
+    <loc>http://localhost:1313/~ddm/experience/</loc>
     <lastmod>2024-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/projects/</loc>
+    <loc>http://localhost:1313/~ddm/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/wang-2024-neurips/</loc>
+    <loc>http://localhost:1313/~ddm/publication/wang-2024-neurips/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/silveira-2024-propor/</loc>
+    <loc>http://localhost:1313/~ddm/publication/silveira-2024-propor/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/circuits/</loc>
+    <loc>http://localhost:1313/~ddm/tags/circuits/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/natural-language-processing/</loc>
+    <loc>http://localhost:1313/~ddm/tags/natural-language-processing/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2024-nmr/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2024-nmr/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/post/get-started/</loc>
+    <loc>http://localhost:1313/~ddm/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/academic/</loc>
+    <loc>http://localhost:1313/~ddm/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/post/</loc>
+    <loc>http://localhost:1313/~ddm/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/hugo-blox/</loc>
+    <loc>http://localhost:1313/~ddm/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/markdown/</loc>
+    <loc>http://localhost:1313/~ddm/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/second-brain/</loc>
+    <loc>http://localhost:1313/~ddm/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/post/second-brain/</loc>
+    <loc>http://localhost:1313/~ddm/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/post/data-visualization/</loc>
+    <loc>http://localhost:1313/~ddm/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/hugo/</loc>
+    <loc>http://localhost:1313/~ddm/tags/hugo/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/post/teach-courses/</loc>
+    <loc>http://localhost:1313/~ddm/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/hugo-blox-builder/</loc>
+    <loc>http://localhost:1313/~ddm/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/javascript/</loc>
+    <loc>http://localhost:1313/~ddm/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/teaching/js/</loc>
+    <loc>http://localhost:1313/~ddm/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/teaching/python/</loc>
+    <loc>http://localhost:1313/~ddm/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/python/</loc>
+    <loc>http://localhost:1313/~ddm/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/teaching/</loc>
+    <loc>http://localhost:1313/~ddm/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/post/project-management/</loc>
+    <loc>http://localhost:1313/~ddm/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/credal-networks/</loc>
+    <loc>http://localhost:1313/~ddm/tags/credal-networks/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/imprecise-probability/</loc>
+    <loc>http://localhost:1313/~ddm/tags/imprecise-probability/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/probabilistic-answer-set-programming/</loc>
+    <loc>http://localhost:1313/~ddm/tags/probabilistic-answer-set-programming/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2023-isipta/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2023-isipta/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/deep-learning/</loc>
+    <loc>http://localhost:1313/~ddm/tags/deep-learning/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/fapesp/</loc>
+    <loc>http://localhost:1313/~ddm/tags/fapesp/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/project/neuroproblog/</loc>
+    <loc>http://localhost:1313/~ddm/project/neuroproblog/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/productivity-scholarship/</loc>
+    <loc>http://localhost:1313/~ddm/tags/productivity-scholarship/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/project/</loc>
+    <loc>http://localhost:1313/~ddm/project/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication_types/1/</loc>
+    <loc>http://localhost:1313/~ddm/publication_types/1/</loc>
     <lastmod>2023-07-07T11:14:52-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/rocha-2023-epia/</loc>
+    <loc>http://localhost:1313/~ddm/publication/rocha-2023-epia/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/generative-text/</loc>
+    <loc>http://localhost:1313/~ddm/tags/generative-text/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/large-language-models/</loc>
+    <loc>http://localhost:1313/~ddm/tags/large-language-models/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/madeira-2023-tpm/</loc>
+    <loc>http://localhost:1313/~ddm/publication/madeira-2023-tpm/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/</loc>
+    <loc>http://localhost:1313/~ddm/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/project/keml-blab/</loc>
+    <loc>http://localhost:1313/~ddm/project/keml-blab/</loc>
     <lastmod>2022-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/teaching/mac318/</loc>
+    <loc>http://localhost:1313/~ddm/teaching/mac318/</loc>
     <lastmod>2022-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication_types/2/</loc>
+    <loc>http://localhost:1313/~ddm/publication_types/2/</loc>
     <lastmod>2022-01-21T10:10:28-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/covid19/</loc>
+    <loc>http://localhost:1313/~ddm/tags/covid19/</loc>
     <lastmod>2022-01-21T10:10:28-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/deep-probabilistic-planning/</loc>
+    <loc>http://localhost:1313/~ddm/tags/deep-probabilistic-planning/</loc>
     <lastmod>2022-08-25T12:35:25-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/pennacchio-2022-bwaif/</loc>
+    <loc>http://localhost:1313/~ddm/publication/pennacchio-2022-bwaif/</loc>
     <lastmod>2022-08-25T12:35:25-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/dias-2022-kdmile/</loc>
+    <loc>http://localhost:1313/~ddm/publication/dias-2022-kdmile/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/mc-2022-viruses/</loc>
+    <loc>http://localhost:1313/~ddm/publication/mc-2022-viruses/</loc>
     <lastmod>2022-01-18T11:26:09-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/lovatto-2022-bracis/</loc>
+    <loc>http://localhost:1313/~ddm/publication/lovatto-2022-bracis/</loc>
     <lastmod>2022-11-18T10:35:51-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/jose-2022-propor/</loc>
+    <loc>http://localhost:1313/~ddm/publication/jose-2022-propor/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/maximum-a-posteriori-inference/</loc>
+    <loc>http://localhost:1313/~ddm/tags/maximum-a-posteriori-inference/</loc>
     <lastmod>2023-01-10T18:17:14-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/medical/</loc>
+    <loc>http://localhost:1313/~ddm/tags/medical/</loc>
     <lastmod>2022-01-21T10:10:28-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/probabilistic-circuits/</loc>
+    <loc>http://localhost:1313/~ddm/tags/probabilistic-circuits/</loc>
     <lastmod>2023-07-07T11:14:52-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/random-forests/</loc>
+    <loc>http://localhost:1313/~ddm/tags/random-forests/</loc>
     <lastmod>2022-11-18T10:35:51-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/reinforcemente-learning/</loc>
+    <loc>http://localhost:1313/~ddm/tags/reinforcemente-learning/</loc>
     <lastmod>2022-11-18T10:35:51-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/sum-product-networks/</loc>
+    <loc>http://localhost:1313/~ddm/tags/sum-product-networks/</loc>
     <lastmod>2023-01-10T18:17:14-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/moneda-2022-bracis/</loc>
+    <loc>http://localhost:1313/~ddm/publication/moneda-2022-bracis/</loc>
     <lastmod>2022-11-18T10:35:51-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/alencar-2022-healthcare/</loc>
+    <loc>http://localhost:1313/~ddm/publication/alencar-2022-healthcare/</loc>
     <lastmod>2022-01-21T10:10:28-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/villanueva-2022-kdmile/</loc>
+    <loc>http://localhost:1313/~ddm/publication/villanueva-2022-kdmile/</loc>
     <lastmod>2023-07-07T11:14:52-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/madeira-2022-eniac/</loc>
+    <loc>http://localhost:1313/~ddm/publication/madeira-2022-eniac/</loc>
     <lastmod>2023-01-10T18:17:14-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/tractable-models/</loc>
+    <loc>http://localhost:1313/~ddm/tags/tractable-models/</loc>
     <lastmod>2023-01-10T18:17:14-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/markov-decision-processes/</loc>
+    <loc>http://localhost:1313/~ddm/tags/markov-decision-processes/</loc>
     <lastmod>2021-10-08T11:41:46-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/probabilistic-planning/</loc>
+    <loc>http://localhost:1313/~ddm/tags/probabilistic-planning/</loc>
     <lastmod>2021-10-08T11:41:46-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/risk-sensitive-markov-decision-processes/</loc>
+    <loc>http://localhost:1313/~ddm/tags/risk-sensitive-markov-decision-processes/</loc>
     <lastmod>2021-10-08T11:41:46-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/villanueva-2021-ecsqaru/</loc>
+    <loc>http://localhost:1313/~ddm/publication/villanueva-2021-ecsqaru/</loc>
     <lastmod>2021-08-25T12:59:06-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/moreira-2021-ijar/</loc>
+    <loc>http://localhost:1313/~ddm/publication/moreira-2021-ijar/</loc>
     <lastmod>2021-10-08T11:41:46-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/geh-2021-tpm/</loc>
+    <loc>http://localhost:1313/~ddm/publication/geh-2021-tpm/</loc>
     <lastmod>2021-08-25T12:45:56-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/geh-2021-uai/</loc>
+    <loc>http://localhost:1313/~ddm/publication/geh-2021-uai/</loc>
     <lastmod>2021-08-25T12:45:56-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/missing-data/</loc>
+    <loc>http://localhost:1313/~ddm/tags/missing-data/</loc>
     <lastmod>2021-08-25T12:59:06-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/event/sipta-school-2020/</loc>
+    <loc>http://localhost:1313/~ddm/event/sipta-school-2020/</loc>
     <lastmod>2020-12-08T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/imprecise-probabilities/</loc>
+    <loc>http://localhost:1313/~ddm/tags/imprecise-probabilities/</loc>
     <lastmod>2020-12-08T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/summer-school/</loc>
+    <loc>http://localhost:1313/~ddm/tags/summer-school/</loc>
     <lastmod>2020-12-08T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/project/pq2020/</loc>
+    <loc>http://localhost:1313/~ddm/project/pq2020/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/productivity-scholarhip/</loc>
+    <loc>http://localhost:1313/~ddm/tags/productivity-scholarhip/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/tractable-probabilistic-models/</loc>
+    <loc>http://localhost:1313/~ddm/tags/tractable-probabilistic-models/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/imprecise-probabilities/</loc>
+    <loc>http://localhost:1313/~ddm/tags/imprecise-probabilities/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/probabilistic-graphical-models/</loc>
+    <loc>http://localhost:1313/~ddm/tags/probabilistic-graphical-models/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/thomaz-2020-eniac/</loc>
+    <loc>http://localhost:1313/~ddm/publication/thomaz-2020-eniac/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/answer-set-programming/</loc>
+    <loc>http://localhost:1313/~ddm/tags/answer-set-programming/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2020-ijar/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2020-ijar/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/lovatto-2020-icbinb/</loc>
+    <loc>http://localhost:1313/~ddm/publication/lovatto-2020-icbinb/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/julissa-2020-ijar/</loc>
+    <loc>http://localhost:1313/~ddm/publication/julissa-2020-ijar/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/condori-2020-bracis/</loc>
+    <loc>http://localhost:1313/~ddm/publication/condori-2020-bracis/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/geh-2020-kdmile/</loc>
+    <loc>http://localhost:1313/~ddm/publication/geh-2020-kdmile/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/scaroni-2020-bracis/</loc>
+    <loc>http://localhost:1313/~ddm/publication/scaroni-2020-bracis/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/netto-2020-kdmile/</loc>
+    <loc>http://localhost:1313/~ddm/publication/netto-2020-kdmile/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/robustness-analysis/</loc>
+    <loc>http://localhost:1313/~ddm/tags/robustness-analysis/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/statistical-relational-learning/</loc>
+    <loc>http://localhost:1313/~ddm/tags/statistical-relational-learning/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2020-ijar/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2020-ijar/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2020-ijar-b/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2020-ijar-b/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/mattei-2020-ijar/</loc>
+    <loc>http://localhost:1313/~ddm/publication/mattei-2020-ijar/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2020-pgm/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2020-pgm/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/bueno-2019-aaai/</loc>
+    <loc>http://localhost:1313/~ddm/publication/bueno-2019-aaai/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/geh-2019-eniac/</loc>
+    <loc>http://localhost:1313/~ddm/publication/geh-2019-eniac/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/mattei-2019-tpm/</loc>
+    <loc>http://localhost:1313/~ddm/publication/mattei-2019-tpm/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/villanueva-2019-isipta/</loc>
+    <loc>http://localhost:1313/~ddm/publication/villanueva-2019-isipta/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/faria-2019-ijar/</loc>
+    <loc>http://localhost:1313/~ddm/publication/faria-2019-ijar/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2019-ijar/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2019-ijar/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/artificial-intelligence/</loc>
+    <loc>http://localhost:1313/~ddm/tags/artificial-intelligence/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/commonsense-reasoning/</loc>
+    <loc>http://localhost:1313/~ddm/tags/commonsense-reasoning/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/enem/</loc>
+    <loc>http://localhost:1313/~ddm/tags/enem/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/project/enem/</loc>
+    <loc>http://localhost:1313/~ddm/project/enem/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2018-ijcai/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2018-ijcai/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/silveira-2018-bracis/</loc>
+    <loc>http://localhost:1313/~ddm/publication/silveira-2018-bracis/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2018-ijar/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2018-ijar/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2018-ai/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2018-ai/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/andres-2018-iberamia/</loc>
+    <loc>http://localhost:1313/~ddm/publication/andres-2018-iberamia/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/complexity/</loc>
+    <loc>http://localhost:1313/~ddm/tags/complexity/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/sum-product-networks/</loc>
+    <loc>http://localhost:1313/~ddm/tags/sum-product-networks/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication_types/4/</loc>
+    <loc>http://localhost:1313/~ddm/publication_types/4/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2017-arxiv/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2017-arxiv/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/conaty-2017-uai/</loc>
+    <loc>http://localhost:1313/~ddm/publication/conaty-2017-uai/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/defaria-2017-sum/</loc>
+    <loc>http://localhost:1313/~ddm/publication/defaria-2017-sum/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2017-isipta/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2017-isipta/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/bueno-2017-isipta/</loc>
+    <loc>http://localhost:1313/~ddm/publication/bueno-2017-isipta/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2017-ijar/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2017-ijar/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2017-jair/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2017-jair/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/villanueva-2017-bracis/</loc>
+    <loc>http://localhost:1313/~ddm/publication/villanueva-2017-bracis/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/de-faria-2017-kdmile/</loc>
+    <loc>http://localhost:1313/~ddm/publication/de-faria-2017-kdmile/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/defaria-2017-starai/</loc>
+    <loc>http://localhost:1313/~ddm/publication/defaria-2017-starai/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2017-ecsqaru-b/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2017-ecsqaru-b/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2017-ecsqaru-a/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2017-ecsqaru-a/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2017-ijar/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2017-ijar/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/silveira-2017-bracis/</loc>
+    <loc>http://localhost:1313/~ddm/publication/silveira-2017-bracis/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2016-arxiv/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2016-arxiv/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/perez-2016-jidm/</loc>
+    <loc>http://localhost:1313/~ddm/publication/perez-2016-jidm/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2016-ijar/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2016-ijar/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2016-ijarb/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2016-ijarb/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2016-neuro/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2016-neuro/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/perez-2016-eniac/</loc>
+    <loc>http://localhost:1313/~ddm/publication/perez-2016-eniac/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/bueno-2016-bracis/</loc>
+    <loc>http://localhost:1313/~ddm/publication/bueno-2016-bracis/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2016-pgm/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2016-pgm/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/probabilistic-logic/</loc>
+    <loc>http://localhost:1313/~ddm/tags/probabilistic-logic/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/relational-models/</loc>
+    <loc>http://localhost:1313/~ddm/tags/relational-models/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2016-pgm/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2016-pgm/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2016-wplp/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2016-wplp/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2016-eniac/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2016-eniac/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2015-eniac/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2015-eniac/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/machado-2015-eniac/</loc>
+    <loc>http://localhost:1313/~ddm/publication/machado-2015-eniac/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2015-aaai/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2015-aaai/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2015-sum/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2015-sum/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/antonucci-2015-d/</loc>
+    <loc>http://localhost:1313/~ddm/publication/antonucci-2015-d/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/perez-2015-kdmile/</loc>
+    <loc>http://localhost:1313/~ddm/publication/perez-2015-kdmile/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2015-isipta/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2015-isipta/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2015-eniac/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2015-eniac/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2015-ijcai/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2015-ijcai/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/cozman-2015-sum/</loc>
+    <loc>http://localhost:1313/~ddm/publication/cozman-2015-sum/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/nie-2014-arxiv/</loc>
+    <loc>http://localhost:1313/~ddm/publication/nie-2014-arxiv/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/nie-2014-nips/</loc>
+    <loc>http://localhost:1313/~ddm/publication/nie-2014-nips/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2014-bracis/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2014-bracis/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/decision-making/</loc>
+    <loc>http://localhost:1313/~ddm/tags/decision-making/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2014-pgm-a/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2014-pgm-a/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/hmm/</loc>
+    <loc>http://localhost:1313/~ddm/tags/hmm/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/influence-diagrams/</loc>
+    <loc>http://localhost:1313/~ddm/tags/influence-diagrams/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/limid/</loc>
+    <loc>http://localhost:1313/~ddm/tags/limid/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-cba-14-jair/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-cba-14-jair/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2014-pgm-b/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2014-pgm-b/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/corani-2014-pgm/</loc>
+    <loc>http://localhost:1313/~ddm/publication/corani-2014-pgm/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication_old/</loc>
+    <loc>http://localhost:1313/~ddm/publication_old/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/bayesian-networks/</loc>
+    <loc>http://localhost:1313/~ddm/publication_old/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/~ddm/tags/bayesian-networks/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/complexity-theory/</loc>
+    <loc>http://localhost:1313/~ddm/tags/complexity-theory/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/creal-networks/</loc>
+    <loc>http://localhost:1313/~ddm/tags/creal-networks/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication_types/7/</loc>
+    <loc>http://localhost:1313/~ddm/publication_types/7/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2013/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2013/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/antonucci-2013-ijcai/</loc>
+    <loc>http://localhost:1313/~ddm/publication/antonucci-2013-ijcai/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2013-ai/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2013-ai/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2013-uai/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2013-uai/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/combinatorial-optimization/</loc>
+    <loc>http://localhost:1313/~ddm/tags/combinatorial-optimization/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/decision-making/</loc>
+    <loc>http://localhost:1313/~ddm/tags/decision-making/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/decision-networks/</loc>
+    <loc>http://localhost:1313/~ddm/tags/decision-networks/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/discrete-inference/</loc>
+    <loc>http://localhost:1313/~ddm/tags/discrete-inference/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/influence-diagrams/</loc>
+    <loc>http://localhost:1313/~ddm/tags/influence-diagrams/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/map-inference/</loc>
+    <loc>http://localhost:1313/~ddm/tags/map-inference/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/probability-theory/</loc>
+    <loc>http://localhost:1313/~ddm/tags/probability-theory/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2012-icml/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2012-icml/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/zaffalon-2012-ijar/</loc>
+    <loc>http://localhost:1313/~ddm/publication/zaffalon-2012-ijar/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2012-jair/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2012-jair/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2012-uai/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2012-uai/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2012-ijar/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2012-ijar/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2011-arxiv/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2011-arxiv/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/approximation-scheme/</loc>
+    <loc>http://localhost:1313/~ddm/tags/approximation-scheme/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/credal-classification/</loc>
+    <loc>http://localhost:1313/~ddm/tags/credal-classification/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/credal-classifiers/</loc>
+    <loc>http://localhost:1313/~ddm/tags/credal-classifiers/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/credal-networks/</loc>
+    <loc>http://localhost:1313/~ddm/tags/credal-networks/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/discounted-accuracy/</loc>
+    <loc>http://localhost:1313/~ddm/tags/discounted-accuracy/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/empirical/</loc>
+    <loc>http://localhost:1313/~ddm/tags/empirical/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/evaluation/</loc>
+    <loc>http://localhost:1313/~ddm/tags/evaluation/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/indeterminacy/</loc>
+    <loc>http://localhost:1313/~ddm/tags/indeterminacy/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/risk-aversion/</loc>
+    <loc>http://localhost:1313/~ddm/tags/risk-aversion/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/utility/</loc>
+    <loc>http://localhost:1313/~ddm/tags/utility/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/valuation-algebra/</loc>
+    <loc>http://localhost:1313/~ddm/tags/valuation-algebra/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2011-isipta/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2011-isipta/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2011-nips/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2011-nips/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/zaffalon-2011-isipta/</loc>
+    <loc>http://localhost:1313/~ddm/publication/zaffalon-2011-isipta/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/artificial-intelligence/</loc>
+    <loc>http://localhost:1313/~ddm/tags/artificial-intelligence/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/computational-learning/</loc>
+    <loc>http://localhost:1313/~ddm/tags/computational-learning/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/machine-learning/</loc>
+    <loc>http://localhost:1313/~ddm/tags/machine-learning/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/markov-logic/</loc>
+    <loc>http://localhost:1313/~ddm/tags/markov-logic/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/master-dissertation/</loc>
+    <loc>http://localhost:1313/~ddm/tags/master-dissertation/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/sentiment-classification/</loc>
+    <loc>http://localhost:1313/~ddm/tags/sentiment-classification/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/text-categorization/</loc>
+    <loc>http://localhost:1313/~ddm/tags/text-categorization/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/text-processing/</loc>
+    <loc>http://localhost:1313/~ddm/tags/text-processing/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2009-enia/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2009-enia/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2009-masterthesis/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2009-masterthesis/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/classification/</loc>
+    <loc>http://localhost:1313/~ddm/tags/classification/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/knowledge-discovery/</loc>
+    <loc>http://localhost:1313/~ddm/tags/knowledge-discovery/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/markov-networks/</loc>
+    <loc>http://localhost:1313/~ddm/tags/markov-networks/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/social-networks/</loc>
+    <loc>http://localhost:1313/~ddm/tags/social-networks/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/trust-management/</loc>
+    <loc>http://localhost:1313/~ddm/tags/trust-management/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/tags/trust-managment/</loc>
+    <loc>http://localhost:1313/~ddm/tags/trust-managment/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2008-wtdia/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2008-wtdia/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.ime.usp.br/~ddm/publication/maua-2008-wiva/</loc>
+    <loc>http://localhost:1313/~ddm/publication/maua-2008-wiva/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

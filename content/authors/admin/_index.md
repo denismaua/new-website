@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/scopus
     url: https://www.scopus.com/authid/detail.uri?authorId=55208147400
   - icon: academicons/researcherid
-    url: http://www.researcherid.com/rid/K-9023-2013
+    url: http://www.researcherid.com/rid/N-1842-2019
 
 education:
   courses:
@@ -163,6 +163,10 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: 2nd Best Paper
+    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: 2022-10-01
+    awarder: Brazilian Conference on In telligente Systems (BRACIS 2022)
   - title: Google Research Award for Latin America (LARA)
     url: https://research.google/programs-and-events/past-programs/latin-america-research-awards/?filtertab=2018
     date: '2018-01-01'
@@ -177,7 +181,7 @@ awards:
     # summary: |
     #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Best Paper
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: 2015-01-01
     awarder: 12nd National Meeting on Artificial and Computational Intelligence (ENIAC 2015)
     # icon: edx

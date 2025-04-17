@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Covid19 | </title>
-    <link>https://www.ime.usp.br/~ddm/tags/covid19/</link>
-      <atom:link href="https://www.ime.usp.br/~ddm/tags/covid19/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/~ddm/tags/covid19/</link>
+      <atom:link href="http://localhost:1313/~ddm/tags/covid19/index.xml" rel="self" type="application/rss+xml" />
     <description>Covid19</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ime.usp.br/~ddm/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png</url>
       <title>Covid19</title>
-      <link>https://www.ime.usp.br/~ddm/tags/covid19/</link>
+      <link>http://localhost:1313/~ddm/tags/covid19/</link>
     </image>
     
     <item>
       <title>Distinct Outcomes in COVID-19 Patients with Positive or Negative RT-PCR Test</title>
-      <link>https://www.ime.usp.br/~ddm/publication/mc-2022-viruses/</link>
+      <link>http://localhost:1313/~ddm/publication/mc-2022-viruses/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/mc-2022-viruses/</guid>
+      <guid>http://localhost:1313/~ddm/publication/mc-2022-viruses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Timing to Intubation COVID-19 Patients: Can We Put It Off until Tomorrow?</title>
-      <link>https://www.ime.usp.br/~ddm/publication/alencar-2022-healthcare/</link>
+      <link>http://localhost:1313/~ddm/publication/alencar-2022-healthcare/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/alencar-2022-healthcare/</guid>
+      <guid>http://localhost:1313/~ddm/publication/alencar-2022-healthcare/</guid>
       <description></description>
     </item>
     

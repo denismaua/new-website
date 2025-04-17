@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Social Networks&#34; | </title>
-    <link>https://www.ime.usp.br/~ddm/tags/social-networks/</link>
-      <atom:link href="https://www.ime.usp.br/~ddm/tags/social-networks/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/~ddm/tags/social-networks/</link>
+      <atom:link href="http://localhost:1313/~ddm/tags/social-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Social Networks&#34;</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ime.usp.br/~ddm/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png</url>
       <title>&#34;Social Networks&#34;</title>
-      <link>https://www.ime.usp.br/~ddm/tags/social-networks/</link>
+      <link>http://localhost:1313/~ddm/tags/social-networks/</link>
     </image>
     
     <item>
       <title>Using Social Data to Predict Trust on Web Communities : A Case Study with the Epinions.com Website</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2008-wiva/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2008-wiva/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2008-wiva/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2008-wiva/</guid>
       <description></description>
     </item>
     

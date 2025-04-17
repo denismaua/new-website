@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | </title>
-    <link>https://www.ime.usp.br/~ddm/project/</link>
-      <atom:link href="https://www.ime.usp.br/~ddm/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/~ddm/project/</link>
+      <atom:link href="http://localhost:1313/~ddm/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ime.usp.br/~ddm/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
-      <link>https://www.ime.usp.br/~ddm/project/</link>
+      <link>http://localhost:1313/~ddm/project/</link>
     </image>
     
     <item>
       <title>Neural Inductive Logic Programming</title>
-      <link>https://www.ime.usp.br/~ddm/project/neuroproblog/</link>
+      <link>http://localhost:1313/~ddm/project/neuroproblog/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/project/neuroproblog/</guid>
-      <description>&lt;h2 id=&#34;hahahugoshortcode16s0hbhb-funding&#34;&gt;
+      <guid>http://localhost:1313/~ddm/project/neuroproblog/</guid>
+      <description>&lt;h2 id=&#34;hahahugoshortcode18s0hbhb-funding&#34;&gt;
   &lt;span class=&#34;inline-block  pr-1&#34;&gt;
     &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M2.25 18.75a60.07 60.07 0 0 1 15.797 2.101c.727.198 1.453-.342 1.453-1.096V18.75M3.75 4.5v.75A.75.75 0 0 1 3 6h-.75m0 0v-.375c0-.621.504-1.125 1.125-1.125H20.25M2.25 6v9m18-10.5v.75c0 .414.336.75.75.75h.75m-1.5-1.5h.375c.621 0 1.125.504 1.125 1.125v9.75c0 .621-.504 1.125-1.125 1.125h-.375m1.5-1.5H21a.75.75 0 0 0-.75.75v.75m0 0H3.75m0 0h-.375a1.125 1.125 0 0 1-1.125-1.125V15m1.5 1.5v-.75A.75.75 0 0 0 3 15h-.75M15 10.5a3 3 0 1 1-6 0a3 3 0 0 1 6 0m3 0h.008v.008H18zm-12 0h.008v.008H6z&#34;/&gt;&lt;/svg&gt;
   &lt;/span&gt; Funding&lt;/h2&gt;
@@ -25,7 +25,7 @@
 &lt;li&gt;FAPESP PI 2022/02937-9 (2023-02-01 to 2028-01-31)&lt;/li&gt;
 &lt;li&gt;CNPq Productivity 305136/2022-4 (2023-03-01 to 2026-02-28)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;hahahugoshortcode16s1hbhb-participants&#34;&gt;
+&lt;h2 id=&#34;hahahugoshortcode18s1hbhb-participants&#34;&gt;
   &lt;span class=&#34;inline-block  pr-1&#34;&gt;
     &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15 19.128a9.38 9.38 0 0 0 2.625.372a9.337 9.337 0 0 0 4.121-.952a4.125 4.125 0 0 0-7.533-2.493M15 19.128v-.003c0-1.113-.285-2.16-.786-3.07M15 19.128v.106A12.318 12.318 0 0 1 8.624 21c-2.331 0-4.512-.645-6.374-1.766l-.001-.109a6.375 6.375 0 0 1 11.964-3.07M12 6.375a3.375 3.375 0 1 1-6.75 0a3.375 3.375 0 0 1 6.75 0m8.25 2.25a2.625 2.625 0 1 1-5.25 0a2.625 2.625 0 0 1 5.25 0&#34;/&gt;&lt;/svg&gt;
   &lt;/span&gt; Participants&lt;/h2&gt;
@@ -46,37 +46,31 @@
 &lt;p&gt;
   &lt;span class=&#34;inline-block  pr-1&#34;&gt;
     &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 21a9.004 9.004 0 0 0 8.716-6.747M12 21a9.004 9.004 0 0 1-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 0 1 7.843 4.582M12 3a8.997 8.997 0 0 0-7.843 4.582m15.686 0A11.953 11.953 0 0 1 12 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0 1 21 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0 1 12 16.5a17.92 17.92 0 0 1-8.716-2.247m0 0A9.015 9.015 0 0 1 3 12c0-1.605.42-3.113 1.157-4.418&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt; The dPASP system: 
-&lt;/p&gt;
+  &lt;/span&gt; The dPASP system: &lt;a href=&#34;https://kamel.ime.usp.br/dpasp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://kamel.ime.usp.br/dpasp&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Tutorial: 
-&lt;/p&gt;
+&lt;p&gt;Tutorial: &lt;a href=&#34;https://kamel.ime.usp.br/pages/learn_dpasp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://kamel.ime.usp.br/pages/learn_dpasp&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;klricml2023.pdf&#34;&gt;Overview&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
   &lt;span class=&#34;inline-block  pr-1&#34;&gt;
     &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt; 
-&lt;/p&gt;
+  &lt;/span&gt; &lt;a href=&#34;http://localhost:1313/~ddm/publication/silveira-2024-propor/&#34;&gt;PROPOR 2024&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
   &lt;span class=&#34;inline-block  pr-1&#34;&gt;
     &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt; 
-&lt;/p&gt;
+  &lt;/span&gt; &lt;a href=&#34;http://localhost:1313/~ddm/publication/rocha-2023-epia/&#34;&gt;EPIA 2023&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
   &lt;span class=&#34;inline-block  pr-1&#34;&gt;
     &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt; 
-&lt;/p&gt;
+  &lt;/span&gt; &lt;a href=&#34;http://localhost:1313/~ddm/publication/maua-2023-isipta/&#34;&gt;ISIPTA 2023&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -84,18 +78,18 @@
     
     <item>
       <title>Knowledge-Enhanced Machine Learning</title>
-      <link>https://www.ime.usp.br/~ddm/project/keml-blab/</link>
+      <link>http://localhost:1313/~ddm/project/keml-blab/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/project/keml-blab/</guid>
+      <guid>http://localhost:1313/~ddm/project/keml-blab/</guid>
       <description>&lt;p&gt;The broad goal of this research challenge has been to merge data-driven learning and knowledge-based reasoning.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Predictive Uncertainty Estimators for Sum-Product Networks</title>
-      <link>https://www.ime.usp.br/~ddm/project/pq2020/</link>
+      <link>http://localhost:1313/~ddm/project/pq2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/project/pq2020/</guid>
+      <guid>http://localhost:1313/~ddm/project/pq2020/</guid>
       <description>&lt;h2 id=&#34;funding-agency&#34;&gt;Funding Agency&lt;/h2&gt;
 &lt;p&gt;CNPq grant 304012/2019-0 (ended)&lt;/p&gt;
 &lt;h2 id=&#34;coordinator&#34;&gt;Coordinator&lt;/h2&gt;
@@ -143,16 +137,15 @@ networks.&lt;/p&gt;
     
     <item>
       <title>The ENEM Challenge</title>
-      <link>https://www.ime.usp.br/~ddm/project/enem/</link>
+      <link>http://localhost:1313/~ddm/project/enem/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/project/enem/</guid>
+      <guid>http://localhost:1313/~ddm/project/enem/</guid>
       <description>&lt;p&gt;It is widely accepted that university entrance exams require human-level
 intelligence to be satisfactorily solved. In particular, such exams
 require skills such as text and image understanding, informational retrieval,
 commonsense reasoning, and mathematical thinking.&lt;/p&gt;
 &lt;p&gt;Thus, university entrance exams constitute a good test for real Artificial Intelligence techniques.&lt;/p&gt;
-&lt;p&gt;The 
- is an advanced High-School level exam widely applied every year by the Brazilian government to students that wish to undertake a University degree.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Exame_Nacional_do_Ensino_M%C3%A9dio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exame Nacional do Ensino Médio (ENEM)&lt;/a&gt; is an advanced High-School level exam widely applied every year by the Brazilian government to students that wish to undertake a University degree.&lt;/p&gt;
 &lt;p&gt;The &lt;strong&gt;ENEM Challenge&lt;/strong&gt; consists in designing an autonomous system that matches the performance of a human students on the exam. The overall goal is to foster and evaluate the development of Artificial Intelligence techniques that have good performance on complex cognitive tasks, not particularly designed for AI systems. In addition, this challenge aims to promote and give more visiblity to the development of NLP tools for Brazilian Portuguese.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The informal and witty aim of the challenge is to get a digital student to be accepted at a main Brazilian university&lt;/strong&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;dataset&#34;&gt;Dataset&lt;/h1&gt;
@@ -175,14 +168,11 @@ commonsense reasoning, and mathematical thinking.&lt;/p&gt;
 &lt;li&gt;&lt;code&gt;CE&lt;/code&gt;: does it require treating chemical elements especially?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Currently, the challenge uses an XML version of questions taken from the exams between 2009 and 2017.&lt;/p&gt;
-&lt;p&gt;A more in-depth description of the dataset is found 
-.&lt;/p&gt;
+&lt;p&gt;A more in-depth description of the dataset is found &lt;a href=&#34;ENEM-GuidingTest.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;download&#34;&gt;Download&lt;/h1&gt;
-&lt;p&gt;The 776kb zip archive containing the XML file can be downloaded 
-&lt;/p&gt;
+&lt;p&gt;The 776kb zip archive containing the XML file can be downloaded &lt;a href=&#34;ENEMdataset.zip&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;solutions&#34;&gt;Solutions&lt;/h1&gt;
-&lt;p&gt;If you design a new solution, please 
- reporting accuracy, reference (if any) and information as below. Here is a list of current solutions:&lt;/p&gt;
+&lt;p&gt;If you design a new solution, please &lt;a href=&#34;http://localhost:1313/~ddm/#contact&#34;&gt;send me a message&lt;/a&gt; reporting accuracy, reference (if any) and information as below. Here is a list of current solutions:&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
