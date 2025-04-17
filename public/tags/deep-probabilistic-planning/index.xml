@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Probabilistic Planning | </title>
-    <link>http://localhost:1313/~ddm/tags/deep-probabilistic-planning/</link>
-      <atom:link href="http://localhost:1313/~ddm/tags/deep-probabilistic-planning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ime.usp.br/~ddm/tags/deep-probabilistic-planning/</link>
+      <atom:link href="https://www.ime.usp.br/~ddm/tags/deep-probabilistic-planning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Probabilistic Planning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://www.ime.usp.br/~ddm/media/icon_hu_645fa481986063ef.png</url>
       <title>Deep Probabilistic Planning</title>
-      <link>http://localhost:1313/~ddm/tags/deep-probabilistic-planning/</link>
+      <link>https://www.ime.usp.br/~ddm/tags/deep-probabilistic-planning/</link>
     </image>
     
     <item>
       <title>Differentiable Planning for Optimal Liquidation</title>
-      <link>http://localhost:1313/~ddm/publication/pennacchio-2022-bwaif/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/pennacchio-2022-bwaif/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/pennacchio-2022-bwaif/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/pennacchio-2022-bwaif/</guid>
       <description></description>
     </item>
     

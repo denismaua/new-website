@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artificial Intelligence | </title>
-    <link>http://localhost:1313/~ddm/tags/artificial-intelligence/</link>
-      <atom:link href="http://localhost:1313/~ddm/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ime.usp.br/~ddm/tags/artificial-intelligence/</link>
+      <atom:link href="https://www.ime.usp.br/~ddm/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <description>Artificial Intelligence</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://www.ime.usp.br/~ddm/media/icon_hu_645fa481986063ef.png</url>
       <title>Artificial Intelligence</title>
-      <link>http://localhost:1313/~ddm/tags/artificial-intelligence/</link>
+      <link>https://www.ime.usp.br/~ddm/tags/artificial-intelligence/</link>
     </image>
     
     <item>
       <title>The ENEM Challenge</title>
-      <link>http://localhost:1313/~ddm/project/enem/</link>
+      <link>https://www.ime.usp.br/~ddm/project/enem/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/project/enem/</guid>
+      <guid>https://www.ime.usp.br/~ddm/project/enem/</guid>
       <description>&lt;p&gt;It is widely accepted that university entrance exams require human-level
 intelligence to be satisfactorily solved. In particular, such exams
 require skills such as text and image understanding, informational retrieval,
@@ -49,7 +49,7 @@ commonsense reasoning, and mathematical thinking.&lt;/p&gt;
 &lt;h1 id=&#34;download&#34;&gt;Download&lt;/h1&gt;
 &lt;p&gt;The 776kb zip archive containing the XML file can be downloaded &lt;a href=&#34;ENEMdataset.zip&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;solutions&#34;&gt;Solutions&lt;/h1&gt;
-&lt;p&gt;If you design a new solution, please &lt;a href=&#34;http://localhost:1313/~ddm/#contact&#34;&gt;send me a message&lt;/a&gt; reporting accuracy, reference (if any) and information as below. Here is a list of current solutions:&lt;/p&gt;
+&lt;p&gt;If you design a new solution, please &lt;a href=&#34;https://www.ime.usp.br/~ddm/#contact&#34;&gt;send me a message&lt;/a&gt; reporting accuracy, reference (if any) and information as below. Here is a list of current solutions:&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;

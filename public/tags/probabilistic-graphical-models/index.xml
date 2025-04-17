@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;Probabilistic Graphical Models&#34; | </title>
-    <link>http://localhost:1313/~ddm/tags/probabilistic-graphical-models/</link>
-      <atom:link href="http://localhost:1313/~ddm/tags/probabilistic-graphical-models/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ime.usp.br/~ddm/tags/probabilistic-graphical-models/</link>
+      <atom:link href="https://www.ime.usp.br/~ddm/tags/probabilistic-graphical-models/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Probabilistic Graphical Models&#34;</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://www.ime.usp.br/~ddm/media/icon_hu_645fa481986063ef.png</url>
       <title>&#34;Probabilistic Graphical Models&#34;</title>
-      <link>http://localhost:1313/~ddm/tags/probabilistic-graphical-models/</link>
+      <link>https://www.ime.usp.br/~ddm/tags/probabilistic-graphical-models/</link>
     </image>
     
     <item>
       <title>Thirty years of credal networks: Specification, algorithms and complexity</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2020-ijar-b/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2020-ijar-b/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2020-ijar-b/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2020-ijar-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Complexity of Strong and Epistemic Credal Networks</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2013-uai/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2013-uai/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2013-uai/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2013-uai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Fully Polynomial Time Approximation Scheme for Updating Credal Networks of Bounded Treewidth and Number of Variable States</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2011-isipta/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2011-isipta/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2011-isipta/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2011-isipta/</guid>
       <description></description>
     </item>
     

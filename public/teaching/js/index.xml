@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learn JavaScript | </title>
-    <link>http://localhost:1313/~ddm/teaching/js/</link>
-      <atom:link href="http://localhost:1313/~ddm/teaching/js/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ime.usp.br/~ddm/teaching/js/</link>
+      <atom:link href="https://www.ime.usp.br/~ddm/teaching/js/index.xml" rel="self" type="application/rss+xml" />
     <description>Learn JavaScript</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/~ddm/teaching/js/featured.jpg</url>
+      <url>https://www.ime.usp.br/~ddm/teaching/js/featured.jpg</url>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/~ddm/teaching/js/</link>
+      <link>https://www.ime.usp.br/~ddm/teaching/js/</link>
     </image>
     
   </channel>

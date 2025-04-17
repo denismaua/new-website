@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sum-Product Networks | </title>
-    <link>http://localhost:1313/~ddm/tags/sum-product-networks/</link>
-      <atom:link href="http://localhost:1313/~ddm/tags/sum-product-networks/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ime.usp.br/~ddm/tags/sum-product-networks/</link>
+      <atom:link href="https://www.ime.usp.br/~ddm/tags/sum-product-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Sum-Product Networks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://www.ime.usp.br/~ddm/media/icon_hu_645fa481986063ef.png</url>
       <title>Sum-Product Networks</title>
-      <link>http://localhost:1313/~ddm/tags/sum-product-networks/</link>
+      <link>https://www.ime.usp.br/~ddm/tags/sum-product-networks/</link>
     </image>
     
     <item>
       <title>Tractable Mode-Finding in Sum-Product Networks with Gaussian Leaves</title>
-      <link>http://localhost:1313/~ddm/publication/madeira-2022-eniac/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/madeira-2022-eniac/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/madeira-2022-eniac/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/madeira-2022-eniac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictive Uncertainty Estimators for Sum-Product Networks</title>
-      <link>http://localhost:1313/~ddm/project/pq2020/</link>
+      <link>https://www.ime.usp.br/~ddm/project/pq2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/project/pq2020/</guid>
+      <guid>https://www.ime.usp.br/~ddm/project/pq2020/</guid>
       <description>&lt;h2 id=&#34;funding-agency&#34;&gt;Funding Agency&lt;/h2&gt;
 &lt;p&gt;CNPq grant 304012/2019-0 (ended)&lt;/p&gt;
 &lt;h2 id=&#34;coordinator&#34;&gt;Coordinator&lt;/h2&gt;
@@ -72,17 +72,17 @@ networks.&lt;/p&gt;
     
     <item>
       <title>Efficient Algorithms for Robustness Analysis of Maximum A Posteriori Inference in Selective Sum-Product Networks</title>
-      <link>http://localhost:1313/~ddm/publication/julissa-2020-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/julissa-2020-ijar/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/julissa-2020-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/julissa-2020-ijar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two Reformulation Approaches to Maximum-A-Posteriori Inference in Sum-Product Networks</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2020-pgm/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2020-pgm/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2020-pgm/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2020-pgm/</guid>
       <description></description>
     </item>
     

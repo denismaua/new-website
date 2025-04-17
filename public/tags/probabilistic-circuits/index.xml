@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Probabilistic Circuits | </title>
-    <link>http://localhost:1313/~ddm/tags/probabilistic-circuits/</link>
-      <atom:link href="http://localhost:1313/~ddm/tags/probabilistic-circuits/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.ime.usp.br/~ddm/tags/probabilistic-circuits/</link>
+      <atom:link href="https://www.ime.usp.br/~ddm/tags/probabilistic-circuits/index.xml" rel="self" type="application/rss+xml" />
     <description>Probabilistic Circuits</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://www.ime.usp.br/~ddm/media/icon_hu_645fa481986063ef.png</url>
       <title>Probabilistic Circuits</title>
-      <link>http://localhost:1313/~ddm/tags/probabilistic-circuits/</link>
+      <link>https://www.ime.usp.br/~ddm/tags/probabilistic-circuits/</link>
     </image>
     
     <item>
       <title>Tractable Classification with Non-Ignorable Missing Data Using Generative Random Forests</title>
-      <link>http://localhost:1313/~ddm/publication/villanueva-2022-kdmile/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/villanueva-2022-kdmile/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/villanueva-2022-kdmile/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/villanueva-2022-kdmile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cautious Classification with Data Missing Not at Random using Generative Random Forests</title>
-      <link>http://localhost:1313/~ddm/publication/villanueva-2021-ecsqaru/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/villanueva-2021-ecsqaru/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/villanueva-2021-ecsqaru/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/villanueva-2021-ecsqaru/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast And Accurate Learning of Probabilistic Circuits by Random Projections</title>
-      <link>http://localhost:1313/~ddm/publication/geh-2021-tpm/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/geh-2021-tpm/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/geh-2021-tpm/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/geh-2021-tpm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Probabilistic Sentential Decision Diagrams under Logic Constraints by Sampling and Averaging</title>
-      <link>http://localhost:1313/~ddm/publication/geh-2021-uai/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/geh-2021-uai/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/geh-2021-uai/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/geh-2021-uai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Algorithms for Robustness Analysis of Maximum A Posteriori Inference in Selective Sum-Product Networks</title>
-      <link>http://localhost:1313/~ddm/publication/julissa-2020-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/julissa-2020-ijar/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/julissa-2020-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/julissa-2020-ijar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tractable inference in credal sentential decision diagrams</title>
-      <link>http://localhost:1313/~ddm/publication/mattei-2020-ijar/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/mattei-2020-ijar/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/mattei-2020-ijar/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/mattei-2020-ijar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two Reformulation Approaches to Maximum-A-Posteriori Inference in Sum-Product Networks</title>
-      <link>http://localhost:1313/~ddm/publication/maua-2020-pgm/</link>
+      <link>https://www.ime.usp.br/~ddm/publication/maua-2020-pgm/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~ddm/publication/maua-2020-pgm/</guid>
+      <guid>https://www.ime.usp.br/~ddm/publication/maua-2020-pgm/</guid>
       <description></description>
     </item>
     
