@@ -1,4 +1,36 @@
-%% Last updated on Feb 3, 2025.
+%% Last updated on Sep 4, 2025.
+
+@incollection{cozman2024challenges,
+  author = {Fabio G. Cozman and Sarajane M. Peres and Marcelo Finger and Renata Wassermann and Anna H. Reali Costa and Edson S. Gomi and Artur J. L. Correia and Anarosa A. F. Brandão and Karina V. Delgado and Denis D. Mauá and Thiago A. S. Pardo and Fátima L. S. N. Marques},
+  editor = {André Luis de Medeiros Santos and Flávio Rech Wagner},
+  pages = {11--15},
+  publisher = {SOL},
+  title = {A Big Challenge: Tools to Guarantee Robust and Controlled Behavior of Large Language Models},
+  booktitle = {IV Seminário dos Grandes Desafios da Computação no Brasil: Trabalhos Apresentados},
+  year = {2024},
+  month = {November},
+  series = {SBC Texts},
+  isbn = {978-85-7669-640-7},
+  doi = {10.5753/sbc.16840.7.2},
+  url = {https://books-sol.sbc.org.br/index.php/sbc/catalog/view/168/742/1424}
+}
+
+@InProceedings{cozman2025isipta,
+  title = 	 {Dealing with cycles in graph-based probabilistic models: the case of Logical Credal Networks},
+  author =       {Cozman, Fabio G. and Marinescu, Radu and Lee, Junkyu and Gray, Alexander and Mau\'a, Denis D.},
+  booktitle = 	 {Proceedings of the Fourteenth International Symposium on Imprecise Probabilities: Theories and Applications},
+  pages = 	 {93--102},
+  year = 	 {2025},
+  editor = 	 {Destercke, Sébastien and Erreygers, Alexander and Nendel, Max and Riedel, Frank and Troffaes, Matthias C. M.},
+  volume = 	 {290},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {15--18 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v290/main/assets/cozman25a/cozman25a.pdf},
+  url = 	 {https://proceedings.mlr.press/v290/cozman25a.html},
+  abstract = 	 {We examine the consequences of directed cycles in graph-based representations of joint distributions, investigating the effect of cycles on Markov conditions and on Gibbs factorizations. We focus on Logical Credal Networks, a flexible and general formalism, showing that Koster’s theory of Directed-Undirected Mixed Graphs (DUMGs) leads to an interesting Gibbs factorization. We show that inferences with DUMGs lead to multilinear programs. We also study the failure of global Markov conditions in cyclic structural equation models, connecting that failure to probabilistic imprecision under interventions.}
+}
+
 
 @InProceedings{silveira2024bracis,
   author="Silveira, Igor Cataneo
@@ -14,8 +46,7 @@
   pages="169--183",
   abstract="Automatic Essay Scoring promises to scale up student feedback on written input, addressing the excessive cost and time demand associated with human grading. State-of-the-art automatic scorers are based on Transformers-based neural networks. While such models have shown impressive results in reasoning tasks, learned models often produce answers that arise from statistical clues in datasets and are misaligned with human objectives. Such systems are thus potentially fragile for scenarios where users are incentivized to deceive the system, as in a classroom setting. In this work, we evaluate the susceptibility of state-of-the-art automatic scorers to attacks made by non-expert users, such as students interacting with an automatic grader. We develop a methodology to simulate such student attacks and test them against scorers based on BERT, Phi-3 and Gemini models. Our findings suggest that (i) a BERT-based grader can be deceived using simple feature-based attacks; (ii) although Google's Gemini has a solid agreement with graders, it can assign undeservedly high grades for small sentences; (iii) a Phi-3-based grader was less susceptible than BERT, but it still assigned relatively high grades to some of our attacks.",
   isbn="978-3-031-79032-4",
-  doi="10.1007/978-3-031-79032-4_
-12"
+  doi="10.1007/978-3-031-79032-4_12"
 }
 
 
@@ -26,7 +57,8 @@
   title = {A Compositional Atlas for Algebraic Circuits},
   year = {2024},
   url={https://openreview.net/forum?id=mXlR1FLFDc},
-  abstract = {Circuits based on sum-product structure have become a ubiquitous representation to compactly encode knowledge, from Boolean functions to probability distributions. By imposing constraints on the structure of such circuits, certain inference queries become tractable, such as model counting and most probable configuration. Recent works have explored analyzing probabilistic and causal inference queries as compositions of basic operations to derive tractability conditions. In this paper, we take an algebraic perspective for compositional inference, and show that a large class of queries---including marginal MAP, probabilistic answer set programming inference, and causal backdoor adjustment---correspond to a combination of basic operations over semirings: aggregation, product, and elementwise mapping. Using this framework, we uncover simple and general sufficient conditions for tractable composition of these operations, in terms of circuit properties (e.g., marginal determinism, compatibility) and conditions on the elementwise mappings. Applying our analysis, we derive novel tractability conditions for many such compositional queries. Our results unify tractability conditions for existing problems on circuits, while providing a blueprint for analysing novel compositional inference queries.}
+  abstract = {Circuits based on sum-product structure have become a ubiquitous representation to compactly encode knowledge, from Boolean functions to probability distributions. By imposing constraints on the structure of such circuits, certain inference queries become tractable, such as model counting and most probable configuration. Recent works have explored analyzing probabilistic and causal inference queries as compositions of basic operations to derive tractability conditions. In this paper, we take an algebraic perspective for compositional inference, and show that a large class of queries---including marginal MAP, probabilistic answer set programming inference, and causal backdoor adjustment---correspond to a combination of basic operations over semirings: aggregation, product, and elementwise mapping. Using this framework, we uncover simple and general sufficient conditions for tractable composition of these operations, in terms of circuit properties (e.g., marginal determinism, compatibility) and conditions on the elementwise mappings. Applying our analysis, we derive novel tractability conditions for many such compositional queries. Our results unify tractability conditions for existing problems on circuits, while providing a blueprint for analysing novel compositional inference queries.},
+  selected        = {1}
 }
 
 
@@ -39,7 +71,8 @@
     month     = {8},
     doi       = {10.24963/kr.2024/69},
     url       = {https://doi.org/10.24963/kr.2024/69},
-    abstract = {We present dPASP, a novel declarative probabilistic logic programming framework that allows for the specification of discrete probabilistic models by neural predicates, relational logic constraints, and interval-valued probabilistic choices. This expressive combination facilitates the construction of models that combine low-level perception (images, texts, etc) and common-sense reasoning, thus providing an excellent tool for neurosymbolic reasoning. To support all such features, we discuss several semantics for probabilistic logic programs that allow one to express nondeterminism, non-monotonic reasoning, contradiction, and (vague) probabilistic knowledge. We also discuss how gradient-based learning can be performed with neural predicates and probabilistic choices under selected semantics. To showcase the possibilities offered by the framework, we present case studies that exploit different semantics and constructs.}
+    abstract = {We present dPASP, a novel declarative probabilistic logic programming framework that allows for the specification of discrete probabilistic models by neural predicates, relational logic constraints, and interval-valued probabilistic choices. This expressive combination facilitates the construction of models that combine low-level perception (images, texts, etc) and common-sense reasoning, thus providing an excellent tool for neurosymbolic reasoning. To support all such features, we discuss several semantics for probabilistic logic programs that allow one to express nondeterminism, non-monotonic reasoning, contradiction, and (vague) probabilistic knowledge. We also discuss how gradient-based learning can be performed with neural predicates and probabilistic choices under selected semantics. To showcase the possibilities offered by the framework, we present case studies that exploit different semantics and constructs.},
+    selected        = {1}
   }
 
 @inproceedings{maua2024nmr,
@@ -172,8 +205,8 @@ year="2022",
 publisher="Springer International Publishing",
 address="Cham",
 pages="30--44",
-keywords = {reinforcement learning}
-abstract="Model-based Reinforcement Learning (MBRL) agents use data collected by exploration of the environment to produce a model of the dynamics, which is then used to select a policy that maximizes the objective function. Stochastic Value Gradient (SVG) methods perform the latter step by optimizing some estimate of the value function gradient. Despite showing promising empirical results, many implementations of SVG methods lack rigorous theoretical or empirical justification; this casts doubts as to whether good performance are in large part due to the benchmark-overfitting. To better understand the advantages and shortcomings of existing SVG methods, in this work we carry out a fine-grained empirical analysis of three core components of SVG-based agents: (i) the gradient estimator formula, (ii) the model learning and (iii) the value function approximation. To this end, we extend previous work that proposes using Linear Quadratic Gaussian (LQG) regulator problems to benchmark SVG methods. LQG problems are heavily studied in optimal control literature and deliver challenging learning settings while still allowing comparison with ground-truth values. We use such problems to investigate the contribution of each core component of SVG methods to the overall performance. We focus our analysis on the model learning component, which was neglected from previous work, and we show that overfitting to on-policy data can lead to accurate state predictions but inaccurate gradients, highlighting the importance of exploration also in model-based methods.",
+keywords = {reinforcement learning},
+abstract = {Model-based Reinforcement Learning (MBRL) agents use data collected by exploration of the environment to produce a model of the dynamics, which is then used to select a policy that maximizes the objective function. Stochastic Value Gradient (SVG) methods perform the latter step by optimizing some estimate of the value function gradient. Despite showing promising empirical results, many implementations of SVG methods lack rigorous theoretical or empirical justification; this casts doubts as to whether good performance are in large part due to the benchmark-overfitting. To better understand the advantages and shortcomings of existing SVG methods, in this work we carry out a fine-grained empirical analysis of three core components of SVG-based agents: (i) the gradient estimator formula, (ii) the model learning and (iii) the value function approximation. To this end, we extend previous work that proposes using Linear Quadratic Gaussian (LQG) regulator problems to benchmark SVG methods. LQG problems are heavily studied in optimal control literature and deliver challenging learning settings while still allowing comparison with ground-truth values. We use such problems to investigate the contribution of each core component of SVG methods to the overall performance. We focus our analysis on the model learning component, which was neglected from previous work, and we show that overfitting to on-policy data can lead to accurate state predictions but inaccurate gradients, highlighting the importance of exploration also in model-based methods.},
 isbn="978-3-031-21689-3"
 }
 

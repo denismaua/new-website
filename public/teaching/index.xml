@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | </title>
-    <link>https://www.ime.usp.br/~ddm/teaching/</link>
-      <atom:link href="https://www.ime.usp.br/~ddm/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/~ddm/teaching/</link>
+      <atom:link href="http://localhost:1313/~ddm/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ime.usp.br/~ddm/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png</url>
       <title>Teaching</title>
-      <link>https://www.ime.usp.br/~ddm/teaching/</link>
+      <link>http://localhost:1313/~ddm/teaching/</link>
     </image>
     
     <item>
       <title>MAC0318 Programming Mobile Robots</title>
-      <link>https://www.ime.usp.br/~ddm/teaching/mac318/</link>
+      <link>http://localhost:1313/~ddm/teaching/mac318/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/teaching/mac318/</guid>
+      <guid>http://localhost:1313/~ddm/teaching/mac318/</guid>
       <description>
 
 
@@ -40,12 +40,12 @@
 &lt;h2 id=&#34;justificativa&#34;&gt;Justificativa&lt;/h2&gt;
 &lt;p&gt;Robôs inteligentes móveis estão cada vez mais presentes em nosso dia-a-dia, de aspiradores de pó a veículos aéreos não-tripulados e carros semi-autônomos. Para serem bem sucedidos, tais robôs precisam resolver questões complexas como evitar colisões com obstáculos móveis, localizar-se no ambiente a partir de &lt;mark&gt;sensoriamento&lt;/mark&gt; (câmera, sonares, lidares, odômetros etc), &lt;mark&gt;reconhecer objetos&lt;/mark&gt; e sinais indicativos, &lt;mark&gt;planejar&lt;/mark&gt; e &lt;mark&gt;prever&lt;/mark&gt; trajetórias, seguir regras pré-estabelecidas e estabelecer e &lt;mark&gt;executar&lt;/mark&gt; planos de longo prazo com recompensas esparsas e atrasadas. Diferentemente dos robôs atuais que habitam ambientes industriais, os robôs do futuro próximo deverão atuar em ambientes pouco controláveis e extremamente variáveis como o interior de uma casa, os corredores de um hospital ou as ruas de uma cidade.&lt;/p&gt;
 &lt;h2 id=&#34;objetivo&#34;&gt;Objetivo&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://www.ime.usp.br/~ddm/teaching/mac318/2019pista.JPG&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/~ddm/teaching/mac318/2019pista.JPG&#34;&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Esta disciplina visa introduzir alunos avançados de graduação aos desafios da robótica inteligente móvel, por meio do ensino de conceitos e técnicas de controle ótimo, processamento de imagens, raciocínio probabilístico, otimização, planejamento, aprendizado de máquina, entre outras. Ao final do semestre você aprenderá os conceitos fundamentais da robótica inteligente e deverá saber as respostas para perguntas como: O que é um robô móvel? Quais os principais desafios no desenvolvimento de robôs inteligente móveis? Quais as limitações físicas e lógicas das arquiteturas de agentes autônomos? Quais as implicações práticas das aproximações e simplificações adotas na formalização matemática dos agentes?&lt;/p&gt;
 &lt;h2 id=&#34;metodologia&#34;&gt;Metodologia&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://www.ime.usp.br/~ddm/teaching/mac318/navega%C3%A7%C3%A3o.JPG&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/~ddm/teaching/mac318/navega%C3%A7%C3%A3o.JPG&#34;&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;A disciplina é baseada em atividades práticas nas quais os conceitos apresentados devem ser utilizados para implementar soluções para problemas comuns em robótica móvel. O critério de avaliação consiste na média ponderada das notas das atividades regulares resolvidas em classe e de um projeto final resolvido em grupos.&lt;/p&gt;
@@ -127,7 +127,8 @@
 &lt;li&gt;Computador com Linux instalado (de preferência Ubuntu) e acesso de administrador.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;link-para-repositório&#34;&gt;Link para repositório&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://gitlab.uspdigital.usp.br/mac0318-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.uspdigital.usp.br/mac0318-2021&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;bibliografia&#34;&gt;Bibliografia&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;P. Corke. Robotics, Vision and Control: Fundamental Algorithms in Matlab, Springer, 2a. edição, 2017.&lt;/li&gt;
@@ -139,7 +140,7 @@
 &lt;li&gt;R. Murphy, Introduction to AI Robotics, MIT Press, Cambridge, MA, 2000.&lt;/li&gt;
 &lt;li&gt;R. Arkin, Behavior-based Robotics, MIT Press, Cambridge, MA, 1998.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img src=&#34;https://www.ime.usp.br/~ddm/teaching/mac318/interlagos.jpg&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/~ddm/teaching/mac318/interlagos.jpg&#34;&gt;
 &lt;/figure&gt;
 
 &lt;!-- ## Meet your instructor

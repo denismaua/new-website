@@ -1,13 +1,13 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: April 17, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: September 4, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
-<head>
+<head><script src="/~ddm/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=~ddm/livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="generator" content="Hugo Blox Builder 0.3.1" />
+  <meta name="generator" content="Hugo Blox Builder 0.5.2" />
 
   
   
@@ -44,7 +44,7 @@
   <meta name="description" content="Predictive Uncertainty Estimators for Sum-Product Networks" />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://www.ime.usp.br/~ddm/project/pq2020/" />
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/~ddm/project/pq2020/" />
 
   
   
@@ -56,8 +56,17 @@
 
   
   
+  
     
-    <link href="/~ddm/dist/wc.min.css" rel="stylesheet" />
+
+  
+  
+    
+      <link rel="stylesheet" href="/~ddm/css/main.css">
+    
+  
+
+
   
 
   
@@ -161,7 +170,7 @@
   <link rel="icon" type="image/png" href="/~ddm/media/icon_hu_5cac115d14ed3d49.png" />
   <link rel="apple-touch-icon" type="image/png" href="/~ddm/media/icon_hu_e7f327b39c12e7ca.png" />
 
-  <link rel="canonical" href="https://www.ime.usp.br/~ddm/project/pq2020/" />
+  <link rel="canonical" href="http://localhost:1313/~ddm/project/pq2020/" />
 
   
   
@@ -184,10 +193,10 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="" />
-  <meta property="og:url" content="https://www.ime.usp.br/~ddm/project/pq2020/" />
+  <meta property="og:url" content="http://localhost:1313/~ddm/project/pq2020/" />
   <meta property="og:title" content="Predictive Uncertainty Estimators for Sum-Product Networks | " />
-  <meta property="og:description" content="Predictive Uncertainty Estimators for Sum-Product Networks" /><meta property="og:image" content="https://www.ime.usp.br/~ddm/media/icon_hu_645fa481986063ef.png" />
-    <meta property="twitter:image" content="https://www.ime.usp.br/~ddm/media/icon_hu_645fa481986063ef.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Predictive Uncertainty Estimators for Sum-Product Networks" /><meta property="og:image" content="http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png" />
+    <meta property="twitter:image" content="http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -217,7 +226,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://www.ime.usp.br/~ddm/project/pq2020/"
+    "@id": "http://localhost:1313/~ddm/project/pq2020/"
   },
   "headline": "Predictive Uncertainty Estimators for Sum-Product Networks",
   
@@ -234,7 +243,7 @@
     "name": "",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://www.ime.usp.br/~ddm/media/icon_hu_1df060215326dd50.png"
+      "url": "http://localhost:1313/~ddm/media/icon_hu_1df060215326dd50.png"
     }
   },
   "description": "Predictive Uncertainty Estimators for Sum-Product Networks"
@@ -295,44 +304,42 @@
   
   
   
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
-    
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
     
       
       
@@ -379,25 +386,6 @@
   
   
   
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
-    
   
   
   
@@ -472,7 +460,6 @@
         
       
     
-  
   
   
   
@@ -753,40 +740,67 @@
     --pagefind-ui-border: #152028;
     --pagefind-ui-tag: #152028;
   }
+
+   
+  .search-close > svg {
+    height: calc(64px * var(--pagefind-ui-scale));
+    width: calc(64px * var(--pagefind-ui-scale));
+  }
 </style>
 
 <script>
+  
+  let searchWrapper = null;
+
   window.addEventListener('DOMContentLoaded', (event) => {
+    
     new PagefindUI({
       element: "#search",
       showSubResults: true,
       baseUrl: window.hbb.pagefind.baseUrl,
       bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
     });
+
+    
+    searchWrapper = document.getElementById('search-wrapper');
+
+    
+    let triggers = document.querySelectorAll('[data-search-toggle]');
+    triggers.forEach(trigger =>
+      trigger.addEventListener('click', handleSearchToggle)
+    );
   });
-  document.addEventListener('DOMContentLoaded', () => {
-    let element = document.getElementById('search');
-    let trigger = document.getElementById('search_toggle');
 
-    if (trigger) {
-      trigger.addEventListener('click', () => {
-        element.classList.toggle('hidden');
-        element.querySelector("input").value = ""
-        element.querySelector("input").focus()
+  function handleSearchToggle(event) {
+    if (!searchWrapper) return;
 
-        if (!element.classList.contains('hidden')) {
-          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+    const isHidden = searchWrapper.classList.contains('hidden');
+    searchWrapper.classList.toggle('hidden');
+    document.body.style.overflow = isHidden ? 'hidden' : '';
 
-          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
-            clear_trigger.setAttribute('listenerOnClick', 'true');
+    const searchInput = searchWrapper.querySelector("input");
+    if (searchInput) {
+      searchInput.value = "";
+      searchInput.focus();
+    }
 
-            clear_trigger.addEventListener('click', () => {
-              element.classList.toggle('hidden');
-            });
-          }
-        }
+    if (!searchWrapper.classList.contains('hidden')) {
+      let clearTrigger = document.querySelector('.pagefind-ui__search-clear');
 
-      });
+      if (clearTrigger && !clearTrigger.hasAttribute('listenerOnClick')) {
+        clearTrigger.setAttribute('listenerOnClick', 'true');
+
+        clearTrigger.addEventListener('click', () => {
+          searchInput.focus();
+        });
+      }
+    }
+  }
+
+  
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && searchWrapper && !searchWrapper.classList.contains('hidden')) {
+      searchWrapper.classList.add('hidden');
     }
   });
 </script>
@@ -948,8 +962,8 @@
   
   <script
     defer
-    src="/~ddm/js/hugo-blox-en.min.8c8ea06bd0420f5067e52fa727b9f92303757322ba4431774153d59a9735eadb.js"
-    integrity="sha256-jI6ga9BCD1Bn5S&#43;nJ7n5IwN1cyK6RDF3QVPVmpc16ts="
+    src="/~ddm/js/hugo-blox-en.min.js"
+    integrity=""
   ></script>
 
   
@@ -961,15 +975,6 @@
 
 
 
-
-  
-    
-      
-      <script async defer src="https://buttons.github.io/buttons.js"></script>
-
-      
-    
-  
 
 
 
@@ -986,8 +991,8 @@
         
         
           <header id="site-header" class="header">
-  <nav class="navbar px-3 flex justify-left">
-    <div class="order-0 h-100">
+  <nav class="navbar px-3 flex justify-start">
+    <div class="order-0 h-full">
       
       <a class="navbar-brand" href="/~ddm/" title="">
         Denis D. Mauá&#39;s
@@ -1015,7 +1020,7 @@
     
     <ul
       id="nav-menu"
-      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-left
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-start
       ">
       
       
@@ -1112,9 +1117,9 @@
       
       
       <button
-        aria-label="search"
+        aria-label="toggle search"
         class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
-        id="search_toggle">
+        data-search-toggle>
         <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
       </button>
       
@@ -1126,12 +1131,12 @@
         <button class="theme-toggle mt-1" accesskey="t" title="appearance">
           <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-               stroke-linejoin="round" class="dark:hidden">
+               stroke-linejoin="round" class="block dark:hidden">
             <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
           </svg>
           <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-               stroke-linejoin="round" class=" dark:block [&:not(dark)]:hidden">
+               stroke-linejoin="round" class="hidden dark:block">
             <circle cx="12" cy="12" r="5"></circle>
             <line x1="12" y1="1" x2="12" y2="3"></line>
             <line x1="12" y1="21" x2="12" y2="23"></line>
@@ -1155,8 +1160,26 @@
   </nav>
 </header>
 
+<div
+  id="search-wrapper"
+  class="hidden fixed inset-0 z-50 bg-white dark:bg-gray-900 flex flex-col overflow-hidden"
+>
+  <div class="flex justify-end p-3">
+    <button
+      aria-label="search"
+      class="search-close text-black hover:text-primary dark:text-white"
+      data-search-toggle
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
 
-<div id="search" class="hidden p-3"></div>
+  <div id="search" class="flex-1 overflow-y-auto p-3">
+    
+  </div>
+</div>
 
 
         
@@ -1225,9 +1248,25 @@
         <ul class="hb-sidebar-list"><li class="flex flex-col "><a
     class="hb-sidebar-custom-link
       text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/~ddm/publication/cozman-2025-isipta/"
+    
+  >Dealing with cycles in graph-based probabilistic models: the case of Logical Credal Networks
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
     href="/~ddm/publication/silveira-2024-bracis/"
     
   >Investigating Universal Adversarial Attacks Against Transformers-Based Automatic Essay Scoring Systems
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/~ddm/publication/cozman-2024-challenges/"
+    
+  >A Big Challenge: Tools to Guarantee Robust and Controlled Behavior of Large Language Models
     </a>
               
             </li><li class="flex flex-col "><a
@@ -2299,6 +2338,9 @@
         
 
         
+        
+
+        
         <span class="mx-1">·</span>
         <span class="mx-1">
           2 min read
@@ -2308,7 +2350,6 @@
 
         <div class="mt-3">
           
-
 
 
 
@@ -2383,7 +2424,6 @@ networks.</p>
   
 
   
-
 <div class="flex justify-center">
   
   <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/~ddm/tags/productivity-scholarhip/">Productivity Scholarhip</a>
@@ -2408,7 +2448,7 @@ networks.</p>
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ime.usp.br%2F~ddm%2Fproject%2Fpq2020%2F&amp;text=Predictive&#43;Uncertainty&#43;Estimators&#43;for&#43;Sum-Product&#43;Networks"
+    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2F~ddm%2Fproject%2Fpq2020%2F&amp;text=Predictive&#43;Uncertainty&#43;Estimators&#43;for&#43;Sum-Product&#43;Networks"
     title="X"
     aria-label="X"
     id="share-link-x"
@@ -2426,7 +2466,7 @@ networks.</p>
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.ime.usp.br%2F~ddm%2Fproject%2Fpq2020%2F&amp;t=Predictive&#43;Uncertainty&#43;Estimators&#43;for&#43;Sum-Product&#43;Networks"
+    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2F~ddm%2Fproject%2Fpq2020%2F&amp;t=Predictive&#43;Uncertainty&#43;Estimators&#43;for&#43;Sum-Product&#43;Networks"
     title="Facebook"
     aria-label="Facebook"
     id="share-link-facebook"
@@ -2446,7 +2486,7 @@ networks.</p>
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="mailto:?subject=Predictive%20Uncertainty%20Estimators%20for%20Sum-Product%20Networks&amp;body=https%3A%2F%2Fwww.ime.usp.br%2F~ddm%2Fproject%2Fpq2020%2F"
+    href="mailto:?subject=Predictive%20Uncertainty%20Estimators%20for%20Sum-Product%20Networks&amp;body=http%3A%2F%2Flocalhost%3A1313%2F~ddm%2Fproject%2Fpq2020%2F"
     title="Email"
     aria-label="Email"
     id="share-link-email"
@@ -2464,7 +2504,7 @@ networks.</p>
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.ime.usp.br%2F~ddm%2Fproject%2Fpq2020%2F&amp;title=Predictive&#43;Uncertainty&#43;Estimators&#43;for&#43;Sum-Product&#43;Networks"
+    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2F~ddm%2Fproject%2Fpq2020%2F&amp;title=Predictive&#43;Uncertainty&#43;Estimators&#43;for&#43;Sum-Product&#43;Networks"
     title="LinkedIn"
     aria-label="LinkedIn"
     id="share-link-linkedin"
@@ -2482,7 +2522,7 @@ networks.</p>
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="whatsapp://send?text=Predictive&#43;Uncertainty&#43;Estimators&#43;for&#43;Sum-Product&#43;Networks%20https%3A%2F%2Fwww.ime.usp.br%2F~ddm%2Fproject%2Fpq2020%2F"
+    href="whatsapp://send?text=Predictive&#43;Uncertainty&#43;Estimators&#43;for&#43;Sum-Product&#43;Networks%20http%3A%2F%2Flocalhost%3A1313%2F~ddm%2Fproject%2Fpq2020%2F"
     title="WhatsApp"
     aria-label="WhatsApp"
     id="share-link-whatsapp"
@@ -2517,25 +2557,30 @@ networks.</p>
 
 <div class="flex pt-12 pb-4">
   
-  
-  <img
-    class="mr-4 h-24 w-24 rounded-full"
-    width="96"
-    height="96"
-    alt="Denis D. Mauá"
-  src="/~ddm/author/denis-d.-maua/avatar_hu_8d3380c2d5e22469.jpg"
-  loading="lazy"
-  />
+    
+    
+    
+    <img
+      class="mr-4 h-24 w-24 rounded-full"
+      srcset="/~ddm/author/denis-d.-maua/avatar_hu_58fc2d7b89e33fb.webp 96w, /~ddm/author/denis-d.-maua/avatar_hu_344c40a75849c50e.webp 192w, /~ddm/author/denis-d.-maua/avatar_hu_e3c572b9d10ba535.webp 288w, /~ddm/author/denis-d.-maua/avatar_hu_5ae4682061d412d4.webp 384w"
+      sizes="96px"
+      src="/~ddm/author/denis-d.-maua/avatar_hu_58fc2d7b89e33fb.webp"
+      width="96"
+      height="96"
+      alt="Denis D. Mauá"
+      loading="lazy"
+      />
   
   <div class="place-self-center">
     <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
       Authors
     </div>
     <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
-      <a href="https://www.ime.usp.br/~ddm/" class="no-underline">
-      Denis D. Mauá
-      </a>
-    </div>
+      <span class="inline-block">
+        <a href="http://localhost:1313/~ddm/" class="no-underline">
+        Denis D. Mauá
+        </a>
+      </span></div>
 
     
     <div class="text-sm font-bold text-neutral-700 dark:text-neutral-300">
@@ -2823,6 +2868,13 @@ networks.</p>
 </footer>
 
     </div>
+
+    
+    
+
+
+<div id="hb-notification-container" class="fixed top-20 right-4 z-[9999] pointer-events-none" aria-live="polite" aria-atomic="true"></div>
+
 
     
     

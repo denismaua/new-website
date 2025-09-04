@@ -1,7 +1,7 @@
 ---
 title: Teaching
 summary: Courses I usually teach
-type: landing
+# type: landing
 
 cascade:
   - _target:

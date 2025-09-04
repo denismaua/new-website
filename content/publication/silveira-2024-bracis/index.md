@@ -30,7 +30,7 @@ publication_types:
 publication: '*Intelligent Systems*'
 publication_short: ''
 
-doi: 10.1007/978-3-031-79032-4_ 12
+doi: 10.1007/978-3-031-79032-4_12
 
 abstract: Automatic Essay Scoring promises to scale up student feedback on written
   input, addressing the excessive cost and time demand associated with human grading.

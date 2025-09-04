@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Answer Set Programming | </title>
-    <link>https://www.ime.usp.br/~ddm/tags/answer-set-programming/</link>
-      <atom:link href="https://www.ime.usp.br/~ddm/tags/answer-set-programming/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/~ddm/tags/answer-set-programming/</link>
+      <atom:link href="http://localhost:1313/~ddm/tags/answer-set-programming/index.xml" rel="self" type="application/rss+xml" />
     <description>Answer Set Programming</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ime.usp.br/~ddm/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png</url>
       <title>Answer Set Programming</title>
-      <link>https://www.ime.usp.br/~ddm/tags/answer-set-programming/</link>
+      <link>http://localhost:1313/~ddm/tags/answer-set-programming/</link>
     </image>
     
     <item>
       <title>The Joy of Probabilistic Answer Set Programming: Semantics, complexity, expressivity, inference</title>
-      <link>https://www.ime.usp.br/~ddm/publication/cozman-2020-ijar/</link>
+      <link>http://localhost:1313/~ddm/publication/cozman-2020-ijar/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2020-ijar/</guid>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2020-ijar/</guid>
       <description></description>
     </item>
     

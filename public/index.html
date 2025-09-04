@@ -1,13 +1,13 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: April 17, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: September 4, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
-<head>
+<head><script src="/~ddm/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=~ddm/livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="generator" content="Hugo Blox Builder 0.3.1" />
+  <meta name="generator" content="Hugo Blox Builder 0.5.2" />
 
   
   
@@ -44,7 +44,7 @@
   <meta name="description" content="Denis D. Mauá&#39;s Webpage" />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://www.ime.usp.br/~ddm/" />
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/~ddm/" />
 
   
   
@@ -56,8 +56,17 @@
 
   
   
+  
     
-    <link href="/~ddm/dist/wc.min.css" rel="stylesheet" />
+
+  
+  
+    
+      <link rel="stylesheet" href="/~ddm/css/main.css">
+    
+  
+
+
   
 
   
@@ -163,7 +172,7 @@
   <link rel="icon" type="image/png" href="/~ddm/media/icon_hu_5cac115d14ed3d49.png" />
   <link rel="apple-touch-icon" type="image/png" href="/~ddm/media/icon_hu_e7f327b39c12e7ca.png" />
 
-  <link rel="canonical" href="https://www.ime.usp.br/~ddm/" />
+  <link rel="canonical" href="http://localhost:1313/~ddm/" />
 
   
   
@@ -186,10 +195,10 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="" />
-  <meta property="og:url" content="https://www.ime.usp.br/~ddm/" />
+  <meta property="og:url" content="http://localhost:1313/~ddm/" />
   <meta property="og:title" content="Denis Deratani Mauá&#39;s Page | " />
-  <meta property="og:description" content="Denis D. Mauá&#39;s Webpage" /><meta property="og:image" content="https://www.ime.usp.br/~ddm/media/icon_hu_645fa481986063ef.png" />
-    <meta property="twitter:image" content="https://www.ime.usp.br/~ddm/media/icon_hu_645fa481986063ef.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Denis D. Mauá&#39;s Webpage" /><meta property="og:image" content="http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png" />
+    <meta property="twitter:image" content="http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2022-10-24T00:00:00&#43;00:00" />
@@ -201,7 +210,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite","url": "https://www.ime.usp.br/~ddm/"
+  "@type": "WebSite","url": "http://localhost:1313/~ddm/"
 }
 </script>
 
@@ -258,44 +267,42 @@
   
   
   
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
-    
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
     
       
       
@@ -342,25 +349,6 @@
   
   
   
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
-    
   
   
   
@@ -435,7 +423,6 @@
         
       
     
-  
   
   
   
@@ -716,40 +703,67 @@
     --pagefind-ui-border: #152028;
     --pagefind-ui-tag: #152028;
   }
+
+   
+  .search-close > svg {
+    height: calc(64px * var(--pagefind-ui-scale));
+    width: calc(64px * var(--pagefind-ui-scale));
+  }
 </style>
 
 <script>
+  
+  let searchWrapper = null;
+
   window.addEventListener('DOMContentLoaded', (event) => {
+    
     new PagefindUI({
       element: "#search",
       showSubResults: true,
       baseUrl: window.hbb.pagefind.baseUrl,
       bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
     });
+
+    
+    searchWrapper = document.getElementById('search-wrapper');
+
+    
+    let triggers = document.querySelectorAll('[data-search-toggle]');
+    triggers.forEach(trigger =>
+      trigger.addEventListener('click', handleSearchToggle)
+    );
   });
-  document.addEventListener('DOMContentLoaded', () => {
-    let element = document.getElementById('search');
-    let trigger = document.getElementById('search_toggle');
 
-    if (trigger) {
-      trigger.addEventListener('click', () => {
-        element.classList.toggle('hidden');
-        element.querySelector("input").value = ""
-        element.querySelector("input").focus()
+  function handleSearchToggle(event) {
+    if (!searchWrapper) return;
 
-        if (!element.classList.contains('hidden')) {
-          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+    const isHidden = searchWrapper.classList.contains('hidden');
+    searchWrapper.classList.toggle('hidden');
+    document.body.style.overflow = isHidden ? 'hidden' : '';
 
-          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
-            clear_trigger.setAttribute('listenerOnClick', 'true');
+    const searchInput = searchWrapper.querySelector("input");
+    if (searchInput) {
+      searchInput.value = "";
+      searchInput.focus();
+    }
 
-            clear_trigger.addEventListener('click', () => {
-              element.classList.toggle('hidden');
-            });
-          }
-        }
+    if (!searchWrapper.classList.contains('hidden')) {
+      let clearTrigger = document.querySelector('.pagefind-ui__search-clear');
 
-      });
+      if (clearTrigger && !clearTrigger.hasAttribute('listenerOnClick')) {
+        clearTrigger.setAttribute('listenerOnClick', 'true');
+
+        clearTrigger.addEventListener('click', () => {
+          searchInput.focus();
+        });
+      }
+    }
+  }
+
+  
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && searchWrapper && !searchWrapper.classList.contains('hidden')) {
+      searchWrapper.classList.add('hidden');
     }
   });
 </script>
@@ -911,8 +925,8 @@
   
   <script
     defer
-    src="/~ddm/js/hugo-blox-en.min.8c8ea06bd0420f5067e52fa727b9f92303757322ba4431774153d59a9735eadb.js"
-    integrity="sha256-jI6ga9BCD1Bn5S&#43;nJ7n5IwN1cyK6RDF3QVPVmpc16ts="
+    src="/~ddm/js/hugo-blox-en.min.js"
+    integrity=""
   ></script>
 
   
@@ -924,15 +938,6 @@
 
 
 
-
-  
-    
-      
-      <script async defer src="https://buttons.github.io/buttons.js"></script>
-
-      
-    
-  
 
 
 
@@ -949,8 +954,8 @@
         
         
           <header id="site-header" class="header">
-  <nav class="navbar px-3 flex justify-left">
-    <div class="order-0 h-100">
+  <nav class="navbar px-3 flex justify-start">
+    <div class="order-0 h-full">
       
       <a class="navbar-brand" href="/~ddm/" title="">
         Denis D. Mauá&#39;s
@@ -978,7 +983,7 @@
     
     <ul
       id="nav-menu"
-      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-left
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-start
       ">
       
       
@@ -1075,9 +1080,9 @@
       
       
       <button
-        aria-label="search"
+        aria-label="toggle search"
         class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
-        id="search_toggle">
+        data-search-toggle>
         <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
       </button>
       
@@ -1089,12 +1094,12 @@
         <button class="theme-toggle mt-1" accesskey="t" title="appearance">
           <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-               stroke-linejoin="round" class="dark:hidden">
+               stroke-linejoin="round" class="block dark:hidden">
             <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
           </svg>
           <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-               stroke-linejoin="round" class=" dark:block [&:not(dark)]:hidden">
+               stroke-linejoin="round" class="hidden dark:block">
             <circle cx="12" cy="12" r="5"></circle>
             <line x1="12" y1="1" x2="12" y2="3"></line>
             <line x1="12" y1="21" x2="12" y2="23"></line>
@@ -1118,8 +1123,26 @@
   </nav>
 </header>
 
+<div
+  id="search-wrapper"
+  class="hidden fixed inset-0 z-50 bg-white dark:bg-gray-900 flex flex-col overflow-hidden"
+>
+  <div class="flex justify-end p-3">
+    <button
+      aria-label="search"
+      class="search-close text-black hover:text-primary dark:text-white"
+      data-search-toggle
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
 
-<div id="search" class="hidden p-3"></div>
+  <div id="search" class="flex-1 overflow-y-auto p-3">
+    
+  </div>
+</div>
 
 
         
@@ -1235,7 +1258,7 @@
 
 
 <section id="section-resume-biography-3" class="relative hbb-section blox-resume-biography-3  dark" style="padding: 5rem 0 5rem 0;" >
- <div class="home-section-bg  bg-image parallax" style="background-color: purple;background-image: url(&#39;https://www.ime.usp.br/~ddm/media/spbg_hu_67942c8c5b3a3a6e.webp&#39;);background-size: cover;background-position: center;filter: brightness(0.9);">
+ <div class="home-section-bg  bg-image parallax" style="background-color: purple;background-image: url(&#39;http://localhost:1313/~ddm/media/spbg_hu_67942c8c5b3a3a6e.webp&#39;);background-size: cover;background-position: center;filter: brightness(0.9);">
    
  </div>
   
@@ -1260,28 +1283,40 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="resume-biography px-3 flex flex-col md:flex-row justify-center gap-12">
   <div class="flex-none m-w-[130px] mx-auto md:mx-0">
 
   
-  
+
 
   <div id="profile" class="flex justify-center items-center flex-col">
     
 
-    <div class="avatar-wrapper mt-10">
+    <div class="avatar-wrapper mt-10" style="width: 200px; height: 200px;">
       
-      <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1" src="/~ddm/author/denis-d.-maua/avatar_hu_60dabcc9f63c8912.jpg" alt="Denis D. Mauá"
-           width="150" height="150">
+      <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1" src="/~ddm/author/denis-d.-maua/avatar_hu_262168790acbbfd.jpg" alt="Denis D. Mauá"
+           width="200" height="200"
+           style="width: 200px; height: 200px; object-fit: cover;">
       
     </div>
     
 
     <div class="portrait-title dark:text-white">
 
-      <div class="text-3xl font-bold mb-2 mt-6">Denis D. Mauá</div>
-
-      <h3 class="font-semibold mb-1">Associate Professor</h3>
+      <div class="text-3xl font-bold mb-2 mt-6">Denis D. Mauá</div><h3 class="font-semibold mb-1">Associate Professor</h3>
 
       
       <div class="mb-2">
@@ -1662,6 +1697,13 @@
 
 
 
+  
+    
+    <script>console.log('Author notes found in collection - Alpine.js enabled');</script>
+    
+
+
+
 
 <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center px-6 md:px-0">
 
@@ -1694,6 +1736,165 @@
   <span class="article-metadata li-cite-author">
     
 
+
+  <span >
+      Fabio G. Cozman</span>, <span >
+      Radu Marinescu</span>, <span >
+      Junkyu Lee</span>, <span >
+      Alexander Gray</span>, <span class="font-bold">
+      Denis D. Mauá</span>
+  </span>
+  (2025).
+  <a href="/~ddm/publication/cozman-2025-isipta/" class="underline">Dealing with cycles in graph-based probabilistic models: the case of Logical Credal Networks</a>.
+  <em>Proceedings of the Fourteenth International Symposium on Imprecise Probabilities: Theories and Applications</em>.
+  
+
+  
+  <div class="flex flex-wrap space-x-3">
+    
+
+
+
+
+
+
+
+
+ 
+
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+    
+
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="https://proceedings.mlr.press/v290/cozman25a.html" target="_blank" rel="noopener">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>
+        URL
+      </a>
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="/~ddm/project/neuroproblog/"  >
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>
+        Project
+      </a>
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      <button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/~ddm/publication/cozman-2025-isipta/cite.bib">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
+        <span>Cite</span>
+      </button>
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="https://raw.githubusercontent.com/mlresearch/v290/main/assets/cozman25a/cozman25a.pdf" target="_blank" rel="noopener">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+        PDF
+      </a>
+    
+  
+
+
+  </div>
+  
+
+  
+  
+</div>
+
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
   <span >
       Igor Cataneo Silveira</span>, <span >
       André Barbosa</span>, <span >
@@ -1716,64 +1917,180 @@
 
 
 
+ 
+
+
   
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="/~ddm/project/neuroproblog/"  >
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>
+        Project
+      </a>
     
   
 
-
-
-<a class="hb-attachment-link hb-attachment-small" href="/~ddm/publication/silveira-2024-bracis/silveira2024bracis.pdf" target="_blank" rel="noopener">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
-  PDF
-</a>
-
-
-
-<a class="hb-attachment-link hb-attachment-small" href="/~ddm/publication/silveira-2024-bracis/cite.bib" target="_blank" data-filename="/~ddm/publication/silveira-2024-bracis/cite.bib">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
-  Cite
-</a>
-
-
-
-  
   
     
-  
-<a class="hb-attachment-link hb-attachment-small" href="https://huggingface.co/datasets/kamel-usp/aes_enem_dataset" target="_blank" rel="noopener">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125"/></svg>
-  Dataset
-</a>
+    
+    
+    
+    
+    
+      
+        
+      
+    
 
+    
+    
+    
+      
+        
+      
+    
+    
 
-
-  
-  <a class="hb-attachment-link hb-attachment-small" href="/~ddm/project/neuroproblog/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
+    
+      <button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/~ddm/publication/silveira-2024-bracis/cite.bib">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
+        <span>Cite</span>
+      </button>
     
   
-  <a class="hb-attachment-link hb-attachment-small" href="/~ddm/publication/silveira-2024-bracis/slides.pdf" target="_blank" rel="noopener">
-    <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.75 3v11.25A2.25 2.25 0 0 0 6 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0 1 18 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5M9 11.25v1.5M12 9v3.75m3-6v6"/></svg>
-    Slides
-  </a>
 
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
 
+    
+    
+    
+      
+        
+      
+    
+    
 
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.1007/978-3-031-79032-4_12" target="_blank" rel="noopener">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>
+        DOI
+      </a>
+    
+  
 
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
 
-<a class="hb-attachment-link hb-attachment-small" href="https://doi.org/10.1007/978-3-031-79032-4_%2012" target="_blank" rel="noopener">
-  DOI
-</a>
+    
+    
+    
+      
+        
+      
+    
+    
 
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="https://huggingface.co/datasets/kamel-usp/aes_enem_dataset" target="_blank" rel="noopener">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125"/></svg>
+        Dataset
+      </a>
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="/~ddm/publication/silveira-2024-bracis/silveira2024bracis.pdf"  >
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+        PDF
+      </a>
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="/~ddm/publication/silveira-2024-bracis/slides.pdf"  >
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.75 3v11.25A2.25 2.25 0 0 0 6 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0 1 18 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5M9 11.25v1.5M12 9v3.75m3-6v6"/></svg>
+        Slides
+      </a>
+    
+  
 
 
   </div>
@@ -1795,6 +2112,200 @@
 
   <span class="article-metadata li-cite-author">
     
+
+
+  <span >
+      Fabio G. Cozman</span>, <span >
+      Sarajane M. Peres</span>, <span >
+      Marcelo Finger</span>, <span >
+      Renata Wassermann</span>, <span >
+      Anna H. Reali Costa</span>, <span >
+      Edson S. Gomi</span>, <span >
+      Artur J. L. Correia</span>, <span >
+      Anarosa A. F. Brandão</span>, <span >
+      Karina v. Delgado</span>, <span class="font-bold">
+      Denis D. Mauá</span>, <span >
+      Thiago A. S. Pardo</span>, <span >
+      Fátima L. S. N. Marques</span>
+  </span>
+  (2024).
+  <a href="/~ddm/publication/cozman-2024-challenges/" class="underline">A Big Challenge: Tools to Guarantee Robust and Controlled Behavior of Large Language Models</a>.
+  <em>SOL</em>.
+  
+
+  
+  <div class="flex flex-wrap space-x-3">
+    
+
+
+
+
+
+
+
+
+ 
+
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+    
+
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="https://books-sol.sbc.org.br/index.php/sbc/catalog/view/168/742/1424" target="_blank" rel="noopener">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>
+        URL
+      </a>
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="/~ddm/project/neuroproblog/"  >
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>
+        Project
+      </a>
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      <button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/~ddm/publication/cozman-2024-challenges/cite.bib">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
+        <span>Cite</span>
+      </button>
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.5753/sbc.16840.7.2" target="_blank" rel="noopener">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>
+        DOI
+      </a>
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="https://books-sol.sbc.org.br/index.php/sbc/catalog/view/168/742/1424" target="_blank" rel="noopener">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+        PDF
+      </a>
+    
+  
+
+
+  </div>
+  
+
+  
+  
+</div>
+
+  
+    
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
 
   <span >
       Renato Lui Geh</span>, <span >
@@ -1819,55 +2330,150 @@
 
 
 
+ 
+
+
   
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="/~ddm/project/neuroproblog/"  >
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>
+        Project
+      </a>
     
   
 
-
-
-<a class="hb-attachment-link hb-attachment-small" href="https://proceedings.kr.org/2024/69/kr2024-0069-geh-et-al.pdf" target="_blank" rel="noopener">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
-  PDF
-</a>
-
-
-
-<a class="hb-attachment-link hb-attachment-small" href="/~ddm/publication/geh-2024-kr/cite.bib" target="_blank" data-filename="/~ddm/publication/geh-2024-kr/cite.bib">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
-  Cite
-</a>
-
-
-  
   
     
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      <button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/~ddm/publication/geh-2024-kr/cite.bib">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
+        <span>Cite</span>
+      </button>
+    
   
-<a class="hb-attachment-link hb-attachment-small" href="https://github.com/kamel-usp/dpasp" target="_blank" rel="noopener">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5"/></svg>
-  Code
-</a>
-
-
-
 
   
-  <a class="hb-attachment-link hb-attachment-small" href="/~ddm/project/neuroproblog/">
-    Project
-  </a>
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.24963/kr.2024/69" target="_blank" rel="noopener">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>
+        DOI
+      </a>
+    
   
 
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
 
+    
+    
+    
+      
+        
+      
+    
+    
 
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="https://github.com/kamel-usp/dpasp" target="_blank" rel="noopener">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5"/></svg>
+        Code
+      </a>
+    
+  
 
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
 
+    
+    
+    
+      
+        
+      
+    
+    
 
-
-
-
-<a class="hb-attachment-link hb-attachment-small" href="https://doi.org/10.24963/kr.2024/69" target="_blank" rel="noopener">
-  DOI
-</a>
-
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="https://proceedings.kr.org/2024/69/kr2024-0069-geh-et-al.pdf" target="_blank" rel="noopener">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+        PDF
+      </a>
+    
+  
 
 
   </div>
@@ -1889,6 +2495,7 @@
 
   <span class="article-metadata li-cite-author">
     
+
 
   <span >
       Benjie Wang</span>, <span class="font-bold">
@@ -1912,251 +2519,94 @@
 
 
 
-  
-    
-  
-
-
-
-<a class="hb-attachment-link hb-attachment-small" href="https://openreview.net/forum?id=mXlR1FLFDc" target="_blank" rel="noopener">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
-  PDF
-</a>
-
-
-
-<a class="hb-attachment-link hb-attachment-small" href="/~ddm/publication/wang-2024-neurips/cite.bib" target="_blank" data-filename="/~ddm/publication/wang-2024-neurips/cite.bib">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
-  Cite
-</a>
-
-
-
-
-
-  
-  <a class="hb-attachment-link hb-attachment-small" href="/~ddm/project/neuroproblog/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-  
-  
-</div>
-
-  
-    
-
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  <span >
-      Igor Cataneo Silveira</span>, <span >
-      André Barbosa</span>, <span class="font-bold">
-      Denis D. Mauá</span>
-  </span>
-  (2024).
-  <a href="/~ddm/publication/silveira-2024-propor/" class="underline">A New Benchmark for Automatic Essay Scoring in Portuguese</a>.
-  <em>Proceedings of the 16th International Conference on Computational Processing of Portuguese (PROPOR 2024)</em>.
-  
-
-  
-  <div class="flex flex-wrap space-x-3">
-    
-
-
-
-
-
-
+ 
 
 
   
     
-  
-
-
-
-<a class="hb-attachment-link hb-attachment-small" href="https://aclanthology.org/2024.propor-1.23.pdf" target="_blank" rel="noopener">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
-  PDF
-</a>
-
-
-
-<a class="hb-attachment-link hb-attachment-small" href="/~ddm/publication/silveira-2024-propor/cite.bib" target="_blank" data-filename="/~ddm/publication/silveira-2024-propor/cite.bib">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
-  Cite
-</a>
-
-
-  
-  
     
-  
-<a class="hb-attachment-link hb-attachment-small" href="https://github.com/kamel-usp/aes_enem" target="_blank" rel="noopener">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5"/></svg>
-  Code
-</a>
-
-
-  
-  
     
-  
-<a class="hb-attachment-link hb-attachment-small" href="https://huggingface.co/datasets/kamel-usp/aes_enem_dataset" target="_blank" rel="noopener">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125"/></svg>
-  Dataset
-</a>
-
-
-
-  
-  <a class="hb-attachment-link hb-attachment-small" href="/~ddm/project/neuroproblog/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
     
-  
-  
-  
-  
-  
     
-  
-  <a class="hb-attachment-link hb-attachment-small" href="https://aclanthology.org/2024.propor-1.23/" target="_blank" rel="noopener">
-    <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>
-    URL</a>
-
-
-  </div>
-  
-
-  
-  
-</div>
-
-  
+    
+      
+        
+      
     
 
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
+    
+    
+    
+      
+        
+      
+    
     
 
-  <span class="font-bold">
-      Denis D. Mauá</span>, <span >
-      Fabio Gagliardi Cozman</span>, <span >
-      Alexandro Garces</span>
-  </span>
-  (2024).
-  <a href="/~ddm/publication/maua-2024-nmr/" class="underline">Probabilistic Logic Programming under the L-Stable Semantics</a>.
-  <em>Proceedings of the 22nd International Workshop on Nonmonotonic Reasoning (NMR 2024)</em>.
-  
-
-  
-  <div class="flex flex-wrap space-x-3">
     
-
-
-
-
-
-
-
-
-  
+      <a class="hb-attachment-link hb-attachment-link-small" href="/~ddm/project/neuroproblog/"  >
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>
+        Project
+      </a>
     
   
 
-
-
-<a class="hb-attachment-link hb-attachment-small" href="https://ceur-ws.org/Vol-3835/paper3.pdf" target="_blank" rel="noopener">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
-  PDF
-</a>
-
-
-
-<a class="hb-attachment-link hb-attachment-small" href="/~ddm/publication/maua-2024-nmr/cite.bib" target="_blank" data-filename="/~ddm/publication/maua-2024-nmr/cite.bib">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
-  Cite
-</a>
-
-
-  
   
     
-  
-<a class="hb-attachment-link hb-attachment-small" href="https://github.com/kamel-usp/dpasp" target="_blank" rel="noopener">
-  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5"/></svg>
-  Code
-</a>
+    
+    
+    
+    
+    
+      
+        
+      
+    
 
+    
+    
+    
+      
+        
+      
+    
+    
 
-
-
-  
-  <a class="hb-attachment-link hb-attachment-small" href="/~ddm/project/neuroproblog/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
+    
+      <button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/~ddm/publication/wang-2024-neurips/cite.bib">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
+        <span>Cite</span>
+      </button>
     
   
-  <a class="hb-attachment-link hb-attachment-small" href="/~ddm/publication/maua-2024-nmr/slides.pdf" target="_blank" rel="noopener">
-    <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.75 3v11.25A2.25 2.25 0 0 0 6 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0 1 18 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5M9 11.25v1.5M12 9v3.75m3-6v6"/></svg>
-    Slides
-  </a>
 
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
 
+    
+    
+    
+      
+        
+      
+    
+    
 
-
-
+    
+      <a class="hb-attachment-link hb-attachment-link-small" href="https://openreview.net/forum?id=mXlR1FLFDc" target="_blank" rel="noopener">
+        <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+        PDF
+      </a>
+    
+  
 
 
   </div>
@@ -2358,6 +2808,13 @@
 
 
 
+  
+
+  
+
+
+
+
 
 <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center px-6 md:px-0">
 
@@ -2533,6 +2990,13 @@
 </footer>
 
     </div>
+
+    
+    
+
+
+<div id="hb-notification-container" class="fixed top-20 right-4 z-[9999] pointer-events-none" aria-live="polite" aria-atomic="true"></div>
+
 
     
     

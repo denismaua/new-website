@@ -2,541 +2,541 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | </title>
-    <link>https://www.ime.usp.br/~ddm/publication_types/1/</link>
-      <atom:link href="https://www.ime.usp.br/~ddm/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/~ddm/publication_types/1/</link>
+      <atom:link href="http://localhost:1313/~ddm/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.ime.usp.br/~ddm/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/~ddm/media/icon_hu_645fa481986063ef.png</url>
       <title>1</title>
-      <link>https://www.ime.usp.br/~ddm/publication_types/1/</link>
+      <link>http://localhost:1313/~ddm/publication_types/1/</link>
     </image>
     
     <item>
       <title>On Modal Clustering with Gaussian Sum-Product Networks</title>
-      <link>https://www.ime.usp.br/~ddm/publication/madeira-2023-tpm/</link>
+      <link>http://localhost:1313/~ddm/publication/madeira-2023-tpm/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/madeira-2023-tpm/</guid>
+      <guid>http://localhost:1313/~ddm/publication/madeira-2023-tpm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentiable Planning for Optimal Liquidation</title>
-      <link>https://www.ime.usp.br/~ddm/publication/pennacchio-2022-bwaif/</link>
+      <link>http://localhost:1313/~ddm/publication/pennacchio-2022-bwaif/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/pennacchio-2022-bwaif/</guid>
+      <guid>http://localhost:1313/~ddm/publication/pennacchio-2022-bwaif/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentiable Planning with Indefinite Horizon</title>
-      <link>https://www.ime.usp.br/~ddm/publication/dias-2022-kdmile/</link>
+      <link>http://localhost:1313/~ddm/publication/dias-2022-kdmile/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/dias-2022-kdmile/</guid>
+      <guid>http://localhost:1313/~ddm/publication/dias-2022-kdmile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploration Versus Exploitation in Model-Based Reinforcement Learning: An Empirical Study</title>
-      <link>https://www.ime.usp.br/~ddm/publication/lovatto-2022-bracis/</link>
+      <link>http://localhost:1313/~ddm/publication/lovatto-2022-bracis/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/lovatto-2022-bracis/</guid>
+      <guid>http://localhost:1313/~ddm/publication/lovatto-2022-bracis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating Question Answering and Text-to-SQL in Portuguese</title>
-      <link>https://www.ime.usp.br/~ddm/publication/jose-2022-propor/</link>
+      <link>http://localhost:1313/~ddm/publication/jose-2022-propor/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/jose-2022-propor/</guid>
+      <guid>http://localhost:1313/~ddm/publication/jose-2022-propor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time Robust Trees: Using Temporal Invariance to Improve Generalization</title>
-      <link>https://www.ime.usp.br/~ddm/publication/moneda-2022-bracis/</link>
+      <link>http://localhost:1313/~ddm/publication/moneda-2022-bracis/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/moneda-2022-bracis/</guid>
+      <guid>http://localhost:1313/~ddm/publication/moneda-2022-bracis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tractable Classification with Non-Ignorable Missing Data Using Generative Random Forests</title>
-      <link>https://www.ime.usp.br/~ddm/publication/villanueva-2022-kdmile/</link>
+      <link>http://localhost:1313/~ddm/publication/villanueva-2022-kdmile/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/villanueva-2022-kdmile/</guid>
+      <guid>http://localhost:1313/~ddm/publication/villanueva-2022-kdmile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tractable Mode-Finding in Sum-Product Networks with Gaussian Leaves</title>
-      <link>https://www.ime.usp.br/~ddm/publication/madeira-2022-eniac/</link>
+      <link>http://localhost:1313/~ddm/publication/madeira-2022-eniac/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/madeira-2022-eniac/</guid>
+      <guid>http://localhost:1313/~ddm/publication/madeira-2022-eniac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cautious Classification with Data Missing Not at Random using Generative Random Forests</title>
-      <link>https://www.ime.usp.br/~ddm/publication/villanueva-2021-ecsqaru/</link>
+      <link>http://localhost:1313/~ddm/publication/villanueva-2021-ecsqaru/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/villanueva-2021-ecsqaru/</guid>
+      <guid>http://localhost:1313/~ddm/publication/villanueva-2021-ecsqaru/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast And Accurate Learning of Probabilistic Circuits by Random Projections</title>
-      <link>https://www.ime.usp.br/~ddm/publication/geh-2021-tpm/</link>
+      <link>http://localhost:1313/~ddm/publication/geh-2021-tpm/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/geh-2021-tpm/</guid>
+      <guid>http://localhost:1313/~ddm/publication/geh-2021-tpm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Probabilistic Sentential Decision Diagrams under Logic Constraints by Sampling and Averaging</title>
-      <link>https://www.ime.usp.br/~ddm/publication/geh-2021-uai/</link>
+      <link>http://localhost:1313/~ddm/publication/geh-2021-uai/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/geh-2021-uai/</guid>
+      <guid>http://localhost:1313/~ddm/publication/geh-2021-uai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Contact Network-Based Approach for Online Planning of Containment Measures for COVID-19</title>
-      <link>https://www.ime.usp.br/~ddm/publication/thomaz-2020-eniac/</link>
+      <link>http://localhost:1313/~ddm/publication/thomaz-2020-eniac/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/thomaz-2020-eniac/</guid>
+      <guid>http://localhost:1313/~ddm/publication/thomaz-2020-eniac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decision-Aware Model Learning for Actor-Critic Methods: When Theory Does Not Meet Practice</title>
-      <link>https://www.ime.usp.br/~ddm/publication/lovatto-2020-icbinb/</link>
+      <link>http://localhost:1313/~ddm/publication/lovatto-2020-icbinb/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/lovatto-2020-icbinb/</guid>
+      <guid>http://localhost:1313/~ddm/publication/lovatto-2020-icbinb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finding Feasible Policies for Extreme Risk-Averse Agents in Probabilistic Planning</title>
-      <link>https://www.ime.usp.br/~ddm/publication/condori-2020-bracis/</link>
+      <link>http://localhost:1313/~ddm/publication/condori-2020-bracis/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/condori-2020-bracis/</guid>
+      <guid>http://localhost:1313/~ddm/publication/condori-2020-bracis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Probabilistic Sentential Decision Diagrams by Sampling</title>
-      <link>https://www.ime.usp.br/~ddm/publication/geh-2020-kdmile/</link>
+      <link>http://localhost:1313/~ddm/publication/geh-2020-kdmile/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/geh-2020-kdmile/</guid>
+      <guid>http://localhost:1313/~ddm/publication/geh-2020-kdmile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Performance of Planning Through Backpropagation</title>
-      <link>https://www.ime.usp.br/~ddm/publication/scaroni-2020-bracis/</link>
+      <link>http://localhost:1313/~ddm/publication/scaroni-2020-bracis/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/scaroni-2020-bracis/</guid>
+      <guid>http://localhost:1313/~ddm/publication/scaroni-2020-bracis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prediction of Environmental Conditions for Maritime Navigation using a Network of Sensors: A Practical Application of Graph Neural Networks</title>
-      <link>https://www.ime.usp.br/~ddm/publication/netto-2020-kdmile/</link>
+      <link>http://localhost:1313/~ddm/publication/netto-2020-kdmile/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/netto-2020-kdmile/</guid>
+      <guid>http://localhost:1313/~ddm/publication/netto-2020-kdmile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two Reformulation Approaches to Maximum-A-Posteriori Inference in Sum-Product Networks</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2020-pgm/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2020-pgm/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2020-pgm/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2020-pgm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Reactive Policies for Planning in Stochastic Nonlinear Domains</title>
-      <link>https://www.ime.usp.br/~ddm/publication/bueno-2019-aaai/</link>
+      <link>http://localhost:1313/~ddm/publication/bueno-2019-aaai/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/bueno-2019-aaai/</guid>
+      <guid>http://localhost:1313/~ddm/publication/bueno-2019-aaai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>End-To-End Imitation Learning of Lane Following Policies Using Sum-Product Networks</title>
-      <link>https://www.ime.usp.br/~ddm/publication/geh-2019-eniac/</link>
+      <link>http://localhost:1313/~ddm/publication/geh-2019-eniac/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/geh-2019-eniac/</guid>
+      <guid>http://localhost:1313/~ddm/publication/geh-2019-eniac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the Space of Probabilistic Sentential Decision Diagrams</title>
-      <link>https://www.ime.usp.br/~ddm/publication/mattei-2019-tpm/</link>
+      <link>http://localhost:1313/~ddm/publication/mattei-2019-tpm/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/mattei-2019-tpm/</guid>
+      <guid>http://localhost:1313/~ddm/publication/mattei-2019-tpm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust Analysis of MAP Inference in Selective Sum-Product Networks</title>
-      <link>https://www.ime.usp.br/~ddm/publication/villanueva-2019-isipta/</link>
+      <link>http://localhost:1313/~ddm/publication/villanueva-2019-isipta/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/villanueva-2019-isipta/</guid>
+      <guid>http://localhost:1313/~ddm/publication/villanueva-2019-isipta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Finite Model Theory of Bayesian Networks: Descriptive Complexity</title>
-      <link>https://www.ime.usp.br/~ddm/publication/cozman-2018-ijcai/</link>
+      <link>http://localhost:1313/~ddm/publication/cozman-2018-ijcai/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2018-ijcai/</guid>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2018-ijcai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advances in Automatically Solving the ENEM</title>
-      <link>https://www.ime.usp.br/~ddm/publication/silveira-2018-bracis/</link>
+      <link>http://localhost:1313/~ddm/publication/silveira-2018-bracis/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/silveira-2018-bracis/</guid>
+      <guid>http://localhost:1313/~ddm/publication/silveira-2018-bracis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>When a Robot Reaches Out for Human Help</title>
-      <link>https://www.ime.usp.br/~ddm/publication/andres-2018-iberamia/</link>
+      <link>http://localhost:1313/~ddm/publication/andres-2018-iberamia/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/andres-2018-iberamia/</guid>
+      <guid>http://localhost:1313/~ddm/publication/andres-2018-iberamia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Approximation Complexity of Maximum A Posteriori Inference in Sum-Product Networks</title>
-      <link>https://www.ime.usp.br/~ddm/publication/conaty-2017-uai/</link>
+      <link>http://localhost:1313/~ddm/publication/conaty-2017-uai/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/conaty-2017-uai/</guid>
+      <guid>http://localhost:1313/~ddm/publication/conaty-2017-uai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Closed-Form Solutions in Learning Probabilistic Logic Programs by Exact Score Maximization</title>
-      <link>https://www.ime.usp.br/~ddm/publication/defaria-2017-sum/</link>
+      <link>http://localhost:1313/~ddm/publication/defaria-2017-sum/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/defaria-2017-sum/</guid>
+      <guid>http://localhost:1313/~ddm/publication/defaria-2017-sum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Credal Sum-Product Networks</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2017-isipta/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2017-isipta/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2017-isipta/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2017-isipta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling Markov Decision Processes with Imprecise Probabilities Using Probabilistic Logic Programming</title>
-      <link>https://www.ime.usp.br/~ddm/publication/bueno-2017-isipta/</link>
+      <link>http://localhost:1313/~ddm/publication/bueno-2017-isipta/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/bueno-2017-isipta/</guid>
+      <guid>http://localhost:1313/~ddm/publication/bueno-2017-isipta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Using Sum-Product Networks For Multi-Label Classification</title>
-      <link>https://www.ime.usp.br/~ddm/publication/villanueva-2017-bracis/</link>
+      <link>http://localhost:1313/~ddm/publication/villanueva-2017-bracis/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/villanueva-2017-bracis/</guid>
+      <guid>http://localhost:1313/~ddm/publication/villanueva-2017-bracis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parameter Learning in ProbLog with Probabilistic Rules</title>
-      <link>https://www.ime.usp.br/~ddm/publication/de-faria-2017-kdmile/</link>
+      <link>http://localhost:1313/~ddm/publication/de-faria-2017-kdmile/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/de-faria-2017-kdmile/</guid>
+      <guid>http://localhost:1313/~ddm/publication/de-faria-2017-kdmile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speeding-up ProbLog&#39;s Parameter Learning</title>
-      <link>https://www.ime.usp.br/~ddm/publication/defaria-2017-starai/</link>
+      <link>http://localhost:1313/~ddm/publication/defaria-2017-starai/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/defaria-2017-starai/</guid>
+      <guid>http://localhost:1313/~ddm/publication/defaria-2017-starai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Complexity of Inferences and Explanations in Probabilistic Logic Programming</title>
-      <link>https://www.ime.usp.br/~ddm/publication/cozman-2017-ecsqaru-b/</link>
+      <link>http://localhost:1313/~ddm/publication/cozman-2017-ecsqaru-b/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2017-ecsqaru-b/</guid>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2017-ecsqaru-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Descriptive Complexity of Bayesian Network Specifications</title>
-      <link>https://www.ime.usp.br/~ddm/publication/cozman-2017-ecsqaru-a/</link>
+      <link>http://localhost:1313/~ddm/publication/cozman-2017-ecsqaru-a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2017-ecsqaru-a/</guid>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2017-ecsqaru-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>University Entrance Exam as a Guiding Test for Artificial Intelligence</title>
-      <link>https://www.ime.usp.br/~ddm/publication/silveira-2017-bracis/</link>
+      <link>http://localhost:1313/~ddm/publication/silveira-2017-bracis/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/silveira-2017-bracis/</guid>
+      <guid>http://localhost:1313/~ddm/publication/silveira-2017-bracis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Acyclic Selection Order-Based Bayesian Network Structure Learning</title>
-      <link>https://www.ime.usp.br/~ddm/publication/perez-2016-eniac/</link>
+      <link>http://localhost:1313/~ddm/publication/perez-2016-eniac/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/perez-2016-eniac/</guid>
+      <guid>http://localhost:1313/~ddm/publication/perez-2016-eniac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markov Decision Processes Specified by Probabilistic Logic Programming: Representation and Solution</title>
-      <link>https://www.ime.usp.br/~ddm/publication/bueno-2016-bracis/</link>
+      <link>http://localhost:1313/~ddm/publication/bueno-2016-bracis/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/bueno-2016-bracis/</guid>
+      <guid>http://localhost:1313/~ddm/publication/bueno-2016-bracis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Graphical Models Specified by Probabilistic Logic Programs: Semantics and Complexity</title>
-      <link>https://www.ime.usp.br/~ddm/publication/cozman-2016-pgm/</link>
+      <link>http://localhost:1313/~ddm/publication/cozman-2016-pgm/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2016-pgm/</guid>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2016-pgm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effect of Combination Functions on the Complexity of Relational Bayesian Networks</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2016-pgm/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2016-pgm/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2016-pgm/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2016-pgm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The structure and complexity of credal semantics</title>
-      <link>https://www.ime.usp.br/~ddm/publication/cozman-2016-wplp/</link>
+      <link>http://localhost:1313/~ddm/publication/cozman-2016-wplp/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2016-wplp/</guid>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2016-wplp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Well-Founded Semantics of Cyclic Probabilistic Logic Programs</title>
-      <link>https://www.ime.usp.br/~ddm/publication/cozman-2016-eniac/</link>
+      <link>http://localhost:1313/~ddm/publication/cozman-2016-eniac/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2016-eniac/</guid>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2016-eniac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Tractable Class of Model Counting Problems</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2015-eniac/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2015-eniac/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2015-eniac/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2015-eniac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Networks of Bounded Treewith: A Performance Analysis</title>
-      <link>https://www.ime.usp.br/~ddm/publication/machado-2015-eniac/</link>
+      <link>http://localhost:1313/~ddm/publication/machado-2015-eniac/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/machado-2015-eniac/</guid>
+      <guid>http://localhost:1313/~ddm/publication/machado-2015-eniac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Networks Specified Using Propositional and Relational Constructs: Combined, Data, and Domain Complexity</title>
-      <link>https://www.ime.usp.br/~ddm/publication/cozman-2015-aaai/</link>
+      <link>http://localhost:1313/~ddm/publication/cozman-2015-aaai/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2015-aaai/</guid>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2015-aaai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DL-Lite Bayesian Networks: A Tractable Probabilistic Graphical Model</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2015-sum/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2015-sum/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2015-sum/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2015-sum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Early classification of time series by hidden Markov models with set-valued parameters</title>
-      <link>https://www.ime.usp.br/~ddm/publication/antonucci-2015-d/</link>
+      <link>http://localhost:1313/~ddm/publication/antonucci-2015-d/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/antonucci-2015-d/</guid>
+      <guid>http://localhost:1313/~ddm/publication/antonucci-2015-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initialization Heuristics for Greedy Bayesian Network Structure Learning</title>
-      <link>https://www.ime.usp.br/~ddm/publication/perez-2015-kdmile/</link>
+      <link>http://localhost:1313/~ddm/publication/perez-2015-kdmile/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/perez-2015-kdmile/</guid>
+      <guid>http://localhost:1313/~ddm/publication/perez-2015-kdmile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Complexity of Propositional and Relational Credal Networks</title>
-      <link>https://www.ime.usp.br/~ddm/publication/cozman-2015-isipta/</link>
+      <link>http://localhost:1313/~ddm/publication/cozman-2015-isipta/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2015-isipta/</guid>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2015-isipta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Specifying Probabilistic Relational Models with Description Logics</title>
-      <link>https://www.ime.usp.br/~ddm/publication/cozman-2015-eniac/</link>
+      <link>http://localhost:1313/~ddm/publication/cozman-2015-eniac/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2015-eniac/</guid>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2015-eniac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Complexity of MAP Inference in Bayesian Networks Specified Through Logical Languages</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2015-ijcai/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2015-ijcai/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2015-ijcai/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2015-ijcai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Complexity of Plate Probabilistic Models</title>
-      <link>https://www.ime.usp.br/~ddm/publication/cozman-2015-sum/</link>
+      <link>http://localhost:1313/~ddm/publication/cozman-2015-sum/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/cozman-2015-sum/</guid>
+      <guid>http://localhost:1313/~ddm/publication/cozman-2015-sum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advances in Learning Bayesian Networks of Bounded Treewidth</title>
-      <link>https://www.ime.usp.br/~ddm/publication/nie-2014-nips/</link>
+      <link>http://localhost:1313/~ddm/publication/nie-2014-nips/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/nie-2014-nips/</guid>
+      <guid>http://localhost:1313/~ddm/publication/nie-2014-nips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algorithms for Hidden Markov Models With Imprecisely Specified Parameters</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2014-bracis/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2014-bracis/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2014-bracis/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2014-bracis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equivalences between Maximum a Posteriori Inference in Bayesian Networks and Maximum Expected Utility Computation in Influence Diagrams</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2014-pgm-a/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2014-pgm-a/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2014-pgm-a/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2014-pgm-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speeding Up k-Neighborhood Local Search in Limited Memory Influence Diagrams</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2014-pgm-b/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2014-pgm-b/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2014-pgm-b/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2014-pgm-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trading off Speed and Accuracy in Multilabel Classification</title>
-      <link>https://www.ime.usp.br/~ddm/publication/corani-2014-pgm/</link>
+      <link>http://localhost:1313/~ddm/publication/corani-2014-pgm/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/corani-2014-pgm/</guid>
+      <guid>http://localhost:1313/~ddm/publication/corani-2014-pgm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Ensemble of Bayesian Networks for Multilabel Classification</title>
-      <link>https://www.ime.usp.br/~ddm/publication/antonucci-2013-ijcai/</link>
+      <link>http://localhost:1313/~ddm/publication/antonucci-2013-ijcai/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/antonucci-2013-ijcai/</guid>
+      <guid>http://localhost:1313/~ddm/publication/antonucci-2013-ijcai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Complexity of Strong and Epistemic Credal Networks</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2013-uai/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2013-uai/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2013-uai/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2013-uai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anytime Marginal MAP Inference</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2012-icml/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2012-icml/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2012-icml/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2012-icml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Complexity of Approximately Solving Influence Diagrams</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2012-uai/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2012-uai/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2012-uai/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2012-uai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Fully Polynomial Time Approximation Scheme for Updating Credal Networks of Bounded Treewidth and Number of Variable States</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2011-isipta/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2011-isipta/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2011-isipta/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2011-isipta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving Decision Problems with Limited Information</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2011-nips/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2011-nips/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2011-nips/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2011-nips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Utility-Based Accuracy Measures to Empirically Evaluate Credal Classifiers</title>
-      <link>https://www.ime.usp.br/~ddm/publication/zaffalon-2011-isipta/</link>
+      <link>http://localhost:1313/~ddm/publication/zaffalon-2011-isipta/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/zaffalon-2011-isipta/</guid>
+      <guid>http://localhost:1313/~ddm/publication/zaffalon-2011-isipta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Representing and Classifying User Reviews</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2009-enia/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2009-enia/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2009-enia/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2009-enia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Managing Trust in Virtual Communities with Markov Logic</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2008-wtdia/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2008-wtdia/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2008-wtdia/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2008-wtdia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Social Data to Predict Trust on Web Communities : A Case Study with the Epinions.com Website</title>
-      <link>https://www.ime.usp.br/~ddm/publication/maua-2008-wiva/</link>
+      <link>http://localhost:1313/~ddm/publication/maua-2008-wiva/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://www.ime.usp.br/~ddm/publication/maua-2008-wiva/</guid>
+      <guid>http://localhost:1313/~ddm/publication/maua-2008-wiva/</guid>
       <description></description>
     </item>
     
