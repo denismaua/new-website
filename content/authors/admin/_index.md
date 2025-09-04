@@ -9,6 +9,9 @@ title: Denis D. Mauá
 first_name: Denis
 last_name: Deratani Mauá
 
+# Pronouns (optional)
+pronouns: she/her
+
 # Status emoji
 # status:
 #   icon: ☕️
